@@ -522,56 +522,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lPdmYMHrWKg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lPdmYMHrWKg&title=Someone+Is+Paying+Influencers+to+Scare+You+About+AI&lang=en&timestamp=1788622185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=441">
+          <img src="https://ytcards.demolab.com/?id=lPdmYMHrWKg&title=Someone+Is+Paying+Influencers+to+Scare+You+About+AI&lang=en&timestamp=1788622185&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=441" alt="Someone Is Paying Influencers to Scare You About AI" title="Someone Is Paying Influencers to Scare You About AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=h9C7I3zmt8E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788650042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395">
-          <img src="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788650042&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=395" alt="AI REVOLUTION: The role of tokens in the US’s economic future" title="AI REVOLUTION: The role of tokens in the US’s economic future">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=b8U8ak-FlYg" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b8U8ak-FlYg&title=We+Got+Artificial+Intelligence+Completely+Backwards&lang=en&timestamp=1788610442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=434">
-          <img src="https://ytcards.demolab.com/?id=b8U8ak-FlYg&title=We+Got+Artificial+Intelligence+Completely+Backwards&lang=en&timestamp=1788610442&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=434" alt="We Got Artificial Intelligence Completely Backwards" title="We Got Artificial Intelligence Completely Backwards">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iEe2Ufk5DnA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iEe2Ufk5DnA&title=Why+opposition+to+AI+data+centers+is+growing+in+the+US+%7C+DW+Reporter&lang=en&timestamp=1788610442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=907">
-          <img src="https://ytcards.demolab.com/?id=iEe2Ufk5DnA&title=Why+opposition+to+AI+data+centers+is+growing+in+the+US+%7C+DW+Reporter&lang=en&timestamp=1788610442&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=907" alt="Why opposition to AI data centers is growing in the US | DW Reporter" title="Why opposition to AI data centers is growing in the US | DW Reporter">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6Q7HBYLbtZo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6Q7HBYLbtZo&title=Disdain+growing+over+AI-generated+music&lang=en&timestamp=1788628442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=275">
-          <img src="https://ytcards.demolab.com/?id=6Q7HBYLbtZo&title=Disdain+growing+over+AI-generated+music&lang=en&timestamp=1788628442&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=275" alt="Disdain growing over AI-generated music" title="Disdain growing over AI-generated music">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xosdn-bA1XU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788603242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=991">
-          <img src="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788603242&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=991" alt="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence" title="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788650985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395">
+          <img src="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788650985&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=395" alt="AI REVOLUTION: The role of tokens in the US’s economic future" title="AI REVOLUTION: The role of tokens in the US’s economic future">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=rG3_eSOT_R4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788610442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1446">
-          <img src="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788610442&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1446" alt="China Just Built a Living Computer — And We’re Not Ready" title="China Just Built a Living Computer — And We’re Not Ready">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788614985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1446">
+          <img src="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788614985&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1446" alt="China Just Built a Living Computer — And We’re Not Ready" title="China Just Built a Living Computer — And We’re Not Ready">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=iEe2Ufk5DnA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iEe2Ufk5DnA&title=Why+opposition+to+AI+data+centers+is+growing+in+the+US+%7C+DW+Reporter&lang=en&timestamp=1788614985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=907">
+          <img src="https://ytcards.demolab.com/?id=iEe2Ufk5DnA&title=Why+opposition+to+AI+data+centers+is+growing+in+the+US+%7C+DW+Reporter&lang=en&timestamp=1788614985&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=907" alt="Why opposition to AI data centers is growing in the US | DW Reporter" title="Why opposition to AI data centers is growing in the US | DW Reporter">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4WM5m2bXJ6A" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Howard+Lutnick+BUSTS+Himself&lang=en&timestamp=1788625785&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
+          <img src="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Howard+Lutnick+BUSTS+Himself&lang=en&timestamp=1788625785&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="Howard Lutnick BUSTS Himself" title="Howard Lutnick BUSTS Himself">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ICH7EfA5NcY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ICH7EfA5NcY&title=State+Allows+Judges+to+Use+AI+For+SOME+of+Their+Legal+Work&lang=en&timestamp=1788618585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=670">
+          <img src="https://ytcards.demolab.com/?id=ICH7EfA5NcY&title=State+Allows+Judges+to+Use+AI+For+SOME+of+Their+Legal+Work&lang=en&timestamp=1788618585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=670" alt="State Allows Judges to Use AI For SOME of Their Legal Work" title="State Allows Judges to Use AI For SOME of Their Legal Work">
         </picture>
       </a>
     </td>
