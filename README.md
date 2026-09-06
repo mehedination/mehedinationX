@@ -520,56 +520,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kkXp8q2FHV0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=h9C7I3zmt8E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788476144&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
-          <img src="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788476144&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence" title="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788649266&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395">
+          <img src="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788649266&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=395" alt="AI REVOLUTION: The role of tokens in the US’s economic future" title="AI REVOLUTION: The role of tokens in the US’s economic future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-OeXgrY3bss" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xosdn-bA1XU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-OeXgrY3bss&title=A.I.+Is+Outsmarting+Its+Creators&lang=en&timestamp=1788476144&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2437">
-          <img src="https://ytcards.demolab.com/?id=-OeXgrY3bss&title=A.I.+Is+Outsmarting+Its+Creators&lang=en&timestamp=1788476144&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2437" alt="A.I. Is Outsmarting Its Creators" title="A.I. Is Outsmarting Its Creators">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788602466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=991">
+          <img src="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788602466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=991" alt="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence" title="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ryiunSg5UhU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4WM5m2bXJ6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ryiunSg5UhU&title=U.S.+Open+embraces+artificial+intelligence%2C+reshaping+the+tournament&lang=en&timestamp=1788558944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111">
-          <img src="https://ytcards.demolab.com/?id=ryiunSg5UhU&title=U.S.+Open+embraces+artificial+intelligence%2C+reshaping+the+tournament&lang=en&timestamp=1788558944&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=111" alt="U.S. Open embraces artificial intelligence, reshaping the tournament" title="U.S. Open embraces artificial intelligence, reshaping the tournament">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Howard+Lutnick+BUSTS+Himself&lang=en&timestamp=1788624066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
+          <img src="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Howard+Lutnick+BUSTS+Himself&lang=en&timestamp=1788624066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="Howard Lutnick BUSTS Himself" title="Howard Lutnick BUSTS Himself">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XoMbO5XDGdQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fDCM0_uhk7E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XoMbO5XDGdQ&title=Can+Bernie+Sanders+Actually+BAN+Artificial+Intelligence%3F&lang=en&timestamp=1788559724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200">
-          <img src="https://ytcards.demolab.com/?id=XoMbO5XDGdQ&title=Can+Bernie+Sanders+Actually+BAN+Artificial+Intelligence%3F&lang=en&timestamp=1788559724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1200" alt="Can Bernie Sanders Actually BAN Artificial Intelligence?" title="Can Bernie Sanders Actually BAN Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDCM0_uhk7E&title=MAMDANI%2C+BERNIE+SANDERS+%26+THE+FIGHT+OVER+AI&lang=en&timestamp=1788580866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2515">
+          <img src="https://ytcards.demolab.com/?id=fDCM0_uhk7E&title=MAMDANI%2C+BERNIE+SANDERS+%26+THE+FIGHT+OVER+AI&lang=en&timestamp=1788580866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2515" alt="MAMDANI, BERNIE SANDERS & THE FIGHT OVER AI" title="MAMDANI, BERNIE SANDERS & THE FIGHT OVER AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bzPFl-Ixqe0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rG3_eSOT_R4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bzPFl-Ixqe0&title=Tech+execs+%22don%27t+have+their+kids+learning+AI%2C%22+educational+organizer+on+push+to+remove+AI+teaching&lang=en&timestamp=1788476144&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=306">
-          <img src="https://ytcards.demolab.com/?id=bzPFl-Ixqe0&title=Tech+execs+%22don%27t+have+their+kids+learning+AI%2C%22+educational+organizer+on+push+to+remove+AI+teaching&lang=en&timestamp=1788476144&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=306" alt="Tech execs &quot;don't have their kids learning AI,&quot; educational organizer on push to remove AI teaching" title="Tech execs &quot;don't have their kids learning AI,&quot; educational organizer on push to remove AI teaching">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788609666&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1446">
+          <img src="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788609666&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1446" alt="China Just Built a Living Computer — And We’re Not Ready" title="China Just Built a Living Computer — And We’re Not Ready">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1bFSLmcX438" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M03GQp4Z21M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1bFSLmcX438&title=AI-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%80%E0%AE%B0%E0%AF%8D+%E0%AE%A4%E0%AE%9F%E0%AF%88&lang=en&timestamp=1788512144&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
-          <img src="https://ytcards.demolab.com/?id=1bFSLmcX438&title=AI-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%80%E0%AE%B0%E0%AF%8D+%E0%AE%A4%E0%AE%9F%E0%AF%88&lang=en&timestamp=1788512144&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="AI-க்கு திடீர் தடை" title="AI-க்கு திடீர் தடை">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M03GQp4Z21M&title=Trump%E2%80%99s+Real+Anxiety%3A+US+Agencies+Told+to+Prepare+Intelligence+for+Extreme+Action+Against+China%3F&lang=en&timestamp=1788620466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
+          <img src="https://ytcards.demolab.com/?id=M03GQp4Z21M&title=Trump%E2%80%99s+Real+Anxiety%3A+US+Agencies+Told+to+Prepare+Intelligence+for+Extreme+Action+Against+China%3F&lang=en&timestamp=1788620466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="Trump’s Real Anxiety: US Agencies Told to Prepare Intelligence for Extreme Action Against China?" title="Trump’s Real Anxiety: US Agencies Told to Prepare Intelligence for Extreme Action Against China?">
         </picture>
       </a>
     </td>
