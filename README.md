@@ -525,56 +525,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=mUw27wG7uFA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUw27wG7uFA&title=AI+Simplified%3A+6+Concepts+You+Need+to+Know+About+Modern+AI&lang=en&timestamp=1788695931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
-          <img src="https://ytcards.demolab.com/?id=mUw27wG7uFA&title=AI+Simplified%3A+6+Concepts+You+Need+to+Know+About+Modern+AI&lang=en&timestamp=1788695931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="AI Simplified: 6 Concepts You Need to Know About Modern AI" title="AI Simplified: 6 Concepts You Need to Know About Modern AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUw27wG7uFA&title=AI+Simplified%3A+6+Concepts+You+Need+to+Know+About+Modern+AI&lang=en&timestamp=1788693246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
+          <img src="https://ytcards.demolab.com/?id=mUw27wG7uFA&title=AI+Simplified%3A+6+Concepts+You+Need+to+Know+About+Modern+AI&lang=en&timestamp=1788693246&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="AI Simplified: 6 Concepts You Need to Know About Modern AI" title="AI Simplified: 6 Concepts You Need to Know About Modern AI">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=lPdmYMHrWKg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lPdmYMHrWKg&title=I+Was+Offered+Money+to+Tell+You+AI+Will+Kill+Us&lang=en&timestamp=1788634731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=441">
-          <img src="https://ytcards.demolab.com/?id=lPdmYMHrWKg&title=I+Was+Offered+Money+to+Tell+You+AI+Will+Kill+Us&lang=en&timestamp=1788634731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=441" alt="I Was Offered Money to Tell You AI Will Kill Us" title="I Was Offered Money to Tell You AI Will Kill Us">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lPdmYMHrWKg&title=I+Was+Offered+Money+to+Tell+You+AI+Will+Kill+Us&lang=en&timestamp=1788642846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=441">
+          <img src="https://ytcards.demolab.com/?id=lPdmYMHrWKg&title=I+Was+Offered+Money+to+Tell+You+AI+Will+Kill+Us&lang=en&timestamp=1788642846&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=441" alt="I Was Offered Money to Tell You AI Will Kill Us" title="I Was Offered Money to Tell You AI Will Kill Us">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nTqCVJFr7XM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=t3To95ey53M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nTqCVJFr7XM&title=Cory+Doctorow+on+the+Big+AI+Lie+%7C+Downstream+with+Michael+Walker&lang=en&timestamp=1788706731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7819">
-          <img src="https://ytcards.demolab.com/?id=nTqCVJFr7XM&title=Cory+Doctorow+on+the+Big+AI+Lie+%7C+Downstream+with+Michael+Walker&lang=en&timestamp=1788706731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7819" alt="Cory Doctorow on the Big AI Lie | Downstream with Michael Walker" title="Cory Doctorow on the Big AI Lie | Downstream with Michael Walker">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t3To95ey53M&title=AI%3A+Intelligent%2C+Conscious%2C+Psy-op%E2%80%A6+or+Something+Else+Entirely%3F+-+with+Martin+Liedke&lang=en&timestamp=1788689646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5896">
+          <img src="https://ytcards.demolab.com/?id=t3To95ey53M&title=AI%3A+Intelligent%2C+Conscious%2C+Psy-op%E2%80%A6+or+Something+Else+Entirely%3F+-+with+Martin+Liedke&lang=en&timestamp=1788689646&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5896" alt="AI: Intelligent, Conscious, Psy-op… or Something Else Entirely? - with Martin Liedke" title="AI: Intelligent, Conscious, Psy-op… or Something Else Entirely? - with Martin Liedke">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=nTqCVJFr7XM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nTqCVJFr7XM&title=Cory+Doctorow+on+the+Big+AI+Lie+%7C+Downstream+with+Michael+Walker&lang=en&timestamp=1788704046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7819">
+          <img src="https://ytcards.demolab.com/?id=nTqCVJFr7XM&title=Cory+Doctorow+on+the+Big+AI+Lie+%7C+Downstream+with+Michael+Walker&lang=en&timestamp=1788704046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7819" alt="Cory Doctorow on the Big AI Lie | Downstream with Michael Walker" title="Cory Doctorow on the Big AI Lie | Downstream with Michael Walker">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=CtiboPRA46M" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CtiboPRA46M&title=AI+Keeps+Evolving+-+What+Other+Records+Is+Artificial+Intelligence+Expected+to+Break%3F&lang=en&timestamp=1788722046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=225">
+          <img src="https://ytcards.demolab.com/?id=CtiboPRA46M&title=AI+Keeps+Evolving+-+What+Other+Records+Is+Artificial+Intelligence+Expected+to+Break%3F&lang=en&timestamp=1788722046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=225" alt="AI Keeps Evolving - What Other Records Is Artificial Intelligence Expected to Break?" title="AI Keeps Evolving - What Other Records Is Artificial Intelligence Expected to Break?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=h9C7I3zmt8E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788649131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395">
-          <img src="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788649131&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=395" alt="AI REVOLUTION: The role of tokens in the US’s economic future" title="AI REVOLUTION: The role of tokens in the US’s economic future">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4WM5m2bXJ6A" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Howard+Lutnick+BUSTS+Himself&lang=en&timestamp=1788634731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
-          <img src="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Howard+Lutnick+BUSTS+Himself&lang=en&timestamp=1788634731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="Howard Lutnick BUSTS Himself" title="Howard Lutnick BUSTS Himself">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ICH7EfA5NcY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ICH7EfA5NcY&title=State+Allows+Judges+to+Use+AI+For+SOME+of+Their+Legal+Work&lang=en&timestamp=1788634731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=670">
-          <img src="https://ytcards.demolab.com/?id=ICH7EfA5NcY&title=State+Allows+Judges+to+Use+AI+For+SOME+of+Their+Legal+Work&lang=en&timestamp=1788634731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=670" alt="State Allows Judges to Use AI For SOME of Their Legal Work" title="State Allows Judges to Use AI For SOME of Their Legal Work">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788650046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395">
+          <img src="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788650046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=395" alt="AI REVOLUTION: The role of tokens in the US’s economic future" title="AI REVOLUTION: The role of tokens in the US’s economic future">
         </picture>
       </a>
     </td>
