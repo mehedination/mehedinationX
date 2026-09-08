@@ -530,56 +530,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=SNNRhxNqW-Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNNRhxNqW-Q&title=The+New+AGI+breakthrough+Is+Far+Crazier+Than+People+Realize&lang=en&timestamp=1788805541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6935">
-          <img src="https://ytcards.demolab.com/?id=SNNRhxNqW-Q&title=The+New+AGI+breakthrough+Is+Far+Crazier+Than+People+Realize&lang=en&timestamp=1788805541&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6935" alt="The New AGI breakthrough Is Far Crazier Than People Realize" title="The New AGI breakthrough Is Far Crazier Than People Realize">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNNRhxNqW-Q&title=The+New+AGI+breakthrough+Is+Far+Crazier+Than+People+Realize&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6935">
+          <img src="https://ytcards.demolab.com/?id=SNNRhxNqW-Q&title=The+New+AGI+breakthrough+Is+Far+Crazier+Than+People+Realize&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6935" alt="The New AGI breakthrough Is Far Crazier Than People Realize" title="The New AGI breakthrough Is Far Crazier Than People Realize">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=btpRfPC3Yhw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788805541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
-          <img src="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788805541&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?" title="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
+          <img src="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?" title="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=W87dml784bk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W87dml784bk&title=Artificial+Intelligence%2C+Human+Connection+%7C+Chris+Rhyss+Edwards+%7C+TEDxQUT&lang=en&timestamp=1788888341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
-          <img src="https://ytcards.demolab.com/?id=W87dml784bk&title=Artificial+Intelligence%2C+Human+Connection+%7C+Chris+Rhyss+Edwards+%7C+TEDxQUT&lang=en&timestamp=1788888341&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="Artificial Intelligence, Human Connection | Chris Rhyss Edwards | TEDxQUT" title="Artificial Intelligence, Human Connection | Chris Rhyss Edwards | TEDxQUT">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W87dml784bk&title=Artificial+Intelligence%2C+Human+Connection+%7C+Chris+Rhyss+Edwards+%7C+TEDxQUT&lang=en&timestamp=1788889401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
+          <img src="https://ytcards.demolab.com/?id=W87dml784bk&title=Artificial+Intelligence%2C+Human+Connection+%7C+Chris+Rhyss+Edwards+%7C+TEDxQUT&lang=en&timestamp=1788889401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="Artificial Intelligence, Human Connection | Chris Rhyss Edwards | TEDxQUT" title="Artificial Intelligence, Human Connection | Chris Rhyss Edwards | TEDxQUT">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dptvBZt283o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s9UhVEWT7Z4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dptvBZt283o&title=AI+could+pose+%E2%80%98existential%E2%80%99+risk+to+humanity%2C+UN+rights+chief+warns&lang=en&timestamp=1788805541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
-          <img src="https://ytcards.demolab.com/?id=dptvBZt283o&title=AI+could+pose+%E2%80%98existential%E2%80%99+risk+to+humanity%2C+UN+rights+chief+warns&lang=en&timestamp=1788805541&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="AI could pose ‘existential’ risk to humanity, UN rights chief warns" title="AI could pose ‘existential’ risk to humanity, UN rights chief warns">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KFc2HE2K_o4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KFc2HE2K_o4&title=09.08.26+%7C+Artificial+Intelligence+Commodity+or+Curse%3F&lang=en&timestamp=1788884741&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2539">
-          <img src="https://ytcards.demolab.com/?id=KFc2HE2K_o4&title=09.08.26+%7C+Artificial+Intelligence+Commodity+or+Curse%3F&lang=en&timestamp=1788884741&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2539" alt="09.08.26 | Artificial Intelligence Commodity or Curse?" title="09.08.26 | Artificial Intelligence Commodity or Curse?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s9UhVEWT7Z4&title=A.I+Artificial+Intelligence+%7C+Beyond+Human+Intelligence+%7C+Beyond+Infinity&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=544">
+          <img src="https://ytcards.demolab.com/?id=s9UhVEWT7Z4&title=A.I+Artificial+Intelligence+%7C+Beyond+Human+Intelligence+%7C+Beyond+Infinity&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=544" alt="A.I Artificial Intelligence | Beyond Human Intelligence | Beyond Infinity" title="A.I Artificial Intelligence | Beyond Human Intelligence | Beyond Infinity">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wzgkc6Iegx8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzgkc6Iegx8&title=When+A.I.+Becomes+an+Enemy+-+Connor+Leahy&lang=en&timestamp=1788805541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3847">
-          <img src="https://ytcards.demolab.com/?id=wzgkc6Iegx8&title=When+A.I.+Becomes+an+Enemy+-+Connor+Leahy&lang=en&timestamp=1788805541&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3847" alt="When A.I. Becomes an Enemy - Connor Leahy" title="When A.I. Becomes an Enemy - Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzgkc6Iegx8&title=When+A.I.+Becomes+an+Enemy+-+Connor+Leahy&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3847">
+          <img src="https://ytcards.demolab.com/?id=wzgkc6Iegx8&title=When+A.I.+Becomes+an+Enemy+-+Connor+Leahy&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3847" alt="When A.I. Becomes an Enemy - Connor Leahy" title="When A.I. Becomes an Enemy - Connor Leahy">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=dptvBZt283o" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dptvBZt283o&title=AI+could+pose+%E2%80%98existential%E2%80%99+risk+to+humanity%2C+UN+rights+chief+warns&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
+          <img src="https://ytcards.demolab.com/?id=dptvBZt283o&title=AI+could+pose+%E2%80%98existential%E2%80%99+risk+to+humanity%2C+UN+rights+chief+warns&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="AI could pose ‘existential’ risk to humanity, UN rights chief warns" title="AI could pose ‘existential’ risk to humanity, UN rights chief warns">
         </picture>
       </a>
     </td>
