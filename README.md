@@ -529,56 +529,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=t3To95ey53M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SNNRhxNqW-Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t3To95ey53M&title=AI%3A+Intelligent%2C+Conscious%2C+Psy-op%E2%80%A6+or+Something+Else+Entirely%3F+-+with+Martin+Liedke&lang=en&timestamp=1788736923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5896">
-          <img src="https://ytcards.demolab.com/?id=t3To95ey53M&title=AI%3A+Intelligent%2C+Conscious%2C+Psy-op%E2%80%A6+or+Something+Else+Entirely%3F+-+with+Martin+Liedke&lang=en&timestamp=1788736923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5896" alt="AI: Intelligent, Conscious, Psy-op… or Something Else Entirely? - with Martin Liedke" title="AI: Intelligent, Conscious, Psy-op… or Something Else Entirely? - with Martin Liedke">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mUw27wG7uFA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUw27wG7uFA&title=AI+Simplified%3A+6+Concepts+You+Need+to+Know+About+Modern+AI&lang=en&timestamp=1788736923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
-          <img src="https://ytcards.demolab.com/?id=mUw27wG7uFA&title=AI+Simplified%3A+6+Concepts+You+Need+to+Know+About+Modern+AI&lang=en&timestamp=1788736923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="AI Simplified: 6 Concepts You Need to Know About Modern AI" title="AI Simplified: 6 Concepts You Need to Know About Modern AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UESWothNgp4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UESWothNgp4&title=Will+the+US+or+China+emerge+as+the+AI+superpower%3F+%7C+Counting+The+Cost&lang=en&timestamp=1788736923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1681">
-          <img src="https://ytcards.demolab.com/?id=UESWothNgp4&title=Will+the+US+or+China+emerge+as+the+AI+superpower%3F+%7C+Counting+The+Cost&lang=en&timestamp=1788736923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1681" alt="Will the US or China emerge as the AI superpower? | Counting The Cost" title="Will the US or China emerge as the AI superpower? | Counting The Cost">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nTqCVJFr7XM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nTqCVJFr7XM&title=Cory+Doctorow+on+the+Big+AI+Lie+%7C+Downstream+with+Michael+Walker&lang=en&timestamp=1788736923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7819">
-          <img src="https://ytcards.demolab.com/?id=nTqCVJFr7XM&title=Cory+Doctorow+on+the+Big+AI+Lie+%7C+Downstream+with+Michael+Walker&lang=en&timestamp=1788736923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7819" alt="Cory Doctorow on the Big AI Lie | Downstream with Michael Walker" title="Cory Doctorow on the Big AI Lie | Downstream with Michael Walker">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KEeiUTqDMx4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KEeiUTqDMx4&title=Steve+Kornacki+breaks+down+a+new+poll+on+data+centers+and+AI&lang=en&timestamp=1788736923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=254">
-          <img src="https://ytcards.demolab.com/?id=KEeiUTqDMx4&title=Steve+Kornacki+breaks+down+a+new+poll+on+data+centers+and+AI&lang=en&timestamp=1788736923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=254" alt="Steve Kornacki breaks down a new poll on data centers and AI" title="Steve Kornacki breaks down a new poll on data centers and AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNNRhxNqW-Q&title=The+New+AGI+breakthrough+Is+Far+Crazier+Than+People+Realize&lang=en&timestamp=1788805541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6935">
+          <img src="https://ytcards.demolab.com/?id=SNNRhxNqW-Q&title=The+New+AGI+breakthrough+Is+Far+Crazier+Than+People+Realize&lang=en&timestamp=1788805541&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6935" alt="The New AGI breakthrough Is Far Crazier Than People Realize" title="The New AGI breakthrough Is Far Crazier Than People Realize">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=btpRfPC3Yhw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788801723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
-          <img src="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788801723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?" title="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788805541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
+          <img src="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788805541&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?" title="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=W87dml784bk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W87dml784bk&title=Artificial+Intelligence%2C+Human+Connection+%7C+Chris+Rhyss+Edwards+%7C+TEDxQUT&lang=en&timestamp=1788888341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
+          <img src="https://ytcards.demolab.com/?id=W87dml784bk&title=Artificial+Intelligence%2C+Human+Connection+%7C+Chris+Rhyss+Edwards+%7C+TEDxQUT&lang=en&timestamp=1788888341&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="Artificial Intelligence, Human Connection | Chris Rhyss Edwards | TEDxQUT" title="Artificial Intelligence, Human Connection | Chris Rhyss Edwards | TEDxQUT">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=dptvBZt283o" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dptvBZt283o&title=AI+could+pose+%E2%80%98existential%E2%80%99+risk+to+humanity%2C+UN+rights+chief+warns&lang=en&timestamp=1788805541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
+          <img src="https://ytcards.demolab.com/?id=dptvBZt283o&title=AI+could+pose+%E2%80%98existential%E2%80%99+risk+to+humanity%2C+UN+rights+chief+warns&lang=en&timestamp=1788805541&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="AI could pose ‘existential’ risk to humanity, UN rights chief warns" title="AI could pose ‘existential’ risk to humanity, UN rights chief warns">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=KFc2HE2K_o4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KFc2HE2K_o4&title=09.08.26+%7C+Artificial+Intelligence+Commodity+or+Curse%3F&lang=en&timestamp=1788884741&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2539">
+          <img src="https://ytcards.demolab.com/?id=KFc2HE2K_o4&title=09.08.26+%7C+Artificial+Intelligence+Commodity+or+Curse%3F&lang=en&timestamp=1788884741&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2539" alt="09.08.26 | Artificial Intelligence Commodity or Curse?" title="09.08.26 | Artificial Intelligence Commodity or Curse?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=wzgkc6Iegx8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzgkc6Iegx8&title=When+A.I.+Becomes+an+Enemy+-+Connor+Leahy&lang=en&timestamp=1788805541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3847">
+          <img src="https://ytcards.demolab.com/?id=wzgkc6Iegx8&title=When+A.I.+Becomes+an+Enemy+-+Connor+Leahy&lang=en&timestamp=1788805541&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3847" alt="When A.I. Becomes an Enemy - Connor Leahy" title="When A.I. Becomes an Enemy - Connor Leahy">
         </picture>
       </a>
     </td>
