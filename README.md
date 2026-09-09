@@ -532,56 +532,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4c984axkdsc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4c984axkdsc&title=What+is+artificial+general+intelligence%3F+OpenAI+celebrates+GPT-6+Astra+release&lang=en&timestamp=1788877112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=236">
-          <img src="https://ytcards.demolab.com/?id=4c984axkdsc&title=What+is+artificial+general+intelligence%3F+OpenAI+celebrates+GPT-6+Astra+release&lang=en&timestamp=1788877112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=236" alt="What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release" title="What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=Dbe3j8HI06I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dbe3j8HI06I&title=How+AI+is+affecting+our+kids&lang=en&timestamp=1788909512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
-          <img src="https://ytcards.demolab.com/?id=Dbe3j8HI06I&title=How+AI+is+affecting+our+kids&lang=en&timestamp=1788909512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="How AI is affecting our kids" title="How AI is affecting our kids">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uSz5BtNahRU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uSz5BtNahRU&title=OpenAI+launches+new+Astra+model+with+warning+that+it+may+attempt+to+evade+human+monitoring&lang=en&timestamp=1788902312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=215">
-          <img src="https://ytcards.demolab.com/?id=uSz5BtNahRU&title=OpenAI+launches+new+Astra+model+with+warning+that+it+may+attempt+to+evade+human+monitoring&lang=en&timestamp=1788902312&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=215" alt="OpenAI launches new Astra model with warning that it may attempt to evade human monitoring" title="OpenAI launches new Astra model with warning that it may attempt to evade human monitoring">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xj6xmeJFa1o" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xj6xmeJFa1o&title=AGI+is+Already+Here.+It%27s+Just+Not+Evenly+Distributed.&lang=en&timestamp=1788891512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=934">
-          <img src="https://ytcards.demolab.com/?id=Xj6xmeJFa1o&title=AGI+is+Already+Here.+It%27s+Just+Not+Evenly+Distributed.&lang=en&timestamp=1788891512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=934" alt="AGI is Already Here. It's Just Not Evenly Distributed." title="AGI is Already Here. It's Just Not Evenly Distributed.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dbe3j8HI06I&title=How+AI+is+affecting+our+kids&lang=en&timestamp=1788909931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
+          <img src="https://ytcards.demolab.com/?id=Dbe3j8HI06I&title=How+AI+is+affecting+our+kids&lang=en&timestamp=1788909931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="How AI is affecting our kids" title="How AI is affecting our kids">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=F3KHnYGmmew" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
-          <img src="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956312&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Power of Artificial Intelligence is once again triggering alarm bells" title="Power of Artificial Intelligence is once again triggering alarm bells">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Power of Artificial Intelligence is once again triggering alarm bells" title="Power of Artificial Intelligence is once again triggering alarm bells">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HFPXL3nqW6c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1ly_tEJu3z0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HFPXL3nqW6c&title=The+Dark+Truth+About+AI+No+One+Is+Talking+About...&lang=en&timestamp=1788891512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3025">
-          <img src="https://ytcards.demolab.com/?id=HFPXL3nqW6c&title=The+Dark+Truth+About+AI+No+One+Is+Talking+About...&lang=en&timestamp=1788891512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3025" alt="The Dark Truth About AI No One Is Talking About..." title="The Dark Truth About AI No One Is Talking About...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1ly_tEJu3z0&title=CHILLING+warning+issued+on+%27uncontrollable%27+AI%3A+This+is+the+RED+LINE&lang=en&timestamp=1788963931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=324">
+          <img src="https://ytcards.demolab.com/?id=1ly_tEJu3z0&title=CHILLING+warning+issued+on+%27uncontrollable%27+AI%3A+This+is+the+RED+LINE&lang=en&timestamp=1788963931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=324" alt="CHILLING warning issued on 'uncontrollable' AI: This is the RED LINE" title="CHILLING warning issued on 'uncontrollable' AI: This is the RED LINE">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=RE_dS0yZxTQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RE_dS0yZxTQ&title=Anthropic%2C+Open+AI+gambling+with+our+lives%3A+AI+researcher+quits%2C+warns+of+risk+to+humanity&lang=en&timestamp=1788963931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1933">
+          <img src="https://ytcards.demolab.com/?id=RE_dS0yZxTQ&title=Anthropic%2C+Open+AI+gambling+with+our+lives%3A+AI+researcher+quits%2C+warns+of+risk+to+humanity&lang=en&timestamp=1788963931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1933" alt="Anthropic, Open AI gambling with our lives: AI researcher quits, warns of risk to humanity" title="Anthropic, Open AI gambling with our lives: AI researcher quits, warns of risk to humanity">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=xuEIp866jRM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xuEIp866jRM&title=The+Human+Mirror%3A+The+Hidden+Trap&lang=en&timestamp=1788945931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=509">
+          <img src="https://ytcards.demolab.com/?id=xuEIp866jRM&title=The+Human+Mirror%3A+The+Hidden+Trap&lang=en&timestamp=1788945931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=509" alt="The Human Mirror: The Hidden Trap" title="The Human Mirror: The Hidden Trap">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Xj6xmeJFa1o" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xj6xmeJFa1o&title=AGI+is+Already+Here.+It%27s+Just+Not+Evenly+Distributed.&lang=en&timestamp=1788891931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=934">
+          <img src="https://ytcards.demolab.com/?id=Xj6xmeJFa1o&title=AGI+is+Already+Here.+It%27s+Just+Not+Evenly+Distributed.&lang=en&timestamp=1788891931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=934" alt="AGI is Already Here. It's Just Not Evenly Distributed." title="AGI is Already Here. It's Just Not Evenly Distributed.">
         </picture>
       </a>
     </td>
