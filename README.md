@@ -531,56 +531,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SNNRhxNqW-Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4c984axkdsc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNNRhxNqW-Q&title=The+New+AGI+breakthrough+Is+Far+Crazier+Than+People+Realize&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6935">
-          <img src="https://ytcards.demolab.com/?id=SNNRhxNqW-Q&title=The+New+AGI+breakthrough+Is+Far+Crazier+Than+People+Realize&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6935" alt="The New AGI breakthrough Is Far Crazier Than People Realize" title="The New AGI breakthrough Is Far Crazier Than People Realize">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4c984axkdsc&title=What+is+artificial+general+intelligence%3F+OpenAI+celebrates+GPT-6+Astra+release&lang=en&timestamp=1788877112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=236">
+          <img src="https://ytcards.demolab.com/?id=4c984axkdsc&title=What+is+artificial+general+intelligence%3F+OpenAI+celebrates+GPT-6+Astra+release&lang=en&timestamp=1788877112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=236" alt="What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release" title="What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=btpRfPC3Yhw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Dbe3j8HI06I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
-          <img src="https://ytcards.demolab.com/?id=btpRfPC3Yhw&title=Artificial+Intelligence+%7C+AI%27s+Alien+Mind%3A+Can+Humans+Still+Stay+In+Control%3F&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?" title="Artificial Intelligence | AI's Alien Mind: Can Humans Still Stay In Control?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dbe3j8HI06I&title=How+AI+is+affecting+our+kids&lang=en&timestamp=1788909512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
+          <img src="https://ytcards.demolab.com/?id=Dbe3j8HI06I&title=How+AI+is+affecting+our+kids&lang=en&timestamp=1788909512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="How AI is affecting our kids" title="How AI is affecting our kids">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W87dml784bk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uSz5BtNahRU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W87dml784bk&title=Artificial+Intelligence%2C+Human+Connection+%7C+Chris+Rhyss+Edwards+%7C+TEDxQUT&lang=en&timestamp=1788889401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
-          <img src="https://ytcards.demolab.com/?id=W87dml784bk&title=Artificial+Intelligence%2C+Human+Connection+%7C+Chris+Rhyss+Edwards+%7C+TEDxQUT&lang=en&timestamp=1788889401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="Artificial Intelligence, Human Connection | Chris Rhyss Edwards | TEDxQUT" title="Artificial Intelligence, Human Connection | Chris Rhyss Edwards | TEDxQUT">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uSz5BtNahRU&title=OpenAI+launches+new+Astra+model+with+warning+that+it+may+attempt+to+evade+human+monitoring&lang=en&timestamp=1788902312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=215">
+          <img src="https://ytcards.demolab.com/?id=uSz5BtNahRU&title=OpenAI+launches+new+Astra+model+with+warning+that+it+may+attempt+to+evade+human+monitoring&lang=en&timestamp=1788902312&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=215" alt="OpenAI launches new Astra model with warning that it may attempt to evade human monitoring" title="OpenAI launches new Astra model with warning that it may attempt to evade human monitoring">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s9UhVEWT7Z4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xj6xmeJFa1o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s9UhVEWT7Z4&title=A.I+Artificial+Intelligence+%7C+Beyond+Human+Intelligence+%7C+Beyond+Infinity&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=544">
-          <img src="https://ytcards.demolab.com/?id=s9UhVEWT7Z4&title=A.I+Artificial+Intelligence+%7C+Beyond+Human+Intelligence+%7C+Beyond+Infinity&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=544" alt="A.I Artificial Intelligence | Beyond Human Intelligence | Beyond Infinity" title="A.I Artificial Intelligence | Beyond Human Intelligence | Beyond Infinity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xj6xmeJFa1o&title=AGI+is+Already+Here.+It%27s+Just+Not+Evenly+Distributed.&lang=en&timestamp=1788891512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=934">
+          <img src="https://ytcards.demolab.com/?id=Xj6xmeJFa1o&title=AGI+is+Already+Here.+It%27s+Just+Not+Evenly+Distributed.&lang=en&timestamp=1788891512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=934" alt="AGI is Already Here. It's Just Not Evenly Distributed." title="AGI is Already Here. It's Just Not Evenly Distributed.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wzgkc6Iegx8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F3KHnYGmmew" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzgkc6Iegx8&title=When+A.I.+Becomes+an+Enemy+-+Connor+Leahy&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3847">
-          <img src="https://ytcards.demolab.com/?id=wzgkc6Iegx8&title=When+A.I.+Becomes+an+Enemy+-+Connor+Leahy&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3847" alt="When A.I. Becomes an Enemy - Connor Leahy" title="When A.I. Becomes an Enemy - Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956312&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Power of Artificial Intelligence is once again triggering alarm bells" title="Power of Artificial Intelligence is once again triggering alarm bells">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dptvBZt283o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HFPXL3nqW6c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dptvBZt283o&title=AI+could+pose+%E2%80%98existential%E2%80%99+risk+to+humanity%2C+UN+rights+chief+warns&lang=en&timestamp=1788817401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
-          <img src="https://ytcards.demolab.com/?id=dptvBZt283o&title=AI+could+pose+%E2%80%98existential%E2%80%99+risk+to+humanity%2C+UN+rights+chief+warns&lang=en&timestamp=1788817401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="AI could pose ‘existential’ risk to humanity, UN rights chief warns" title="AI could pose ‘existential’ risk to humanity, UN rights chief warns">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HFPXL3nqW6c&title=The+Dark+Truth+About+AI+No+One+Is+Talking+About...&lang=en&timestamp=1788891512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3025">
+          <img src="https://ytcards.demolab.com/?id=HFPXL3nqW6c&title=The+Dark+Truth+About+AI+No+One+Is+Talking+About...&lang=en&timestamp=1788891512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3025" alt="The Dark Truth About AI No One Is Talking About..." title="The Dark Truth About AI No One Is Talking About...">
         </picture>
       </a>
     </td>
