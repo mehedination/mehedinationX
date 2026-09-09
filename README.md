@@ -533,56 +533,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Dbe3j8HI06I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GGY17VD_9Bs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dbe3j8HI06I&title=How+AI+is+affecting+our+kids&lang=en&timestamp=1788909931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
-          <img src="https://ytcards.demolab.com/?id=Dbe3j8HI06I&title=How+AI+is+affecting+our+kids&lang=en&timestamp=1788909931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="How AI is affecting our kids" title="How AI is affecting our kids">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1786397691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1113">
+          <img src="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1786397691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1113" alt="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston" title="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F3KHnYGmmew" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-OeXgrY3bss" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
-          <img src="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Power of Artificial Intelligence is once again triggering alarm bells" title="Power of Artificial Intelligence is once again triggering alarm bells">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-OeXgrY3bss&title=A.I.+Is+Outsmarting+Its+Creators&lang=en&timestamp=1788471291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2437">
+          <img src="https://ytcards.demolab.com/?id=-OeXgrY3bss&title=A.I.+Is+Outsmarting+Its+Creators&lang=en&timestamp=1788471291&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2437" alt="A.I. Is Outsmarting Its Creators" title="A.I. Is Outsmarting Its Creators">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1ly_tEJu3z0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XaAMbu5ohVw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1ly_tEJu3z0&title=CHILLING+warning+issued+on+%27uncontrollable%27+AI%3A+This+is+the+RED+LINE&lang=en&timestamp=1788963931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=324">
-          <img src="https://ytcards.demolab.com/?id=1ly_tEJu3z0&title=CHILLING+warning+issued+on+%27uncontrollable%27+AI%3A+This+is+the+RED+LINE&lang=en&timestamp=1788963931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=324" alt="CHILLING warning issued on 'uncontrollable' AI: This is the RED LINE" title="CHILLING warning issued on 'uncontrollable' AI: This is the RED LINE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786570491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1231">
+          <img src="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786570491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1231" alt="The (Overdue) Collapse Of Artificial Intelligence" title="The (Overdue) Collapse Of Artificial Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RE_dS0yZxTQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m8o2GrbR3d8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RE_dS0yZxTQ&title=Anthropic%2C+Open+AI+gambling+with+our+lives%3A+AI+researcher+quits%2C+warns+of+risk+to+humanity&lang=en&timestamp=1788963931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1933">
-          <img src="https://ytcards.demolab.com/?id=RE_dS0yZxTQ&title=Anthropic%2C+Open+AI+gambling+with+our+lives%3A+AI+researcher+quits%2C+warns+of+risk+to+humanity&lang=en&timestamp=1788963931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1933" alt="Anthropic, Open AI gambling with our lives: AI researcher quits, warns of risk to humanity" title="Anthropic, Open AI gambling with our lives: AI researcher quits, warns of risk to humanity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m8o2GrbR3d8&title=SIMPLEST+Explanation+of+How+Artificial+Intelligence+Works%3F+No+Jargon+%7C+What+is+AI%3F+How+AI+works%3F&lang=en&timestamp=1757453691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1579">
+          <img src="https://ytcards.demolab.com/?id=m8o2GrbR3d8&title=SIMPLEST+Explanation+of+How+Artificial+Intelligence+Works%3F+No+Jargon+%7C+What+is+AI%3F+How+AI+works%3F&lang=en&timestamp=1757453691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1579" alt="SIMPLEST Explanation of How Artificial Intelligence Works? No Jargon | What is AI? How AI works?" title="SIMPLEST Explanation of How Artificial Intelligence Works? No Jargon | What is AI? How AI works?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xuEIp866jRM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F-pMp8AaXvw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xuEIp866jRM&title=The+Human+Mirror%3A+The+Hidden+Trap&lang=en&timestamp=1788945931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=509">
-          <img src="https://ytcards.demolab.com/?id=xuEIp866jRM&title=The+Human+Mirror%3A+The+Hidden+Trap&lang=en&timestamp=1788945931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=509" alt="The Human Mirror: The Hidden Trap" title="The Human Mirror: The Hidden Trap">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F-pMp8AaXvw&title=artificial+intelligence%28SLOWED%29&lang=en&timestamp=1757453691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=155">
+          <img src="https://ytcards.demolab.com/?id=F-pMp8AaXvw&title=artificial+intelligence%28SLOWED%29&lang=en&timestamp=1757453691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=155" alt="artificial intelligence(SLOWED)" title="artificial intelligence(SLOWED)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xj6xmeJFa1o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uHRMeSf12rI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xj6xmeJFa1o&title=AGI+is+Already+Here.+It%27s+Just+Not+Evenly+Distributed.&lang=en&timestamp=1788891931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=934">
-          <img src="https://ytcards.demolab.com/?id=Xj6xmeJFa1o&title=AGI+is+Already+Here.+It%27s+Just+Not+Evenly+Distributed.&lang=en&timestamp=1788891931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=934" alt="AGI is Already Here. It's Just Not Evenly Distributed." title="AGI is Already Here. It's Just Not Evenly Distributed.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uHRMeSf12rI&title=Artificial+Intelligency&lang=en&timestamp=1770845691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=232">
+          <img src="https://ytcards.demolab.com/?id=uHRMeSf12rI&title=Artificial+Intelligency&lang=en&timestamp=1770845691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=232" alt="Artificial Intelligency" title="Artificial Intelligency">
         </picture>
       </a>
     </td>
