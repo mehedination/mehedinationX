@@ -534,56 +534,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GGY17VD_9Bs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gN2FULNSWBw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1786397691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1113">
-          <img src="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1786397691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1113" alt="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston" title="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gN2FULNSWBw&title=Computer+Scientist%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Cal+Newport&lang=en&timestamp=1788951494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9509">
+          <img src="https://ytcards.demolab.com/?id=gN2FULNSWBw&title=Computer+Scientist%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Cal+Newport&lang=en&timestamp=1788951494&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9509" alt="Computer Scientist: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Cal Newport" title="Computer Scientist: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Cal Newport">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-OeXgrY3bss" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4c984axkdsc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-OeXgrY3bss&title=A.I.+Is+Outsmarting+Its+Creators&lang=en&timestamp=1788471291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2437">
-          <img src="https://ytcards.demolab.com/?id=-OeXgrY3bss&title=A.I.+Is+Outsmarting+Its+Creators&lang=en&timestamp=1788471291&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2437" alt="A.I. Is Outsmarting Its Creators" title="A.I. Is Outsmarting Its Creators">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4c984axkdsc&title=What+is+artificial+general+intelligence%3F+OpenAI+celebrates+GPT-6+Astra+release&lang=en&timestamp=1788911894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=236">
+          <img src="https://ytcards.demolab.com/?id=4c984axkdsc&title=What+is+artificial+general+intelligence%3F+OpenAI+celebrates+GPT-6+Astra+release&lang=en&timestamp=1788911894&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=236" alt="What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release" title="What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XaAMbu5ohVw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=O_EWbnkjXdk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786570491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1231">
-          <img src="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786570491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1231" alt="The (Overdue) Collapse Of Artificial Intelligence" title="The (Overdue) Collapse Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O_EWbnkjXdk&title=Can+AI+help+us+better+predict+the+weather%3F&lang=en&timestamp=1788973094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2665">
+          <img src="https://ytcards.demolab.com/?id=O_EWbnkjXdk&title=Can+AI+help+us+better+predict+the+weather%3F&lang=en&timestamp=1788973094&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2665" alt="Can AI help us better predict the weather?" title="Can AI help us better predict the weather?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m8o2GrbR3d8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JYJf7PvwBv8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m8o2GrbR3d8&title=SIMPLEST+Explanation+of+How+Artificial+Intelligence+Works%3F+No+Jargon+%7C+What+is+AI%3F+How+AI+works%3F&lang=en&timestamp=1757453691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1579">
-          <img src="https://ytcards.demolab.com/?id=m8o2GrbR3d8&title=SIMPLEST+Explanation+of+How+Artificial+Intelligence+Works%3F+No+Jargon+%7C+What+is+AI%3F+How+AI+works%3F&lang=en&timestamp=1757453691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1579" alt="SIMPLEST Explanation of How Artificial Intelligence Works? No Jargon | What is AI? How AI works?" title="SIMPLEST Explanation of How Artificial Intelligence Works? No Jargon | What is AI? How AI works?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYJf7PvwBv8&title=Insiders%27+new+AI+warning&lang=en&timestamp=1788962294&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
+          <img src="https://ytcards.demolab.com/?id=JYJf7PvwBv8&title=Insiders%27+new+AI+warning&lang=en&timestamp=1788962294&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Insiders' new AI warning" title="Insiders' new AI warning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F-pMp8AaXvw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NCsRT7TaDN4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F-pMp8AaXvw&title=artificial+intelligence%28SLOWED%29&lang=en&timestamp=1757453691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=155">
-          <img src="https://ytcards.demolab.com/?id=F-pMp8AaXvw&title=artificial+intelligence%28SLOWED%29&lang=en&timestamp=1757453691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=155" alt="artificial intelligence(SLOWED)" title="artificial intelligence(SLOWED)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCsRT7TaDN4&title=LBC+callers%27+%27most+bizarre%27+uses+for+AI&lang=en&timestamp=1788976694&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=614">
+          <img src="https://ytcards.demolab.com/?id=NCsRT7TaDN4&title=LBC+callers%27+%27most+bizarre%27+uses+for+AI&lang=en&timestamp=1788976694&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=614" alt="LBC callers' 'most bizarre' uses for AI" title="LBC callers' 'most bizarre' uses for AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uHRMeSf12rI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IDNxpvKmSbI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uHRMeSf12rI&title=Artificial+Intelligency&lang=en&timestamp=1770845691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=232">
-          <img src="https://ytcards.demolab.com/?id=uHRMeSf12rI&title=Artificial+Intelligency&lang=en&timestamp=1770845691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=232" alt="Artificial Intelligency" title="Artificial Intelligency">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IDNxpvKmSbI&title=Can+artificial+intelligence+go+rogue+and+kill+people%3F+%7C+On+the+Record&lang=en&timestamp=1788980294&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1889">
+          <img src="https://ytcards.demolab.com/?id=IDNxpvKmSbI&title=Can+artificial+intelligence+go+rogue+and+kill+people%3F+%7C+On+the+Record&lang=en&timestamp=1788980294&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1889" alt="Can artificial intelligence go rogue and kill people? | On the Record" title="Can artificial intelligence go rogue and kill people? | On the Record">
         </picture>
       </a>
     </td>
