@@ -535,56 +535,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=gN2FULNSWBw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xaz6ynSzE0A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gN2FULNSWBw&title=Computer+Scientist%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Cal+Newport&lang=en&timestamp=1788951494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9509">
-          <img src="https://ytcards.demolab.com/?id=gN2FULNSWBw&title=Computer+Scientist%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Cal+Newport&lang=en&timestamp=1788951494&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9509" alt="Computer Scientist: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Cal Newport" title="Computer Scientist: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Cal Newport">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xaz6ynSzE0A&title=Anthropic+developer+quits%2C+cites+AI%27s+existential+threat+to+humankind&lang=en&timestamp=1789007243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=297">
+          <img src="https://ytcards.demolab.com/?id=xaz6ynSzE0A&title=Anthropic+developer+quits%2C+cites+AI%27s+existential+threat+to+humankind&lang=en&timestamp=1789007243&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=297" alt="Anthropic developer quits, cites AI's existential threat to humankind" title="Anthropic developer quits, cites AI's existential threat to humankind">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4c984axkdsc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=y-1Euhv7hSs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4c984axkdsc&title=What+is+artificial+general+intelligence%3F+OpenAI+celebrates+GPT-6+Astra+release&lang=en&timestamp=1788911894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=236">
-          <img src="https://ytcards.demolab.com/?id=4c984axkdsc&title=What+is+artificial+general+intelligence%3F+OpenAI+celebrates+GPT-6+Astra+release&lang=en&timestamp=1788911894&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=236" alt="What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release" title="What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y-1Euhv7hSs&title=AI+researcher+quits+job+and+issues+warning+about+the+technology&lang=en&timestamp=1788974843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=122">
+          <img src="https://ytcards.demolab.com/?id=y-1Euhv7hSs&title=AI+researcher+quits+job+and+issues+warning+about+the+technology&lang=en&timestamp=1788974843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=122" alt="AI researcher quits job and issues warning about the technology" title="AI researcher quits job and issues warning about the technology">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=O_EWbnkjXdk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O_EWbnkjXdk&title=Can+AI+help+us+better+predict+the+weather%3F&lang=en&timestamp=1788973094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2665">
-          <img src="https://ytcards.demolab.com/?id=O_EWbnkjXdk&title=Can+AI+help+us+better+predict+the+weather%3F&lang=en&timestamp=1788973094&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2665" alt="Can AI help us better predict the weather?" title="Can AI help us better predict the weather?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O_EWbnkjXdk&title=How+AI+is+transforming+weather+prediction&lang=en&timestamp=1788971243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2665">
+          <img src="https://ytcards.demolab.com/?id=O_EWbnkjXdk&title=How+AI+is+transforming+weather+prediction&lang=en&timestamp=1788971243&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2665" alt="How AI is transforming weather prediction" title="How AI is transforming weather prediction">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JYJf7PvwBv8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYJf7PvwBv8&title=Insiders%27+new+AI+warning&lang=en&timestamp=1788962294&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
-          <img src="https://ytcards.demolab.com/?id=JYJf7PvwBv8&title=Insiders%27+new+AI+warning&lang=en&timestamp=1788962294&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Insiders' new AI warning" title="Insiders' new AI warning">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=NCsRT7TaDN4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCsRT7TaDN4&title=LBC+callers%27+%27most+bizarre%27+uses+for+AI&lang=en&timestamp=1788976694&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=614">
-          <img src="https://ytcards.demolab.com/?id=NCsRT7TaDN4&title=LBC+callers%27+%27most+bizarre%27+uses+for+AI&lang=en&timestamp=1788976694&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=614" alt="LBC callers' 'most bizarre' uses for AI" title="LBC callers' 'most bizarre' uses for AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCsRT7TaDN4&title=LBC+callers%27+%27scary%27+AI+stories&lang=en&timestamp=1788978443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=614">
+          <img src="https://ytcards.demolab.com/?id=NCsRT7TaDN4&title=LBC+callers%27+%27scary%27+AI+stories&lang=en&timestamp=1788978443&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=614" alt="LBC callers' 'scary' AI stories" title="LBC callers' 'scary' AI stories">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IDNxpvKmSbI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F3KHnYGmmew" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IDNxpvKmSbI&title=Can+artificial+intelligence+go+rogue+and+kill+people%3F+%7C+On+the+Record&lang=en&timestamp=1788980294&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1889">
-          <img src="https://ytcards.demolab.com/?id=IDNxpvKmSbI&title=Can+artificial+intelligence+go+rogue+and+kill+people%3F+%7C+On+the+Record&lang=en&timestamp=1788980294&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1889" alt="Can artificial intelligence go rogue and kill people? | On the Record" title="Can artificial intelligence go rogue and kill people? | On the Record">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=F3KHnYGmmew&title=Power+of+Artificial+Intelligence+is+once+again+triggering+alarm+bells&lang=en&timestamp=1788956843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Power of Artificial Intelligence is once again triggering alarm bells" title="Power of Artificial Intelligence is once again triggering alarm bells">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=l8IeklSbeJI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l8IeklSbeJI&title=More+than+10%25+chance+AI+kills+all+humans+in+a+decade%3A+fmr+Anthropic+researcher+%7C+ABC+NEWS&lang=en&timestamp=1789010843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=420">
+          <img src="https://ytcards.demolab.com/?id=l8IeklSbeJI&title=More+than+10%25+chance+AI+kills+all+humans+in+a+decade%3A+fmr+Anthropic+researcher+%7C+ABC+NEWS&lang=en&timestamp=1789010843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=420" alt="More than 10% chance AI kills all humans in a decade: fmr Anthropic researcher | ABC NEWS" title="More than 10% chance AI kills all humans in a decade: fmr Anthropic researcher | ABC NEWS">
         </picture>
       </a>
     </td>
