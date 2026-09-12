@@ -537,56 +537,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IZMjJGi4YhI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=E2eHvDp4nyI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IZMjJGi4YhI&title=%27Godfather+of+AI%27+on+the+%22not+unreasonable%22+10%25+chance+AI+could+kill+all+humans+within+a+decade&lang=en&timestamp=1789038307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=393">
-          <img src="https://ytcards.demolab.com/?id=IZMjJGi4YhI&title=%27Godfather+of+AI%27+on+the+%22not+unreasonable%22+10%25+chance+AI+could+kill+all+humans+within+a+decade&lang=en&timestamp=1789038307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=393" alt="'Godfather of AI' on the &quot;not unreasonable&quot; 10% chance AI could kill all humans within a decade" title="'Godfather of AI' on the &quot;not unreasonable&quot; 10% chance AI could kill all humans within a decade">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789138852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789138852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Are bioweapons a looming AI threat?" title="Are bioweapons a looming AI threat?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WRrwmQw82JE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JQHiJz8YqmI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WRrwmQw82JE&title=Fallout+after+dire+warning+on+AI+from+scientists&lang=en&timestamp=1789045507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=89">
-          <img src="https://ytcards.demolab.com/?id=WRrwmQw82JE&title=Fallout+after+dire+warning+on+AI+from+scientists&lang=en&timestamp=1789045507&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=89" alt="Fallout after dire warning on AI from scientists" title="Fallout after dire warning on AI from scientists">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789131652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=499">
+          <img src="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789131652&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=499" alt="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?" title="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xOh5llNqaoY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AuwystrCDo0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xOh5llNqaoY&title=Researcher+warns+artificial+intelligence+could+%27kill+us+all%27&lang=en&timestamp=1789092307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
-          <img src="https://ytcards.demolab.com/?id=xOh5llNqaoY&title=Researcher+warns+artificial+intelligence+could+%27kill+us+all%27&lang=en&timestamp=1789092307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Researcher warns artificial intelligence could 'kill us all'" title="Researcher warns artificial intelligence could 'kill us all'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AuwystrCDo0&title=More+US+lawmakers+seek+new+AI+rules+after+researchers+warn+of+human+extinction+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789138852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=121">
+          <img src="https://ytcards.demolab.com/?id=AuwystrCDo0&title=More+US+lawmakers+seek+new+AI+rules+after+researchers+warn+of+human+extinction+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789138852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=121" alt="More US lawmakers seek new AI rules after researchers warn of human extinction • FRANCE 24 English" title="More US lawmakers seek new AI rules after researchers warn of human extinction • FRANCE 24 English">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yf4stRC2jwc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yf4stRC2jwc&title=Rep.+Lori+Trahan+lays+out+how+Congress+could+regulate+artificial+intelligence&lang=en&timestamp=1789067107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
-          <img src="https://ytcards.demolab.com/?id=yf4stRC2jwc&title=Rep.+Lori+Trahan+lays+out+how+Congress+could+regulate+artificial+intelligence&lang=en&timestamp=1789067107&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Rep. Lori Trahan lays out how Congress could regulate artificial intelligence" title="Rep. Lori Trahan lays out how Congress could regulate artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789167652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
+          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789167652&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FSmFtXAvYHo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S-itRYI5RSU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FSmFtXAvYHo&title=Yang%3A+Leaders+must+act+on+AI+%27before+it%27s+too+late%27&lang=en&timestamp=1789059907&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=393">
-          <img src="https://ytcards.demolab.com/?id=FSmFtXAvYHo&title=Yang%3A+Leaders+must+act+on+AI+%27before+it%27s+too+late%27&lang=en&timestamp=1789059907&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=393" alt="Yang: Leaders must act on AI 'before it's too late'" title="Yang: Leaders must act on AI 'before it's too late'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S-itRYI5RSU&title=Artificial+Intelligence+%26+Us&lang=en&timestamp=1789170652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
+          <img src="https://ytcards.demolab.com/?id=S-itRYI5RSU&title=Artificial+Intelligence+%26+Us&lang=en&timestamp=1789170652&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="Artificial Intelligence & Us" title="Artificial Intelligence & Us">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qWfsDebaY4M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f86J25_VZtQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qWfsDebaY4M&title=AI+Could+Kill+Us+All+By+2030%3F+Ex-Anthropic+Researcher+Jacob+Coxon+Sounds+Alarm+%7C+AI+News+%7C+CNN&lang=en&timestamp=1789074307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
-          <img src="https://ytcards.demolab.com/?id=qWfsDebaY4M&title=AI+Could+Kill+Us+All+By+2030%3F+Ex-Anthropic+Researcher+Jacob+Coxon+Sounds+Alarm+%7C+AI+News+%7C+CNN&lang=en&timestamp=1789074307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="AI Could Kill Us All By 2030? Ex-Anthropic Researcher Jacob Coxon Sounds Alarm | AI News | CNN" title="AI Could Kill Us All By 2030? Ex-Anthropic Researcher Jacob Coxon Sounds Alarm | AI News | CNN">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f86J25_VZtQ&title=%5BThe+AI+Limit%5D+How+OpenAI+Reshaped+the+Industry%3A+An+Expert+with+20+Years+of+Experience+Discusses+...&lang=en&timestamp=1789120852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1931">
+          <img src="https://ytcards.demolab.com/?id=f86J25_VZtQ&title=%5BThe+AI+Limit%5D+How+OpenAI+Reshaped+the+Industry%3A+An+Expert+with+20+Years+of+Experience+Discusses+...&lang=en&timestamp=1789120852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1931" alt="[The AI Limit] How OpenAI Reshaped the Industry: An Expert with 20 Years of Experience Discusses ..." title="[The AI Limit] How OpenAI Reshaped the Industry: An Expert with 20 Years of Experience Discusses ...">
         </picture>
       </a>
     </td>
