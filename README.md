@@ -540,56 +540,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hAHjqxyhI3o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PepwZ1bUhAU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hAHjqxyhI3o&title=%22Who+is+behind+all+this+negativity%22+on+AI%2C+says+Altimeter+Capital%27s+Brad+Gerstner&lang=en&timestamp=1789147618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699">
-          <img src="https://ytcards.demolab.com/?id=hAHjqxyhI3o&title=%22Who+is+behind+all+this+negativity%22+on+AI%2C+says+Altimeter+Capital%27s+Brad+Gerstner&lang=en&timestamp=1789147618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=699" alt="&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital's Brad Gerstner" title="&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital's Brad Gerstner">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+risks+of+AI&lang=en&timestamp=1789153020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
+          <img src="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+risks+of+AI&lang=en&timestamp=1789153020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="The biggest risks of AI" title="The biggest risks of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=E2eHvDp4nyI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Doctor+on+AI+and+bioweapons&lang=en&timestamp=1789136818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Doctor+on+AI+and+bioweapons&lang=en&timestamp=1789136818&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Doctor on AI and bioweapons" title="Doctor on AI and bioweapons">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789167420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
+          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789167420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IJE8y7AIO0M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tsfVq6MU9Zo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJE8y7AIO0M&title=What+Do+AI+Experts+Know+That+The+Rest+Of+Us+Don%E2%80%99t%3F&lang=en&timestamp=1789133218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=644">
-          <img src="https://ytcards.demolab.com/?id=IJE8y7AIO0M&title=What+Do+AI+Experts+Know+That+The+Rest+Of+Us+Don%E2%80%99t%3F&lang=en&timestamp=1789133218&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=644" alt="What Do AI Experts Know That The Rest Of Us Don’t?" title="What Do AI Experts Know That The Rest Of Us Don’t?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789210620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5135">
+          <img src="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789210620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5135" alt="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence" title="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yc-Y6oqG6yc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789169218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
-          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789169218&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789171020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5499">
+          <img src="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789171020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5499" alt="Elon Musk, Trans Human and the 2030 Reset . . ." title="Elon Musk, Trans Human and the 2030 Reset . . .">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=pbmviUdKRC8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pbmviUdKRC8&title=AI+Researchers+Say+the+Technology+Could+Wipe+Out+Humans+%7C+WION+Pulse&lang=en&timestamp=1789151218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=309">
-          <img src="https://ytcards.demolab.com/?id=pbmviUdKRC8&title=AI+Researchers+Say+the+Technology+Could+Wipe+Out+Humans+%7C+WION+Pulse&lang=en&timestamp=1789151218&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=309" alt="AI Researchers Say the Technology Could Wipe Out Humans | WION Pulse" title="AI Researchers Say the Technology Could Wipe Out Humans | WION Pulse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pbmviUdKRC8&title=AI+Researchers+Say+the+Technology+Could+Wipe+Out+Humans+%7C+WION+Pulse&lang=en&timestamp=1789153020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=309">
+          <img src="https://ytcards.demolab.com/?id=pbmviUdKRC8&title=AI+Researchers+Say+the+Technology+Could+Wipe+Out+Humans+%7C+WION+Pulse&lang=en&timestamp=1789153020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=309" alt="AI Researchers Say the Technology Could Wipe Out Humans | WION Pulse" title="AI Researchers Say the Technology Could Wipe Out Humans | WION Pulse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=05-e8x-KJx4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xyb7XATRI2M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=05-e8x-KJx4&title=Concerns+over+the+dangers+of+artificial+intelligence&lang=en&timestamp=1789201618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=596">
-          <img src="https://ytcards.demolab.com/?id=05-e8x-KJx4&title=Concerns+over+the+dangers+of+artificial+intelligence&lang=en&timestamp=1789201618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=596" alt="Concerns over the dangers of artificial intelligence" title="Concerns over the dangers of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789135020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
+          <img src="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789135020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="Does rogue AI back the need for a 'kill switch'? | BBC News" title="Does rogue AI back the need for a 'kill switch'? | BBC News">
         </picture>
       </a>
     </td>
