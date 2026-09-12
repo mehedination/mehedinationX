@@ -542,56 +542,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=v0F3txOKbkk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Unregulated+AI+could+end+mankind+within+decade%3A+Former+Anthropic+researcher+%7C+ABC+NEWS&lang=en&timestamp=1789181782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=432">
-          <img src="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Unregulated+AI+could+end+mankind+within+decade%3A+Former+Anthropic+researcher+%7C+ABC+NEWS&lang=en&timestamp=1789181782&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=432" alt="Unregulated AI could end mankind within decade: Former Anthropic researcher | ABC NEWS" title="Unregulated AI could end mankind within decade: Former Anthropic researcher | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Urgent+regulation+needed+to+prevent+AI%E2%80%99s+%27Chernobyl+moment%27%3A+UN+advisor+%7C+ABC+NEWS&lang=en&timestamp=1789182506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=432">
+          <img src="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Urgent+regulation+needed+to+prevent+AI%E2%80%99s+%27Chernobyl+moment%27%3A+UN+advisor+%7C+ABC+NEWS&lang=en&timestamp=1789182506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=432" alt="Urgent regulation needed to prevent AI’s 'Chernobyl moment': UN advisor | ABC NEWS" title="Urgent regulation needed to prevent AI’s 'Chernobyl moment': UN advisor | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=PepwZ1bUhAU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789152982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
-          <img src="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789152982&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="The biggest real-world risks of AI" title="The biggest real-world risks of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789153706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
+          <img src="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789153706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="The biggest real-world risks of AI" title="The biggest real-world risks of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yc-Y6oqG6yc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789167382&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
-          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789167382&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789168106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5499">
+          <img src="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789168106&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5499" alt="Elon Musk, Trans Human and the 2030 Reset . . ." title="Elon Musk, Trans Human and the 2030 Reset . . .">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yc-Y6oqG6yc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789170982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5499">
-          <img src="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789170982&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5499" alt="Elon Musk, Trans Human and the 2030 Reset . . ." title="Elon Musk, Trans Human and the 2030 Reset . . .">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789168106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
+          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789168106&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pbmviUdKRC8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xyb7XATRI2M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pbmviUdKRC8&title=AI+Researchers+Say+the+Technology+Could+Wipe+Out+Humans+%7C+WION+Pulse&lang=en&timestamp=1789152982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=309">
-          <img src="https://ytcards.demolab.com/?id=pbmviUdKRC8&title=AI+Researchers+Say+the+Technology+Could+Wipe+Out+Humans+%7C+WION+Pulse&lang=en&timestamp=1789152982&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=309" alt="AI Researchers Say the Technology Could Wipe Out Humans | WION Pulse" title="AI Researchers Say the Technology Could Wipe Out Humans | WION Pulse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789153706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
+          <img src="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789153706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="Does rogue AI back the need for a 'kill switch'? | BBC News" title="Does rogue AI back the need for a 'kill switch'? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=05-e8x-KJx4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xVANs3gwojU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=05-e8x-KJx4&title=Concerns+over+the+dangers+of+artificial+intelligence&lang=en&timestamp=1789199782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=596">
-          <img src="https://ytcards.demolab.com/?id=05-e8x-KJx4&title=Concerns+over+the+dangers+of+artificial+intelligence&lang=en&timestamp=1789199782&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=596" alt="Concerns over the dangers of artificial intelligence" title="Concerns over the dangers of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xVANs3gwojU&title=Swiss+researchers+use+AI+to+detect+early+warning+signs+of+natural+disasters+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789207706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111">
+          <img src="https://ytcards.demolab.com/?id=xVANs3gwojU&title=Swiss+researchers+use+AI+to+detect+early+warning+signs+of+natural+disasters+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789207706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=111" alt="Swiss researchers use AI to detect early warning signs of natural disasters • FRANCE 24 English" title="Swiss researchers use AI to detect early warning signs of natural disasters • FRANCE 24 English">
         </picture>
       </a>
     </td>
