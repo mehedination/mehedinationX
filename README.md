@@ -543,56 +543,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v0F3txOKbkk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=01bFKonlHyA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Urgent+regulation+needed+to+prevent+AI%E2%80%99s+%27Chernobyl+moment%27%3A+UN+advisor+%7C+ABC+NEWS&lang=en&timestamp=1789182506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=432">
-          <img src="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Urgent+regulation+needed+to+prevent+AI%E2%80%99s+%27Chernobyl+moment%27%3A+UN+advisor+%7C+ABC+NEWS&lang=en&timestamp=1789182506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=432" alt="Urgent regulation needed to prevent AI’s 'Chernobyl moment': UN advisor | ABC NEWS" title="Urgent regulation needed to prevent AI’s 'Chernobyl moment': UN advisor | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=01bFKonlHyA&title=Trump+brushes+off+AI+risks+as+lawmakers+pay+growing+attention+to+issue&lang=en&timestamp=1789167950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
+          <img src="https://ytcards.demolab.com/?id=01bFKonlHyA&title=Trump+brushes+off+AI+risks+as+lawmakers+pay+growing+attention+to+issue&lang=en&timestamp=1789167950&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="Trump brushes off AI risks as lawmakers pay growing attention to issue" title="Trump brushes off AI risks as lawmakers pay growing attention to issue">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PepwZ1bUhAU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=E2eHvDp4nyI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789153706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
-          <img src="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789153706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="The biggest real-world risks of AI" title="The biggest real-world risks of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789164350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789164350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Are bioweapons a looming AI threat?" title="Are bioweapons a looming AI threat?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yc-Y6oqG6yc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cvxjqbfLVk0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789168106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5499">
-          <img src="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789168106&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5499" alt="Elon Musk, Trans Human and the 2030 Reset . . ." title="Elon Musk, Trans Human and the 2030 Reset . . .">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cvxjqbfLVk0&title=AI+Kills+Everybody+or+Doomer+Psyop%3F+OpenAI%E2%80%99s+Math+Breakthrough%2C+Nike%E2%80%99s+%24200B+Collapse&lang=en&timestamp=1789175150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5757">
+          <img src="https://ytcards.demolab.com/?id=cvxjqbfLVk0&title=AI+Kills+Everybody+or+Doomer+Psyop%3F+OpenAI%E2%80%99s+Math+Breakthrough%2C+Nike%E2%80%99s+%24200B+Collapse&lang=en&timestamp=1789175150&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5757" alt="AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse" title="AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hAHjqxyhI3o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789168106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
-          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789168106&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hAHjqxyhI3o&title=%22Who+is+behind+all+this+negativity%22+on+AI%2C+says+Altimeter+Capital%27s+Brad+Gerstner&lang=en&timestamp=1789164350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699">
+          <img src="https://ytcards.demolab.com/?id=hAHjqxyhI3o&title=%22Who+is+behind+all+this+negativity%22+on+AI%2C+says+Altimeter+Capital%27s+Brad+Gerstner&lang=en&timestamp=1789164350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=699" alt="&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital's Brad Gerstner" title="&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital's Brad Gerstner">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xyb7XATRI2M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JQHiJz8YqmI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789153706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
-          <img src="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789153706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="Does rogue AI back the need for a 'kill switch'? | BBC News" title="Does rogue AI back the need for a 'kill switch'? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789164350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=499">
+          <img src="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789164350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=499" alt="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?" title="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xVANs3gwojU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Vudle_FY_kg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xVANs3gwojU&title=Swiss+researchers+use+AI+to+detect+early+warning+signs+of+natural+disasters+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789207706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111">
-          <img src="https://ytcards.demolab.com/?id=xVANs3gwojU&title=Swiss+researchers+use+AI+to+detect+early+warning+signs+of+natural+disasters+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789207706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=111" alt="Swiss researchers use AI to detect early warning signs of natural disasters • FRANCE 24 English" title="Swiss researchers use AI to detect early warning signs of natural disasters • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vudle_FY_kg&title=%27%27TOO+FAST%27%27+Anthropic+CEO+Dario+Amodei+Warns+AI+Safety+May+Be+Losing+The+Race+Against+AI+Progress&lang=en&timestamp=1789247150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=581">
+          <img src="https://ytcards.demolab.com/?id=Vudle_FY_kg&title=%27%27TOO+FAST%27%27+Anthropic+CEO+Dario+Amodei+Warns+AI+Safety+May+Be+Losing+The+Race+Against+AI+Progress&lang=en&timestamp=1789247150&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=581" alt="''TOO FAST'' Anthropic CEO Dario Amodei Warns AI Safety May Be Losing The Race Against AI Progress" title="''TOO FAST'' Anthropic CEO Dario Amodei Warns AI Safety May Be Losing The Race Against AI Progress">
         </picture>
       </a>
     </td>
