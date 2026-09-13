@@ -544,56 +544,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=01bFKonlHyA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e6i75Qpwpkg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=01bFKonlHyA&title=Trump+brushes+off+AI+risks+as+lawmakers+pay+growing+attention+to+issue&lang=en&timestamp=1789167950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
-          <img src="https://ytcards.demolab.com/?id=01bFKonlHyA&title=Trump+brushes+off+AI+risks+as+lawmakers+pay+growing+attention+to+issue&lang=en&timestamp=1789167950&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="Trump brushes off AI risks as lawmakers pay growing attention to issue" title="Trump brushes off AI risks as lawmakers pay growing attention to issue">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e6i75Qpwpkg&title=Trump+on+fear+of+AI+killing+humans+after+scientists+warn+of+its+threats&lang=en&timestamp=1789227881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
+          <img src="https://ytcards.demolab.com/?id=e6i75Qpwpkg&title=Trump+on+fear+of+AI+killing+humans+after+scientists+warn+of+its+threats&lang=en&timestamp=1789227881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Trump on fear of AI killing humans after scientists warn of its threats" title="Trump on fear of AI killing humans after scientists warn of its threats">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=E2eHvDp4nyI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CRhPapC4bss" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789164350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789164350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Are bioweapons a looming AI threat?" title="Are bioweapons a looming AI threat?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789220681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=958">
+          <img src="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789220681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=958" alt="AI Experts Warn It Could Kill Us. Here’s How." title="AI Experts Warn It Could Kill Us. Here’s How.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cvxjqbfLVk0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tsfVq6MU9Zo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cvxjqbfLVk0&title=AI+Kills+Everybody+or+Doomer+Psyop%3F+OpenAI%E2%80%99s+Math+Breakthrough%2C+Nike%E2%80%99s+%24200B+Collapse&lang=en&timestamp=1789175150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5757">
-          <img src="https://ytcards.demolab.com/?id=cvxjqbfLVk0&title=AI+Kills+Everybody+or+Doomer+Psyop%3F+OpenAI%E2%80%99s+Math+Breakthrough%2C+Nike%E2%80%99s+%24200B+Collapse&lang=en&timestamp=1789175150&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5757" alt="AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse" title="AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789209881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5135">
+          <img src="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789209881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5135" alt="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence" title="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hAHjqxyhI3o" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hAHjqxyhI3o&title=%22Who+is+behind+all+this+negativity%22+on+AI%2C+says+Altimeter+Capital%27s+Brad+Gerstner&lang=en&timestamp=1789164350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699">
-          <img src="https://ytcards.demolab.com/?id=hAHjqxyhI3o&title=%22Who+is+behind+all+this+negativity%22+on+AI%2C+says+Altimeter+Capital%27s+Brad+Gerstner&lang=en&timestamp=1789164350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=699" alt="&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital's Brad Gerstner" title="&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital's Brad Gerstner">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JQHiJz8YqmI" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789164350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=499">
-          <img src="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789164350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=499" alt="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?" title="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=Vudle_FY_kg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vudle_FY_kg&title=%27%27TOO+FAST%27%27+Anthropic+CEO+Dario+Amodei+Warns+AI+Safety+May+Be+Losing+The+Race+Against+AI+Progress&lang=en&timestamp=1789247150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=581">
-          <img src="https://ytcards.demolab.com/?id=Vudle_FY_kg&title=%27%27TOO+FAST%27%27+Anthropic+CEO+Dario+Amodei+Warns+AI+Safety+May+Be+Losing+The+Race+Against+AI+Progress&lang=en&timestamp=1789247150&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=581" alt="''TOO FAST'' Anthropic CEO Dario Amodei Warns AI Safety May Be Losing The Race Against AI Progress" title="''TOO FAST'' Anthropic CEO Dario Amodei Warns AI Safety May Be Losing The Race Against AI Progress">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vudle_FY_kg&title=%27%27TOO+FAST%27%27+Anthropic+CEO+Dario+Amodei+Warns+AI+Safety+May+Be+Losing+The+Race+Against+AI+Progress&lang=en&timestamp=1789245881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=581">
+          <img src="https://ytcards.demolab.com/?id=Vudle_FY_kg&title=%27%27TOO+FAST%27%27+Anthropic+CEO+Dario+Amodei+Warns+AI+Safety+May+Be+Losing+The+Race+Against+AI+Progress&lang=en&timestamp=1789245881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=581" alt="''TOO FAST'' Anthropic CEO Dario Amodei Warns AI Safety May Be Losing The Race Against AI Progress" title="''TOO FAST'' Anthropic CEO Dario Amodei Warns AI Safety May Be Losing The Race Against AI Progress">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=tX8593FH-Y8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tX8593FH-Y8&title=%27Are+we+missing+something%3F%27%3A+DNI+details+what+keeps+him+up+at+night&lang=en&timestamp=1789202681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=319">
+          <img src="https://ytcards.demolab.com/?id=tX8593FH-Y8&title=%27Are+we+missing+something%3F%27%3A+DNI+details+what+keeps+him+up+at+night&lang=en&timestamp=1789202681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=319" alt="'Are we missing something?': DNI details what keeps him up at night" title="'Are we missing something?': DNI details what keeps him up at night">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=iFS9l6NjSBU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iFS9l6NjSBU&title=Lawmakers+push+urgent+artificial+intelligence+regulations+following+insider+humanity+warnings&lang=en&timestamp=1789242281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=47">
+          <img src="https://ytcards.demolab.com/?id=iFS9l6NjSBU&title=Lawmakers+push+urgent+artificial+intelligence+regulations+following+insider+humanity+warnings&lang=en&timestamp=1789242281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=47" alt="Lawmakers push urgent artificial intelligence regulations following insider humanity warnings" title="Lawmakers push urgent artificial intelligence regulations following insider humanity warnings">
         </picture>
       </a>
     </td>
