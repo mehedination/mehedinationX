@@ -547,56 +547,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Fsmqh4t9Kls" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1YtHFAgL24M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Fsmqh4t9Kls&title=AI+leaders+issue+urgent+warning+over+self-improving+models+%7C+9+News+Australia&lang=en&timestamp=1789293606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
-          <img src="https://ytcards.demolab.com/?id=Fsmqh4t9Kls&title=AI+leaders+issue+urgent+warning+over+self-improving+models+%7C+9+News+Australia&lang=en&timestamp=1789293606&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="AI leaders issue urgent warning over self-improving models | 9 News Australia" title="AI leaders issue urgent warning over self-improving models | 9 News Australia">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1YtHFAgL24M&title=What+is+the+risk+of+artificial+intelligence%3F&lang=en&timestamp=1789507793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=222">
+          <img src="https://ytcards.demolab.com/?id=1YtHFAgL24M&title=What+is+the+risk+of+artificial+intelligence%3F&lang=en&timestamp=1789507793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=222" alt="What is the risk of artificial intelligence?" title="What is the risk of artificial intelligence?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HIJ-ZBQqU0g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eHT378bv6DI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIJ-ZBQqU0g&title=Will+rogue+AI+development+mean+the+end+of+humanity%3F+Experts+weigh+in&lang=en&timestamp=1789311606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1108">
-          <img src="https://ytcards.demolab.com/?id=HIJ-ZBQqU0g&title=Will+rogue+AI+development+mean+the+end+of+humanity%3F+Experts+weigh+in&lang=en&timestamp=1789311606&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1108" alt="Will rogue AI development mean the end of humanity? Experts weigh in" title="Will rogue AI development mean the end of humanity? Experts weigh in">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eHT378bv6DI&title=Steven+Fabian+Interviews+Artificial+Intelligence+Creation&lang=en&timestamp=1789507793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
+          <img src="https://ytcards.demolab.com/?id=eHT378bv6DI&title=Steven+Fabian+Interviews+Artificial+Intelligence+Creation&lang=en&timestamp=1789507793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="Steven Fabian Interviews Artificial Intelligence Creation" title="Steven Fabian Interviews Artificial Intelligence Creation">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mjj-LFi0x1w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NwIx4vTUiik" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mjj-LFi0x1w&title=Trump+downplays+the+need+to+check+AI+development+and+says+he+doesn%27t+want+to+cede+edge+to+China&lang=en&timestamp=1789340406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
-          <img src="https://ytcards.demolab.com/?id=mjj-LFi0x1w&title=Trump+downplays+the+need+to+check+AI+development+and+says+he+doesn%27t+want+to+cede+edge+to+China&lang=en&timestamp=1789340406&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="Trump downplays the need to check AI development and says he doesn't want to cede edge to China" title="Trump downplays the need to check AI development and says he doesn't want to cede edge to China">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NwIx4vTUiik&title=Sen.+Mark+Warner+says+U.S.+can+strengthen+AI+safety+without+losing+race+to+China&lang=en&timestamp=1789514993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=548">
+          <img src="https://ytcards.demolab.com/?id=NwIx4vTUiik&title=Sen.+Mark+Warner+says+U.S.+can+strengthen+AI+safety+without+losing+race+to+China&lang=en&timestamp=1789514993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=548" alt="Sen. Mark Warner says U.S. can strengthen AI safety without losing race to China" title="Sen. Mark Warner says U.S. can strengthen AI safety without losing race to China">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VlQpxmtsduM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EABJ8eEGMjY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VlQpxmtsduM&title=It%E2%80%99s+important+to+%E2%80%98keep+your+eyes+open%E2%80%99%3A+Coxon+on+AI+development&lang=en&timestamp=1789318806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=334">
-          <img src="https://ytcards.demolab.com/?id=VlQpxmtsduM&title=It%E2%80%99s+important+to+%E2%80%98keep+your+eyes+open%E2%80%99%3A+Coxon+on+AI+development&lang=en&timestamp=1789318806&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=334" alt="It’s important to ‘keep your eyes open’: Coxon on AI development" title="It’s important to ‘keep your eyes open’: Coxon on AI development">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EABJ8eEGMjY&title=AI%27s+regulatory+divide+grows&lang=en&timestamp=1789489793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=179">
+          <img src="https://ytcards.demolab.com/?id=EABJ8eEGMjY&title=AI%27s+regulatory+divide+grows&lang=en&timestamp=1789489793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=179" alt="AI's regulatory divide grows" title="AI's regulatory divide grows">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1YWfzWPeyyQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yhmJVDxdgZU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1YWfzWPeyyQ&title=Artificial+intelligence+is+becoming+an+%E2%80%98existential+threat%E2%80%99+to+humanity&lang=en&timestamp=1789340406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=347">
-          <img src="https://ytcards.demolab.com/?id=1YWfzWPeyyQ&title=Artificial+intelligence+is+becoming+an+%E2%80%98existential+threat%E2%80%99+to+humanity&lang=en&timestamp=1789340406&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=347" alt="Artificial intelligence is becoming an ‘existential threat’ to humanity" title="Artificial intelligence is becoming an ‘existential threat’ to humanity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yhmJVDxdgZU&title=AI+Will+Be+Biggest+%27Misallocation%27+of+Capital%2C+Says+Noble&lang=en&timestamp=1789486193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
+          <img src="https://ytcards.demolab.com/?id=yhmJVDxdgZU&title=AI+Will+Be+Biggest+%27Misallocation%27+of+Capital%2C+Says+Noble&lang=en&timestamp=1789486193&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="AI Will Be Biggest 'Misallocation' of Capital, Says Noble" title="AI Will Be Biggest 'Misallocation' of Capital, Says Noble">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CkmtS8adzjM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xs0YDVmXCDY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CkmtS8adzjM&title=Anthropic+CEO+calls+for+slowdown+of+AI+development+for+humanity%27s+sake+%7C+ABC+NEWS&lang=en&timestamp=1789293606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130">
-          <img src="https://ytcards.demolab.com/?id=CkmtS8adzjM&title=Anthropic+CEO+calls+for+slowdown+of+AI+development+for+humanity%27s+sake+%7C+ABC+NEWS&lang=en&timestamp=1789293606&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=130" alt="Anthropic CEO calls for slowdown of AI development for humanity's sake | ABC NEWS" title="Anthropic CEO calls for slowdown of AI development for humanity's sake | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xs0YDVmXCDY&title=Where+AI+legislation%2C+government+regulations+stand&lang=en&timestamp=1789525793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
+          <img src="https://ytcards.demolab.com/?id=xs0YDVmXCDY&title=Where+AI+legislation%2C+government+regulations+stand&lang=en&timestamp=1789525793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="Where AI legislation, government regulations stand" title="Where AI legislation, government regulations stand">
         </picture>
       </a>
     </td>
