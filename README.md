@@ -548,56 +548,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=1YtHFAgL24M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1YtHFAgL24M&title=What+is+the+risk+of+artificial+intelligence%3F&lang=en&timestamp=1789507793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=222">
-          <img src="https://ytcards.demolab.com/?id=1YtHFAgL24M&title=What+is+the+risk+of+artificial+intelligence%3F&lang=en&timestamp=1789507793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=222" alt="What is the risk of artificial intelligence?" title="What is the risk of artificial intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1YtHFAgL24M&title=What+is+the+risk+of+artificial+intelligence%3F&lang=en&timestamp=1789509562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=222">
+          <img src="https://ytcards.demolab.com/?id=1YtHFAgL24M&title=What+is+the+risk+of+artificial+intelligence%3F&lang=en&timestamp=1789509562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=222" alt="What is the risk of artificial intelligence?" title="What is the risk of artificial intelligence?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lvlTpE0VDfk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lvlTpE0VDfk&title=The+AI+Doomer+narrative+is+getting+exposed&lang=en&timestamp=1789574362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6640">
+          <img src="https://ytcards.demolab.com/?id=lvlTpE0VDfk&title=The+AI+Doomer+narrative+is+getting+exposed&lang=en&timestamp=1789574362&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6640" alt="The AI Doomer narrative is getting exposed" title="The AI Doomer narrative is getting exposed">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=eHT378bv6DI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eHT378bv6DI&title=Steven+Fabian+Interviews+Artificial+Intelligence+Creation&lang=en&timestamp=1789507793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
-          <img src="https://ytcards.demolab.com/?id=eHT378bv6DI&title=Steven+Fabian+Interviews+Artificial+Intelligence+Creation&lang=en&timestamp=1789507793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="Steven Fabian Interviews Artificial Intelligence Creation" title="Steven Fabian Interviews Artificial Intelligence Creation">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NwIx4vTUiik" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NwIx4vTUiik&title=Sen.+Mark+Warner+says+U.S.+can+strengthen+AI+safety+without+losing+race+to+China&lang=en&timestamp=1789514993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=548">
-          <img src="https://ytcards.demolab.com/?id=NwIx4vTUiik&title=Sen.+Mark+Warner+says+U.S.+can+strengthen+AI+safety+without+losing+race+to+China&lang=en&timestamp=1789514993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=548" alt="Sen. Mark Warner says U.S. can strengthen AI safety without losing race to China" title="Sen. Mark Warner says U.S. can strengthen AI safety without losing race to China">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eHT378bv6DI&title=Steven+Fabian+Interviews+Artificial+Intelligence+Creation&lang=en&timestamp=1789509562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
+          <img src="https://ytcards.demolab.com/?id=eHT378bv6DI&title=Steven+Fabian+Interviews+Artificial+Intelligence+Creation&lang=en&timestamp=1789509562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="Steven Fabian Interviews Artificial Intelligence Creation" title="Steven Fabian Interviews Artificial Intelligence Creation">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EABJ8eEGMjY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Ul17XPVczig" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EABJ8eEGMjY&title=AI%27s+regulatory+divide+grows&lang=en&timestamp=1789489793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=179">
-          <img src="https://ytcards.demolab.com/?id=EABJ8eEGMjY&title=AI%27s+regulatory+divide+grows&lang=en&timestamp=1789489793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=179" alt="AI's regulatory divide grows" title="AI's regulatory divide grows">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ul17XPVczig&title=ARTIFICIAL+CRISIS%3A+Trump+and+GOP+lawmakers+question+timing+of+doomsday+AI+narrative&lang=en&timestamp=1789527562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2406">
+          <img src="https://ytcards.demolab.com/?id=Ul17XPVczig&title=ARTIFICIAL+CRISIS%3A+Trump+and+GOP+lawmakers+question+timing+of+doomsday+AI+narrative&lang=en&timestamp=1789527562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2406" alt="ARTIFICIAL CRISIS: Trump and GOP lawmakers question timing of doomsday AI narrative" title="ARTIFICIAL CRISIS: Trump and GOP lawmakers question timing of doomsday AI narrative">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=yhmJVDxdgZU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yhmJVDxdgZU&title=AI+Will+Be+Biggest+%27Misallocation%27+of+Capital%2C+Says+Noble&lang=en&timestamp=1789486193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
-          <img src="https://ytcards.demolab.com/?id=yhmJVDxdgZU&title=AI+Will+Be+Biggest+%27Misallocation%27+of+Capital%2C+Says+Noble&lang=en&timestamp=1789486193&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="AI Will Be Biggest 'Misallocation' of Capital, Says Noble" title="AI Will Be Biggest 'Misallocation' of Capital, Says Noble">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yhmJVDxdgZU&title=AI+Will+Be+Biggest+%27Misallocation%27+of+Capital%2C+Says+Noble&lang=en&timestamp=1789509562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
+          <img src="https://ytcards.demolab.com/?id=yhmJVDxdgZU&title=AI+Will+Be+Biggest+%27Misallocation%27+of+Capital%2C+Says+Noble&lang=en&timestamp=1789509562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="AI Will Be Biggest 'Misallocation' of Capital, Says Noble" title="AI Will Be Biggest 'Misallocation' of Capital, Says Noble">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xs0YDVmXCDY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Srh78O03W8I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xs0YDVmXCDY&title=Where+AI+legislation%2C+government+regulations+stand&lang=en&timestamp=1789525793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
-          <img src="https://ytcards.demolab.com/?id=xs0YDVmXCDY&title=Where+AI+legislation%2C+government+regulations+stand&lang=en&timestamp=1789525793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="Where AI legislation, government regulations stand" title="Where AI legislation, government regulations stand">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Srh78O03W8I&title=SATAN+IS+THE+GREATEST+SOURCE+OF+ARTIFICIAL+INTELLIGENCE%E2%80%94The+Danger+of+AI+vs.+BIBLICAL+TRUTH&lang=en&timestamp=1789570762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2910">
+          <img src="https://ytcards.demolab.com/?id=Srh78O03W8I&title=SATAN+IS+THE+GREATEST+SOURCE+OF+ARTIFICIAL+INTELLIGENCE%E2%80%94The+Danger+of+AI+vs.+BIBLICAL+TRUTH&lang=en&timestamp=1789570762&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2910" alt="SATAN IS THE GREATEST SOURCE OF ARTIFICIAL INTELLIGENCE—The Danger of AI vs. BIBLICAL TRUTH" title="SATAN IS THE GREATEST SOURCE OF ARTIFICIAL INTELLIGENCE—The Danger of AI vs. BIBLICAL TRUTH">
         </picture>
       </a>
     </td>
