@@ -549,56 +549,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1YtHFAgL24M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J3ljHm57yU0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1YtHFAgL24M&title=What+is+the+risk+of+artificial+intelligence%3F&lang=en&timestamp=1789509562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=222">
-          <img src="https://ytcards.demolab.com/?id=1YtHFAgL24M&title=What+is+the+risk+of+artificial+intelligence%3F&lang=en&timestamp=1789509562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=222" alt="What is the risk of artificial intelligence?" title="What is the risk of artificial intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J3ljHm57yU0&title=What+AI+Researchers+Saw%2C+Before+Their+Demand+to+%E2%80%98Pace%E2%80%99+AI&lang=en&timestamp=1789592181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1493">
+          <img src="https://ytcards.demolab.com/?id=J3ljHm57yU0&title=What+AI+Researchers+Saw%2C+Before+Their+Demand+to+%E2%80%98Pace%E2%80%99+AI&lang=en&timestamp=1789592181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1493" alt="What AI Researchers Saw, Before Their Demand to ‘Pace’ AI" title="What AI Researchers Saw, Before Their Demand to ‘Pace’ AI">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=lvlTpE0VDfk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lvlTpE0VDfk&title=The+AI+Doomer+narrative+is+getting+exposed&lang=en&timestamp=1789574362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6640">
-          <img src="https://ytcards.demolab.com/?id=lvlTpE0VDfk&title=The+AI+Doomer+narrative+is+getting+exposed&lang=en&timestamp=1789574362&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6640" alt="The AI Doomer narrative is getting exposed" title="The AI Doomer narrative is getting exposed">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lvlTpE0VDfk&title=This+AI+Panic+Is+Being+Bought+and+Paid+For&lang=en&timestamp=1789574181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6640">
+          <img src="https://ytcards.demolab.com/?id=lvlTpE0VDfk&title=This+AI+Panic+Is+Being+Bought+and+Paid+For&lang=en&timestamp=1789574181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6640" alt="This AI Panic Is Being Bought and Paid For" title="This AI Panic Is Being Bought and Paid For">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eHT378bv6DI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wLEC6qoVQVs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eHT378bv6DI&title=Steven+Fabian+Interviews+Artificial+Intelligence+Creation&lang=en&timestamp=1789509562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
-          <img src="https://ytcards.demolab.com/?id=eHT378bv6DI&title=Steven+Fabian+Interviews+Artificial+Intelligence+Creation&lang=en&timestamp=1789509562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="Steven Fabian Interviews Artificial Intelligence Creation" title="Steven Fabian Interviews Artificial Intelligence Creation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wLEC6qoVQVs&title=%27All+about+money%27%3A+Top+Dem+sounds+alarm+on+A.I.+as+Congress+skips+town&lang=en&timestamp=1789610181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=388">
+          <img src="https://ytcards.demolab.com/?id=wLEC6qoVQVs&title=%27All+about+money%27%3A+Top+Dem+sounds+alarm+on+A.I.+as+Congress+skips+town&lang=en&timestamp=1789610181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=388" alt="'All about money': Top Dem sounds alarm on A.I. as Congress skips town" title="'All about money': Top Dem sounds alarm on A.I. as Congress skips town">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ul17XPVczig" target="_blank">
+      <a href="https://www.youtube.com/watch?v=l3L6X18PJ9Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ul17XPVczig&title=ARTIFICIAL+CRISIS%3A+Trump+and+GOP+lawmakers+question+timing+of+doomsday+AI+narrative&lang=en&timestamp=1789527562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2406">
-          <img src="https://ytcards.demolab.com/?id=Ul17XPVczig&title=ARTIFICIAL+CRISIS%3A+Trump+and+GOP+lawmakers+question+timing+of+doomsday+AI+narrative&lang=en&timestamp=1789527562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2406" alt="ARTIFICIAL CRISIS: Trump and GOP lawmakers question timing of doomsday AI narrative" title="ARTIFICIAL CRISIS: Trump and GOP lawmakers question timing of doomsday AI narrative">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yhmJVDxdgZU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yhmJVDxdgZU&title=AI+Will+Be+Biggest+%27Misallocation%27+of+Capital%2C+Says+Noble&lang=en&timestamp=1789509562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
-          <img src="https://ytcards.demolab.com/?id=yhmJVDxdgZU&title=AI+Will+Be+Biggest+%27Misallocation%27+of+Capital%2C+Says+Noble&lang=en&timestamp=1789509562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="AI Will Be Biggest 'Misallocation' of Capital, Says Noble" title="AI Will Be Biggest 'Misallocation' of Capital, Says Noble">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l3L6X18PJ9Q&title=AI+Engineer+Full+Course+2026++%7C+Complete+Artificial+Intelligence+Course+%7C+Simplilearn&lang=en&timestamp=1789599381&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39858">
+          <img src="https://ytcards.demolab.com/?id=l3L6X18PJ9Q&title=AI+Engineer+Full+Course+2026++%7C+Complete+Artificial+Intelligence+Course+%7C+Simplilearn&lang=en&timestamp=1789599381&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=39858" alt="AI Engineer Full Course 2026  | Complete Artificial Intelligence Course | Simplilearn" title="AI Engineer Full Course 2026  | Complete Artificial Intelligence Course | Simplilearn">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Srh78O03W8I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Srh78O03W8I&title=SATAN+IS+THE+GREATEST+SOURCE+OF+ARTIFICIAL+INTELLIGENCE%E2%80%94The+Danger+of+AI+vs.+BIBLICAL+TRUTH&lang=en&timestamp=1789570762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2910">
-          <img src="https://ytcards.demolab.com/?id=Srh78O03W8I&title=SATAN+IS+THE+GREATEST+SOURCE+OF+ARTIFICIAL+INTELLIGENCE%E2%80%94The+Danger+of+AI+vs.+BIBLICAL+TRUTH&lang=en&timestamp=1789570762&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2910" alt="SATAN IS THE GREATEST SOURCE OF ARTIFICIAL INTELLIGENCE—The Danger of AI vs. BIBLICAL TRUTH" title="SATAN IS THE GREATEST SOURCE OF ARTIFICIAL INTELLIGENCE—The Danger of AI vs. BIBLICAL TRUTH">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Srh78O03W8I&title=SATAN+IS+THE+GREATEST+SOURCE+OF+ARTIFICIAL+INTELLIGENCE%E2%80%94The+Danger+of+AI+vs.+BIBLICAL+TRUTH&lang=en&timestamp=1789570581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2910">
+          <img src="https://ytcards.demolab.com/?id=Srh78O03W8I&title=SATAN+IS+THE+GREATEST+SOURCE+OF+ARTIFICIAL+INTELLIGENCE%E2%80%94The+Danger+of+AI+vs.+BIBLICAL+TRUTH&lang=en&timestamp=1789570581&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2910" alt="SATAN IS THE GREATEST SOURCE OF ARTIFICIAL INTELLIGENCE—The Danger of AI vs. BIBLICAL TRUTH" title="SATAN IS THE GREATEST SOURCE OF ARTIFICIAL INTELLIGENCE—The Danger of AI vs. BIBLICAL TRUTH">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=UnQ3RliZCb4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UnQ3RliZCb4&title=Alabama+attorney+general+candidate+says+AI+could+mark+%22new+chapter%22+of+legal+action+against+Big+Tech&lang=en&timestamp=1789599381&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=354">
+          <img src="https://ytcards.demolab.com/?id=UnQ3RliZCb4&title=Alabama+attorney+general+candidate+says+AI+could+mark+%22new+chapter%22+of+legal+action+against+Big+Tech&lang=en&timestamp=1789599381&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=354" alt="Alabama attorney general candidate says AI could mark &quot;new chapter&quot; of legal action against Big Tech" title="Alabama attorney general candidate says AI could mark &quot;new chapter&quot; of legal action against Big Tech">
         </picture>
       </a>
     </td>
