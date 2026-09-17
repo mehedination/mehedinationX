@@ -552,56 +552,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lbJcCYVwXJQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbJcCYVwXJQ&title=AI+creations+could+become+%27new+silicon+species%27+says+head+of+Microsoft+AI+%7C+BBC+News&lang=en&timestamp=1789640892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1298">
+          <img src="https://ytcards.demolab.com/?id=lbJcCYVwXJQ&title=AI+creations+could+become+%27new+silicon+species%27+says+head+of+Microsoft+AI+%7C+BBC+News&lang=en&timestamp=1789640892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1298" alt="AI creations could become 'new silicon species' says head of Microsoft AI | BBC News" title="AI creations could become 'new silicon species' says head of Microsoft AI | BBC News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=J3ljHm57yU0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J3ljHm57yU0&title=What+AI+Researchers+Saw%2C+Before+Their+Demand+to+%E2%80%98Pace%E2%80%99+AI&lang=en&timestamp=1789592806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1493">
-          <img src="https://ytcards.demolab.com/?id=J3ljHm57yU0&title=What+AI+Researchers+Saw%2C+Before+Their+Demand+to+%E2%80%98Pace%E2%80%99+AI&lang=en&timestamp=1789592806&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1493" alt="What AI Researchers Saw, Before Their Demand to ‘Pace’ AI" title="What AI Researchers Saw, Before Their Demand to ‘Pace’ AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J3ljHm57yU0&title=What+AI+Researchers+Saw%2C+Before+Their+Demand+to+%E2%80%98Pace%E2%80%99+AI&lang=en&timestamp=1789601292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1493">
+          <img src="https://ytcards.demolab.com/?id=J3ljHm57yU0&title=What+AI+Researchers+Saw%2C+Before+Their+Demand+to+%E2%80%98Pace%E2%80%99+AI&lang=en&timestamp=1789601292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1493" alt="What AI Researchers Saw, Before Their Demand to ‘Pace’ AI" title="What AI Researchers Saw, Before Their Demand to ‘Pace’ AI">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m5yrQMnc_jQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m5yrQMnc_jQ&title=AI+kill+switch+won%27t+work+in+the+long+run%3A+%27Godfather%27+of+AI&lang=en&timestamp=1789607206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=641">
-          <img src="https://ytcards.demolab.com/?id=m5yrQMnc_jQ&title=AI+kill+switch+won%27t+work+in+the+long+run%3A+%27Godfather%27+of+AI&lang=en&timestamp=1789607206&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=641" alt="AI kill switch won't work in the long run: 'Godfather' of AI" title="AI kill switch won't work in the long run: 'Godfather' of AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=l3L6X18PJ9Q" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l3L6X18PJ9Q&title=AI+Engineer+Full+Course+2026++%7C+Complete+Artificial+Intelligence+Course+%7C+Simplilearn&lang=en&timestamp=1789600006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39858">
-          <img src="https://ytcards.demolab.com/?id=l3L6X18PJ9Q&title=AI+Engineer+Full+Course+2026++%7C+Complete+Artificial+Intelligence+Course+%7C+Simplilearn&lang=en&timestamp=1789600006&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=39858" alt="AI Engineer Full Course 2026  | Complete Artificial Intelligence Course | Simplilearn" title="AI Engineer Full Course 2026  | Complete Artificial Intelligence Course | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m5yrQMnc_jQ&title=AI+kill+switch+won%27t+work+in+the+long+run%3A+%27Godfather%27+of+AI&lang=en&timestamp=1789608492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=641">
+          <img src="https://ytcards.demolab.com/?id=m5yrQMnc_jQ&title=AI+kill+switch+won%27t+work+in+the+long+run%3A+%27Godfather%27+of+AI&lang=en&timestamp=1789608492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=641" alt="AI kill switch won't work in the long run: 'Godfather' of AI" title="AI kill switch won't work in the long run: 'Godfather' of AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IYEsEzAhS0Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Lc6DLYG7q_c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IYEsEzAhS0Q&title=Can+Washington+control+AI%3F+%7C+This+Is+America&lang=en&timestamp=1789592806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1615">
-          <img src="https://ytcards.demolab.com/?id=IYEsEzAhS0Q&title=Can+Washington+control+AI%3F+%7C+This+Is+America&lang=en&timestamp=1789592806&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1615" alt="Can Washington control AI? | This Is America" title="Can Washington control AI? | This Is America">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lc6DLYG7q_c&title=Americans+worry+about+environmental+impact+of+artificial+intelligence&lang=en&timestamp=1789680492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29">
+          <img src="https://ytcards.demolab.com/?id=Lc6DLYG7q_c&title=Americans+worry+about+environmental+impact+of+artificial+intelligence&lang=en&timestamp=1789680492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29" alt="Americans worry about environmental impact of artificial intelligence" title="Americans worry about environmental impact of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kFN2XP7LqkI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4DvcWirVdgs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kFN2XP7LqkI&title=Booker+Calls+for+Special+Session+of+Congress+on+Artificial+Intelligence+on+Senate+Floor&lang=en&timestamp=1789664806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
-          <img src="https://ytcards.demolab.com/?id=kFN2XP7LqkI&title=Booker+Calls+for+Special+Session+of+Congress+on+Artificial+Intelligence+on+Senate+Floor&lang=en&timestamp=1789664806&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="Booker Calls for Special Session of Congress on Artificial Intelligence on Senate Floor" title="Booker Calls for Special Session of Congress on Artificial Intelligence on Senate Floor">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DvcWirVdgs&title=%27Godfather+of+AI%27+issues+new+warning+to+%27slow+down&lang=en&timestamp=1789640892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132">
+          <img src="https://ytcards.demolab.com/?id=4DvcWirVdgs&title=%27Godfather+of+AI%27+issues+new+warning+to+%27slow+down&lang=en&timestamp=1789640892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=132" alt="'Godfather of AI' issues new warning to 'slow down" title="'Godfather of AI' issues new warning to 'slow down">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cvMRaa6h8tM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ar5QqJDUJuw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cvMRaa6h8tM&title=Science+Correspondent+breaks+down+the+%27terrifying%27+risks+of+superintelligent+AI&lang=en&timestamp=1789589206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=552">
-          <img src="https://ytcards.demolab.com/?id=cvMRaa6h8tM&title=Science+Correspondent+breaks+down+the+%27terrifying%27+risks+of+superintelligent+AI&lang=en&timestamp=1789589206&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=552" alt="Science Correspondent breaks down the 'terrifying' risks of superintelligent AI" title="Science Correspondent breaks down the 'terrifying' risks of superintelligent AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ar5QqJDUJuw&title=Sen.+Chris+Murphy%3A+AI+industry+%27CANNOT%27+regulate+themselves&lang=en&timestamp=1789673292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=591">
+          <img src="https://ytcards.demolab.com/?id=ar5QqJDUJuw&title=Sen.+Chris+Murphy%3A+AI+industry+%27CANNOT%27+regulate+themselves&lang=en&timestamp=1789673292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=591" alt="Sen. Chris Murphy: AI industry 'CANNOT' regulate themselves" title="Sen. Chris Murphy: AI industry 'CANNOT' regulate themselves">
         </picture>
       </a>
     </td>
