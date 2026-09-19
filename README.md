@@ -553,56 +553,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lbJcCYVwXJQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tJr8RA2FK6g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbJcCYVwXJQ&title=AI+creations+could+become+%27new+silicon+species%27+says+head+of+Microsoft+AI+%7C+BBC+News&lang=en&timestamp=1789640892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1298">
-          <img src="https://ytcards.demolab.com/?id=lbJcCYVwXJQ&title=AI+creations+could+become+%27new+silicon+species%27+says+head+of+Microsoft+AI+%7C+BBC+News&lang=en&timestamp=1789640892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1298" alt="AI creations could become 'new silicon species' says head of Microsoft AI | BBC News" title="AI creations could become 'new silicon species' says head of Microsoft AI | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tJr8RA2FK6g&title=Is+it+too+late+for+humanity+to+take+back+control+of+AI%3F+%7C+BBC+News&lang=en&timestamp=1789757590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1576">
+          <img src="https://ytcards.demolab.com/?id=tJr8RA2FK6g&title=Is+it+too+late+for+humanity+to+take+back+control+of+AI%3F+%7C+BBC+News&lang=en&timestamp=1789757590&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1576" alt="Is it too late for humanity to take back control of AI? | BBC News" title="Is it too late for humanity to take back control of AI? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=J3ljHm57yU0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XlY7DI5v4ZU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J3ljHm57yU0&title=What+AI+Researchers+Saw%2C+Before+Their+Demand+to+%E2%80%98Pace%E2%80%99+AI&lang=en&timestamp=1789601292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1493">
-          <img src="https://ytcards.demolab.com/?id=J3ljHm57yU0&title=What+AI+Researchers+Saw%2C+Before+Their+Demand+to+%E2%80%98Pace%E2%80%99+AI&lang=en&timestamp=1789601292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1493" alt="What AI Researchers Saw, Before Their Demand to ‘Pace’ AI" title="What AI Researchers Saw, Before Their Demand to ‘Pace’ AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XlY7DI5v4ZU&title=Nvidia+CEO+Jensen+Huang+accuses+those+warning+about+AI+apocalypse+of+%22doing+it+for+ulterior+reasons%22&lang=en&timestamp=1789771990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
+          <img src="https://ytcards.demolab.com/?id=XlY7DI5v4ZU&title=Nvidia+CEO+Jensen+Huang+accuses+those+warning+about+AI+apocalypse+of+%22doing+it+for+ulterior+reasons%22&lang=en&timestamp=1789771990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="Nvidia CEO Jensen Huang accuses those warning about AI apocalypse of &quot;doing it for ulterior reasons&quot;" title="Nvidia CEO Jensen Huang accuses those warning about AI apocalypse of &quot;doing it for ulterior reasons&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m5yrQMnc_jQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tne-fOt8FHk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m5yrQMnc_jQ&title=AI+kill+switch+won%27t+work+in+the+long+run%3A+%27Godfather%27+of+AI&lang=en&timestamp=1789608492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=641">
-          <img src="https://ytcards.demolab.com/?id=m5yrQMnc_jQ&title=AI+kill+switch+won%27t+work+in+the+long+run%3A+%27Godfather%27+of+AI&lang=en&timestamp=1789608492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=641" alt="AI kill switch won't work in the long run: 'Godfather' of AI" title="AI kill switch won't work in the long run: 'Godfather' of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tne-fOt8FHk&title=As+Trump+rejects+AI+regulations%2C+what%27s+China%27s+AI+approach+like%3F&lang=en&timestamp=1789753990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=661">
+          <img src="https://ytcards.demolab.com/?id=tne-fOt8FHk&title=As+Trump+rejects+AI+regulations%2C+what%27s+China%27s+AI+approach+like%3F&lang=en&timestamp=1789753990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=661" alt="As Trump rejects AI regulations, what's China's AI approach like?" title="As Trump rejects AI regulations, what's China's AI approach like?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Lc6DLYG7q_c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AQhRsT_Bva4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lc6DLYG7q_c&title=Americans+worry+about+environmental+impact+of+artificial+intelligence&lang=en&timestamp=1789680492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29">
-          <img src="https://ytcards.demolab.com/?id=Lc6DLYG7q_c&title=Americans+worry+about+environmental+impact+of+artificial+intelligence&lang=en&timestamp=1789680492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29" alt="Americans worry about environmental impact of artificial intelligence" title="Americans worry about environmental impact of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AQhRsT_Bva4&title=AI+safety+expert+on+calls+to+ban+superintelligence&lang=en&timestamp=1789753990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=355">
+          <img src="https://ytcards.demolab.com/?id=AQhRsT_Bva4&title=AI+safety+expert+on+calls+to+ban+superintelligence&lang=en&timestamp=1789753990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=355" alt="AI safety expert on calls to ban superintelligence" title="AI safety expert on calls to ban superintelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4DvcWirVdgs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KDS1yEuvOjA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DvcWirVdgs&title=%27Godfather+of+AI%27+issues+new+warning+to+%27slow+down&lang=en&timestamp=1789640892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132">
-          <img src="https://ytcards.demolab.com/?id=4DvcWirVdgs&title=%27Godfather+of+AI%27+issues+new+warning+to+%27slow+down&lang=en&timestamp=1789640892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=132" alt="'Godfather of AI' issues new warning to 'slow down" title="'Godfather of AI' issues new warning to 'slow down">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KDS1yEuvOjA&title=%27DISASTROUS+CONSEQUENCES%27%3A+Iran%27s+AI-powered+cyber+threat+sparks+alarm&lang=en&timestamp=1789753990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=223">
+          <img src="https://ytcards.demolab.com/?id=KDS1yEuvOjA&title=%27DISASTROUS+CONSEQUENCES%27%3A+Iran%27s+AI-powered+cyber+threat+sparks+alarm&lang=en&timestamp=1789753990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=223" alt="'DISASTROUS CONSEQUENCES': Iran's AI-powered cyber threat sparks alarm" title="'DISASTROUS CONSEQUENCES': Iran's AI-powered cyber threat sparks alarm">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ar5QqJDUJuw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2jTAVLFTavE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ar5QqJDUJuw&title=Sen.+Chris+Murphy%3A+AI+industry+%27CANNOT%27+regulate+themselves&lang=en&timestamp=1789673292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=591">
-          <img src="https://ytcards.demolab.com/?id=ar5QqJDUJuw&title=Sen.+Chris+Murphy%3A+AI+industry+%27CANNOT%27+regulate+themselves&lang=en&timestamp=1789673292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=591" alt="Sen. Chris Murphy: AI industry 'CANNOT' regulate themselves" title="Sen. Chris Murphy: AI industry 'CANNOT' regulate themselves">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2jTAVLFTavE&title=AI+regulation+stalls+in+Congress+as+House+votes+on+data+center+costs&lang=en&timestamp=1789753990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=168">
+          <img src="https://ytcards.demolab.com/?id=2jTAVLFTavE&title=AI+regulation+stalls+in+Congress+as+House+votes+on+data+center+costs&lang=en&timestamp=1789753990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=168" alt="AI regulation stalls in Congress as House votes on data center costs" title="AI regulation stalls in Congress as House votes on data center costs">
         </picture>
       </a>
     </td>
