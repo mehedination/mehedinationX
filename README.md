@@ -558,56 +558,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-b2bJ2CLh5Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=z8aCIkQ6lrY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-b2bJ2CLh5Y&title=AI+is+the+next+%27INDUSTRIAL+REVOLUTION%27&lang=en&timestamp=1789923664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=410">
-          <img src="https://ytcards.demolab.com/?id=-b2bJ2CLh5Y&title=AI+is+the+next+%27INDUSTRIAL+REVOLUTION%27&lang=en&timestamp=1789923664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=410" alt="AI is the next 'INDUSTRIAL REVOLUTION'" title="AI is the next 'INDUSTRIAL REVOLUTION'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z8aCIkQ6lrY&title=Concerns+over+artificial+intelligence+on+agenda+in+summit&lang=en&timestamp=1789996727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=178">
+          <img src="https://ytcards.demolab.com/?id=z8aCIkQ6lrY&title=Concerns+over+artificial+intelligence+on+agenda+in+summit&lang=en&timestamp=1789996727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=178" alt="Concerns over artificial intelligence on agenda in summit" title="Concerns over artificial intelligence on agenda in summit">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=USz5wwfQg8w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xCUala5j7aQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789891264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
-          <img src="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789891264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="China wants to CONTROL AI: Expert" title="China wants to CONTROL AI: Expert">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789912127&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
+          <img src="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789912127&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Extended interview: Nvidia CEO Jensen Huang on fears about AI" title="Extended interview: Nvidia CEO Jensen Huang on fears about AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=c4sJen6s6vI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J9gNBptIFBc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789912864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
-          <img src="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789912864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Growing Fears Over Threats of AI: What Can Be Done About it?" title="Growing Fears Over Threats of AI: What Can Be Done About it?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9gNBptIFBc&title=US%2C+China+discuss+AI+dialogue+mechanism+and+trade+ahead+of+Trump-XI+summit+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789980527&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=368">
+          <img src="https://ytcards.demolab.com/?id=J9gNBptIFBc&title=US%2C+China+discuss+AI+dialogue+mechanism+and+trade+ahead+of+Trump-XI+summit+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789980527&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=368" alt="US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit • FRANCE 24 English" title="US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit • FRANCE 24 English">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xCUala5j7aQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=USz5wwfQg8w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789912864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
-          <img src="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789912864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Extended interview: Nvidia CEO Jensen Huang on fears about AI" title="Extended interview: Nvidia CEO Jensen Huang on fears about AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789912127&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
+          <img src="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789912127&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="China wants to CONTROL AI: Expert" title="China wants to CONTROL AI: Expert">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jiY4WSYtIfw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ABEvQj1VlyQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jiY4WSYtIfw&title=Is+AI+Evolving+Beyond+Human+Control%3F+%7C+WION+News&lang=en&timestamp=1789909264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189">
-          <img src="https://ytcards.demolab.com/?id=jiY4WSYtIfw&title=Is+AI+Evolving+Beyond+Human+Control%3F+%7C+WION+News&lang=en&timestamp=1789909264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=189" alt="Is AI Evolving Beyond Human Control? | WION News" title="Is AI Evolving Beyond Human Control? | WION News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789940927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736">
+          <img src="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789940927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=736" alt="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent" title="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RDuTOdJ1qN4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=D_JABbHQMl8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RDuTOdJ1qN4&title=Christian+Datoc+on+Donald+Trump+maintaining+his+support+for+AI+innovations&lang=en&timestamp=1789902064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=624">
-          <img src="https://ytcards.demolab.com/?id=RDuTOdJ1qN4&title=Christian+Datoc+on+Donald+Trump+maintaining+his+support+for+AI+innovations&lang=en&timestamp=1789902064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=624" alt="Christian Datoc on Donald Trump maintaining his support for AI innovations" title="Christian Datoc on Donald Trump maintaining his support for AI innovations">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D_JABbHQMl8&title=Artificial+Intelligence+Premium+Paid+Lecture+No+1&lang=en&timestamp=1789997087&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2280">
+          <img src="https://ytcards.demolab.com/?id=D_JABbHQMl8&title=Artificial+Intelligence+Premium+Paid+Lecture+No+1&lang=en&timestamp=1789997087&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2280" alt="Artificial Intelligence Premium Paid Lecture No 1" title="Artificial Intelligence Premium Paid Lecture No 1">
         </picture>
       </a>
     </td>
