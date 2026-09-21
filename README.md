@@ -560,56 +560,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4S9BjeBxe1M" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789995975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457">
+          <img src="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789995975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=457" alt="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang" title="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xCUala5j7aQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789931513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
-          <img src="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789931513&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Extended interview: Nvidia CEO Jensen Huang on fears about AI" title="Extended interview: Nvidia CEO Jensen Huang on fears about AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789945575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
+          <img src="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789945575&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Extended interview: Nvidia CEO Jensen Huang on fears about AI" title="Extended interview: Nvidia CEO Jensen Huang on fears about AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ULeI9SICeks" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XcpmCvLvp6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ULeI9SICeks&title=Lawmakers+push+for+artificial+intelligence+regulations&lang=en&timestamp=1789992713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85">
-          <img src="https://ytcards.demolab.com/?id=ULeI9SICeks&title=Lawmakers+push+for+artificial+intelligence+regulations&lang=en&timestamp=1789992713&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=85" alt="Lawmakers push for artificial intelligence regulations" title="Lawmakers push for artificial intelligence regulations">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lJr42wzYQtw" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJr42wzYQtw&title=Trump+rejects+AI+slowdown+as+Google+reveals+Gemini+hacking+incident&lang=en&timestamp=1789931513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=89">
-          <img src="https://ytcards.demolab.com/?id=lJr42wzYQtw&title=Trump+rejects+AI+slowdown+as+Google+reveals+Gemini+hacking+incident&lang=en&timestamp=1789931513&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=89" alt="Trump rejects AI slowdown as Google reveals Gemini hacking incident" title="Trump rejects AI slowdown as Google reveals Gemini hacking incident">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XcpmCvLvp6A&title=Artificial+Intelligence+Full+Course+Free+%7C+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1790003175&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38193">
+          <img src="https://ytcards.demolab.com/?id=XcpmCvLvp6A&title=Artificial+Intelligence+Full+Course+Free+%7C+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1790003175&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38193" alt="Artificial Intelligence Full Course Free | AI Course 2026 | Intellipaat" title="Artificial Intelligence Full Course Free | AI Course 2026 | Intellipaat">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CYhJPO5__Kc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ULeI9SICeks" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CYhJPO5__Kc&title=FULL+EVENT%3A+Former+President+Obama+Discusses+AI%2C+Democracy+At+Colgate+University&lang=en&timestamp=1789931513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4050">
-          <img src="https://ytcards.demolab.com/?id=CYhJPO5__Kc&title=FULL+EVENT%3A+Former+President+Obama+Discusses+AI%2C+Democracy+At+Colgate+University&lang=en&timestamp=1789931513&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4050" alt="FULL EVENT: Former President Obama Discusses AI, Democracy At Colgate University" title="FULL EVENT: Former President Obama Discusses AI, Democracy At Colgate University">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ULeI9SICeks&title=Lawmakers+push+for+artificial+intelligence+regulations&lang=en&timestamp=1789992375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85">
+          <img src="https://ytcards.demolab.com/?id=ULeI9SICeks&title=Lawmakers+push+for+artificial+intelligence+regulations&lang=en&timestamp=1789992375&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=85" alt="Lawmakers push for artificial intelligence regulations" title="Lawmakers push for artificial intelligence regulations">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1QsWb5wDS0Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J9gNBptIFBc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QsWb5wDS0Y&title=GROWING+concerns+about+US+stockpiles+as+Taiwan+invasion+worries+linger&lang=en&timestamp=1789938713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=464">
-          <img src="https://ytcards.demolab.com/?id=1QsWb5wDS0Y&title=GROWING+concerns+about+US+stockpiles+as+Taiwan+invasion+worries+linger&lang=en&timestamp=1789938713&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=464" alt="GROWING concerns about US stockpiles as Taiwan invasion worries linger" title="GROWING concerns about US stockpiles as Taiwan invasion worries linger">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9gNBptIFBc&title=US%2C+China+discuss+AI+dialogue+mechanism+and+trade+ahead+of+Trump-XI+summit+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789981575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=368">
+          <img src="https://ytcards.demolab.com/?id=J9gNBptIFBc&title=US%2C+China+discuss+AI+dialogue+mechanism+and+trade+ahead+of+Trump-XI+summit+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789981575&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=368" alt="US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit • FRANCE 24 English" title="US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JYIkGljjnWY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lJr42wzYQtw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYIkGljjnWY&title=The+CHILLING+Reason+AI+Researchers+Are+Quitting+Their+Jobs&lang=en&timestamp=1789931513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1475">
-          <img src="https://ytcards.demolab.com/?id=JYIkGljjnWY&title=The+CHILLING+Reason+AI+Researchers+Are+Quitting+Their+Jobs&lang=en&timestamp=1789931513&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1475" alt="The CHILLING Reason AI Researchers Are Quitting Their Jobs" title="The CHILLING Reason AI Researchers Are Quitting Their Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJr42wzYQtw&title=Trump+rejects+AI+slowdown+as+Google+reveals+Gemini+hacking+incident&lang=en&timestamp=1789945575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=89">
+          <img src="https://ytcards.demolab.com/?id=lJr42wzYQtw&title=Trump+rejects+AI+slowdown+as+Google+reveals+Gemini+hacking+incident&lang=en&timestamp=1789945575&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=89" alt="Trump rejects AI slowdown as Google reveals Gemini hacking incident" title="Trump rejects AI slowdown as Google reveals Gemini hacking incident">
         </picture>
       </a>
     </td>
