@@ -557,56 +557,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rvxfcmloDhU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-b2bJ2CLh5Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789852883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=705">
-          <img src="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789852883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=705" alt="AI experts on doomsday fears: It's too late to stop the AI threat" title="AI experts on doomsday fears: It's too late to stop the AI threat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-b2bJ2CLh5Y&title=AI+is+the+next+%27INDUSTRIAL+REVOLUTION%27&lang=en&timestamp=1789923664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=410">
+          <img src="https://ytcards.demolab.com/?id=-b2bJ2CLh5Y&title=AI+is+the+next+%27INDUSTRIAL+REVOLUTION%27&lang=en&timestamp=1789923664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=410" alt="AI is the next 'INDUSTRIAL REVOLUTION'" title="AI is the next 'INDUSTRIAL REVOLUTION'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ask5wzUo9kQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=USz5wwfQg8w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789870883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=254">
-          <img src="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789870883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=254" alt="Obama on Artificial Intelligence" title="Obama on Artificial Intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0DvZobv87Dw" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789852883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71">
-          <img src="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789852883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=71" alt="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence" title="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TpkhwmNXq5k" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789852883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=458">
-          <img src="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789852883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=458" alt="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack" title="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789891264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
+          <img src="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789891264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="China wants to CONTROL AI: Expert" title="China wants to CONTROL AI: Expert">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=c4sJen6s6vI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789910483&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
-          <img src="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789910483&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Growing Fears Over Threats of AI: What Can Be Done About it?" title="Growing Fears Over Threats of AI: What Can Be Done About it?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789912864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
+          <img src="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789912864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Growing Fears Over Threats of AI: What Can Be Done About it?" title="Growing Fears Over Threats of AI: What Can Be Done About it?">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=xCUala5j7aQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789912864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
+          <img src="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789912864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Extended interview: Nvidia CEO Jensen Huang on fears about AI" title="Extended interview: Nvidia CEO Jensen Huang on fears about AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lJr42wzYQtw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jiY4WSYtIfw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJr42wzYQtw&title=Trump+rejects+AI+slowdown+as+Google+reveals+Gemini+hacking+incident&lang=en&timestamp=1789917683&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=89">
-          <img src="https://ytcards.demolab.com/?id=lJr42wzYQtw&title=Trump+rejects+AI+slowdown+as+Google+reveals+Gemini+hacking+incident&lang=en&timestamp=1789917683&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=89" alt="Trump rejects AI slowdown as Google reveals Gemini hacking incident" title="Trump rejects AI slowdown as Google reveals Gemini hacking incident">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jiY4WSYtIfw&title=Is+AI+Evolving+Beyond+Human+Control%3F+%7C+WION+News&lang=en&timestamp=1789909264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189">
+          <img src="https://ytcards.demolab.com/?id=jiY4WSYtIfw&title=Is+AI+Evolving+Beyond+Human+Control%3F+%7C+WION+News&lang=en&timestamp=1789909264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=189" alt="Is AI Evolving Beyond Human Control? | WION News" title="Is AI Evolving Beyond Human Control? | WION News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=RDuTOdJ1qN4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RDuTOdJ1qN4&title=Christian+Datoc+on+Donald+Trump+maintaining+his+support+for+AI+innovations&lang=en&timestamp=1789902064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=624">
+          <img src="https://ytcards.demolab.com/?id=RDuTOdJ1qN4&title=Christian+Datoc+on+Donald+Trump+maintaining+his+support+for+AI+innovations&lang=en&timestamp=1789902064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=624" alt="Christian Datoc on Donald Trump maintaining his support for AI innovations" title="Christian Datoc on Donald Trump maintaining his support for AI innovations">
         </picture>
       </a>
     </td>
