@@ -562,56 +562,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wDiihXDorIY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OYGNuYZ_jt0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wDiihXDorIY&title=The+AI+Challenges+Businesses+Are+Actually+Focused+On+Right+Now&lang=en&timestamp=1790000392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1617">
-          <img src="https://ytcards.demolab.com/?id=wDiihXDorIY&title=The+AI+Challenges+Businesses+Are+Actually+Focused+On+Right+Now&lang=en&timestamp=1790000392&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1617" alt="The AI Challenges Businesses Are Actually Focused On Right Now" title="The AI Challenges Businesses Are Actually Focused On Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OYGNuYZ_jt0&title=WATCH%3A+Trump+dismisses+concerns+about+AI+risks+at+UN%2C+says+he+won%27t+rein+it+in&lang=en&timestamp=1790093554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=184">
+          <img src="https://ytcards.demolab.com/?id=OYGNuYZ_jt0&title=WATCH%3A+Trump+dismisses+concerns+about+AI+risks+at+UN%2C+says+he+won%27t+rein+it+in&lang=en&timestamp=1790093554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=184" alt="WATCH: Trump dismisses concerns about AI risks at UN, says he won't rein it in" title="WATCH: Trump dismisses concerns about AI risks at UN, says he won't rein it in">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=G4fQZwdcPPg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6Q8dzYS-LZY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1790000392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=479">
-          <img src="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1790000392&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=479" alt="Republican, Democratic strategists react to AI becoming an issue for midterm voters" title="Republican, Democratic strategists react to AI becoming an issue for midterm voters">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6Q8dzYS-LZY&title=Alibaba+Unveils+Powerful+AI+Chip+as+Meta+Revives+AI+Optimism&lang=en&timestamp=1790071954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2999">
+          <img src="https://ytcards.demolab.com/?id=6Q8dzYS-LZY&title=Alibaba+Unveils+Powerful+AI+Chip+as+Meta+Revives+AI+Optimism&lang=en&timestamp=1790071954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2999" alt="Alibaba Unveils Powerful AI Chip as Meta Revives AI Optimism" title="Alibaba Unveils Powerful AI Chip as Meta Revives AI Optimism">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4S9BjeBxe1M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kHZPbjZ8WkA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789993192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457">
-          <img src="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789993192&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=457" alt="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang" title="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kHZPbjZ8WkA&title=AI+becomes+focal+point+at+the+United+Nations&lang=en&timestamp=1790097154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=241">
+          <img src="https://ytcards.demolab.com/?id=kHZPbjZ8WkA&title=AI+becomes+focal+point+at+the+United+Nations&lang=en&timestamp=1790097154&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=241" alt="AI becomes focal point at the United Nations" title="AI becomes focal point at the United Nations">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9oHWYBI0CRg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qgrMM3ilvNA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9oHWYBI0CRg&title=Trump+announces+%22AI+Force%22+and+plans+to+unveil+%22AI+Czar%22%3B+Nvidia+CEO+dismisses+AI+concerns&lang=en&timestamp=1790018392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=609">
-          <img src="https://ytcards.demolab.com/?id=9oHWYBI0CRg&title=Trump+announces+%22AI+Force%22+and+plans+to+unveil+%22AI+Czar%22%3B+Nvidia+CEO+dismisses+AI+concerns&lang=en&timestamp=1790018392&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=609" alt="Trump announces &quot;AI Force&quot; and plans to unveil &quot;AI Czar&quot;; Nvidia CEO dismisses AI concerns" title="Trump announces &quot;AI Force&quot; and plans to unveil &quot;AI Czar&quot;; Nvidia CEO dismisses AI concerns">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qgrMM3ilvNA&title=OpenAI+says+U.S.+should+lead+efforts+to+set+global+AI+safety+standards&lang=en&timestamp=1790089954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=212">
+          <img src="https://ytcards.demolab.com/?id=qgrMM3ilvNA&title=OpenAI+says+U.S.+should+lead+efforts+to+set+global+AI+safety+standards&lang=en&timestamp=1790089954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=212" alt="OpenAI says U.S. should lead efforts to set global AI safety standards" title="OpenAI says U.S. should lead efforts to set global AI safety standards">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W4HuvlDca_s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1uMBfVqtYy8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W4HuvlDca_s&title=Another+AI+agent+went+rogue+days+before+Trump+meets+with+Xi&lang=en&timestamp=1789993192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
-          <img src="https://ytcards.demolab.com/?id=W4HuvlDca_s&title=Another+AI+agent+went+rogue+days+before+Trump+meets+with+Xi&lang=en&timestamp=1789993192&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Another AI agent went rogue days before Trump meets with Xi" title="Another AI agent went rogue days before Trump meets with Xi">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1uMBfVqtYy8&title=Trump+UN+speech+to+focus+on+Iran%2C+Ukraine+and+artificial+intelligence&lang=en&timestamp=1790089954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=131">
+          <img src="https://ytcards.demolab.com/?id=1uMBfVqtYy8&title=Trump+UN+speech+to+focus+on+Iran%2C+Ukraine+and+artificial+intelligence&lang=en&timestamp=1790089954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=131" alt="Trump UN speech to focus on Iran, Ukraine and artificial intelligence" title="Trump UN speech to focus on Iran, Ukraine and artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XDE_3EKtmKc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aqdum6lnhJ8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XDE_3EKtmKc&title=Poll+shows+many+Americans+are+worried+about+AI+harm&lang=en&timestamp=1790007592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=158">
-          <img src="https://ytcards.demolab.com/?id=XDE_3EKtmKc&title=Poll+shows+many+Americans+are+worried+about+AI+harm&lang=en&timestamp=1790007592&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=158" alt="Poll shows many Americans are worried about AI harm" title="Poll shows many Americans are worried about AI harm">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aqdum6lnhJ8&title=Changing+my+mind+about+AI+risk+%23francisfukuyama&lang=en&timestamp=1790082754&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=718">
+          <img src="https://ytcards.demolab.com/?id=aqdum6lnhJ8&title=Changing+my+mind+about+AI+risk+%23francisfukuyama&lang=en&timestamp=1790082754&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=718" alt="Changing my mind about AI risk #francisfukuyama" title="Changing my mind about AI risk #francisfukuyama">
         </picture>
       </a>
     </td>
