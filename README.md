@@ -567,56 +567,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WDUx29fOy1g" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790267317&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1843">
-          <img src="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790267317&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1843" alt="AI Expert Reveals The Exploitation Behind AI" title="AI Expert Reveals The Exploitation Behind AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=JIQoL0F_rb4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790260117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=998">
-          <img src="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790260117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=998" alt="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council" title="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IdcjplwJUQ8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790263717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2196">
-          <img src="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790263717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2196" alt="What Safeguarding Nukes Can Teach Us About Safeguarding A.I." title="What Safeguarding Nukes Can Teach Us About Safeguarding A.I.">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-RNz0xfpVs4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790256517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
-          <img src="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790256517&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="'They're catching up fast': Rattner's REALITY CHECK on China's AI" title="'They're catching up fast': Rattner's REALITY CHECK on China's AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QkwKn1qhTtQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790245717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
-          <img src="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790245717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="What the 'Godfather of AI' Thinks Humanity Should Do" title="What the 'Godfather of AI' Thinks Humanity Should Do">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790260226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=998">
+          <img src="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790260226&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=998" alt="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council" title="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=5iKDNyDHL4o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5iKDNyDHL4o&title=Trump-Xi+summit+dismisses+calls+for+global+oversight+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1790278117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2670">
-          <img src="https://ytcards.demolab.com/?id=5iKDNyDHL4o&title=Trump-Xi+summit+dismisses+calls+for+global+oversight+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1790278117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2670" alt="Trump-Xi summit dismisses calls for global oversight • FRANCE 24 English" title="Trump-Xi summit dismisses calls for global oversight • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5iKDNyDHL4o&title=Trump-Xi+summit+dismisses+calls+for+global+oversight+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1790278226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2670">
+          <img src="https://ytcards.demolab.com/?id=5iKDNyDHL4o&title=Trump-Xi+summit+dismisses+calls+for+global+oversight+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1790278226&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2670" alt="Trump-Xi summit dismisses calls for global oversight • FRANCE 24 English" title="Trump-Xi summit dismisses calls for global oversight • FRANCE 24 English">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=WDUx29fOy1g" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790267426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1843">
+          <img src="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790267426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1843" alt="AI Expert Reveals The Exploitation Behind AI" title="AI Expert Reveals The Exploitation Behind AI">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=IdcjplwJUQ8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790263826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2196">
+          <img src="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790263826&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2196" alt="What Safeguarding Nukes Can Teach Us About Safeguarding A.I." title="What Safeguarding Nukes Can Teach Us About Safeguarding A.I.">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=-RNz0xfpVs4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790256626&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
+          <img src="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790256626&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="'They're catching up fast': Rattner's REALITY CHECK on China's AI" title="'They're catching up fast': Rattner's REALITY CHECK on China's AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=QkwKn1qhTtQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790256626&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
+          <img src="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790256626&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="What the 'Godfather of AI' Thinks Humanity Should Do" title="What the 'Godfather of AI' Thinks Humanity Should Do">
         </picture>
       </a>
     </td>
