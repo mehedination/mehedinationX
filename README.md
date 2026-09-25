@@ -565,56 +565,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hE1lqkj8Wco" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JIQoL0F_rb4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hE1lqkj8Wco&title=Trump+calls+effort+to+slow+down+AI+development+a+%22globalist+scheme%22&lang=en&timestamp=1790115211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314">
-          <img src="https://ytcards.demolab.com/?id=hE1lqkj8Wco&title=Trump+calls+effort+to+slow+down+AI+development+a+%22globalist+scheme%22&lang=en&timestamp=1790115211&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=314" alt="Trump calls effort to slow down AI development a &quot;globalist scheme&quot;" title="Trump calls effort to slow down AI development a &quot;globalist scheme&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790263133&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=998">
+          <img src="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790263133&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=998" alt="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council" title="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kHZPbjZ8WkA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=54hjMyx8WSM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kHZPbjZ8WkA&title=AI+becomes+focal+point+at+the+United+Nations&lang=en&timestamp=1790097211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=241">
-          <img src="https://ytcards.demolab.com/?id=kHZPbjZ8WkA&title=AI+becomes+focal+point+at+the+United+Nations&lang=en&timestamp=1790097211&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=241" alt="AI becomes focal point at the United Nations" title="AI becomes focal point at the United Nations">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=54hjMyx8WSM&title=Trump+and+Xi+meet+at+the+White+House%3A+Trade%2C+AI+and+global+tensions&lang=en&timestamp=1790255933&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=509">
+          <img src="https://ytcards.demolab.com/?id=54hjMyx8WSM&title=Trump+and+Xi+meet+at+the+White+House%3A+Trade%2C+AI+and+global+tensions&lang=en&timestamp=1790255933&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=509" alt="Trump and Xi meet at the White House: Trade, AI and global tensions" title="Trump and Xi meet at the White House: Trade, AI and global tensions">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4VyhApb5PHU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IdcjplwJUQ8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4VyhApb5PHU&title=Trump+to+U.N.%3A+Whoever+wins+AI%2C+wins&lang=en&timestamp=1790108011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120">
-          <img src="https://ytcards.demolab.com/?id=4VyhApb5PHU&title=Trump+to+U.N.%3A+Whoever+wins+AI%2C+wins&lang=en&timestamp=1790108011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=120" alt="Trump to U.N.: Whoever wins AI, wins" title="Trump to U.N.: Whoever wins AI, wins">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790263133&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2196">
+          <img src="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790263133&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2196" alt="What Safeguarding Nukes Can Teach Us About Safeguarding A.I." title="What Safeguarding Nukes Can Teach Us About Safeguarding A.I.">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hSP0TDa9cNE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-RNz0xfpVs4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hSP0TDa9cNE&title=Our+superpower+is+letting+entrepreneurs+build+great+products%2C+AI+expert+says&lang=en&timestamp=1790122411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=230">
-          <img src="https://ytcards.demolab.com/?id=hSP0TDa9cNE&title=Our+superpower+is+letting+entrepreneurs+build+great+products%2C+AI+expert+says&lang=en&timestamp=1790122411&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=230" alt="Our superpower is letting entrepreneurs build great products, AI expert says" title="Our superpower is letting entrepreneurs build great products, AI expert says">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790255933&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
+          <img src="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790255933&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="'They're catching up fast': Rattner's REALITY CHECK on China's AI" title="'They're catching up fast': Rattner's REALITY CHECK on China's AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8YLMguupHU8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8Qa9xhElvps" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8YLMguupHU8&title=Trump+Proposes+Officially+Changing+Term+for+AI+to+%27Super+Intelligence%27&lang=en&timestamp=1790093611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
-          <img src="https://ytcards.demolab.com/?id=8YLMguupHU8&title=Trump+Proposes+Officially+Changing+Term+for+AI+to+%27Super+Intelligence%27&lang=en&timestamp=1790093611&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Trump Proposes Officially Changing Term for AI to 'Super Intelligence'" title="Trump Proposes Officially Changing Term for AI to 'Super Intelligence'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Qa9xhElvps&title=Trump+to+host+Xi+Jinping+at+White+House+to+discuss+AI%2C+trade+deals&lang=en&timestamp=1790252333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130">
+          <img src="https://ytcards.demolab.com/?id=8Qa9xhElvps&title=Trump+to+host+Xi+Jinping+at+White+House+to+discuss+AI%2C+trade+deals&lang=en&timestamp=1790252333&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=130" alt="Trump to host Xi Jinping at White House to discuss AI, trade deals" title="Trump to host Xi Jinping at White House to discuss AI, trade deals">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oMbiA98GD44" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QkwKn1qhTtQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMbiA98GD44&title=Trump+touts+AI+leadership%2C+rejects+new+safety+regulations&lang=en&timestamp=1790115211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=152">
-          <img src="https://ytcards.demolab.com/?id=oMbiA98GD44&title=Trump+touts+AI+leadership%2C+rejects+new+safety+regulations&lang=en&timestamp=1790115211&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=152" alt="Trump touts AI leadership, rejects new safety regulations" title="Trump touts AI leadership, rejects new safety regulations">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790248733&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
+          <img src="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790248733&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="What the 'Godfather of AI' Thinks Humanity Should Do" title="What the 'Godfather of AI' Thinks Humanity Should Do">
         </picture>
       </a>
     </td>
