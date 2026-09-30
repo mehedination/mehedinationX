@@ -577,56 +577,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m9QVgJufSEg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790719250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
-          <img src="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790719250&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence" title="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790724964&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
+          <img src="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790724964&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence" title="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=D8lDoI4yLLA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790715650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
-          <img src="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790715650&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump" title="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790724964&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
+          <img src="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790724964&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump" title="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=qR9N6AVxud8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qR9N6AVxud8&title=Trump%E2%80%99s+AI+deal%3A+Can+government+and+tech+regulate+artificial+intelligence%3F+%7C+On+Balance&lang=en&timestamp=1790751650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=455">
-          <img src="https://ytcards.demolab.com/?id=qR9N6AVxud8&title=Trump%E2%80%99s+AI+deal%3A+Can+government+and+tech+regulate+artificial+intelligence%3F+%7C+On+Balance&lang=en&timestamp=1790751650&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=455" alt="Trump’s AI deal: Can government and tech regulate artificial intelligence? | On Balance" title="Trump’s AI deal: Can government and tech regulate artificial intelligence? | On Balance">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qR9N6AVxud8&title=Trump%E2%80%99s+AI+deal%3A+Can+government+and+tech+regulate+artificial+intelligence%3F+%7C+On+Balance&lang=en&timestamp=1790753764&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=455">
+          <img src="https://ytcards.demolab.com/?id=qR9N6AVxud8&title=Trump%E2%80%99s+AI+deal%3A+Can+government+and+tech+regulate+artificial+intelligence%3F+%7C+On+Balance&lang=en&timestamp=1790753764&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=455" alt="Trump’s AI deal: Can government and tech regulate artificial intelligence? | On Balance" title="Trump’s AI deal: Can government and tech regulate artificial intelligence? | On Balance">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NC2V7yed36A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hv4Xxry7d44" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NC2V7yed36A&title=Artificial+intelligence%3A+Trump+meets+AI+leaders+%7C+FOX+7+Austin&lang=en&timestamp=1790776850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
-          <img src="https://ytcards.demolab.com/?id=NC2V7yed36A&title=Artificial+intelligence%3A+Trump+meets+AI+leaders+%7C+FOX+7+Austin&lang=en&timestamp=1790776850&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="Artificial intelligence: Trump meets AI leaders | FOX 7 Austin" title="Artificial intelligence: Trump meets AI leaders | FOX 7 Austin">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hv4Xxry7d44&title=IT%E2%80%99S+OFFICIAL%3A+Trump+reveals+NEW+name+for+artificial+intelligence&lang=en&timestamp=1790728564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=656">
+          <img src="https://ytcards.demolab.com/?id=hv4Xxry7d44&title=IT%E2%80%99S+OFFICIAL%3A+Trump+reveals+NEW+name+for+artificial+intelligence&lang=en&timestamp=1790728564&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=656" alt="IT’S OFFICIAL: Trump reveals NEW name for artificial intelligence" title="IT’S OFFICIAL: Trump reveals NEW name for artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Gc59K7LQncg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J0Tk_voS0oY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gc59K7LQncg&title=Trump+is+%27ill-advised%27+about+artificial+intelligence%2C+says+%27godfather%27+of+AI&lang=en&timestamp=1790708450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
-          <img src="https://ytcards.demolab.com/?id=Gc59K7LQncg&title=Trump+is+%27ill-advised%27+about+artificial+intelligence%2C+says+%27godfather%27+of+AI&lang=en&timestamp=1790708450&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="Trump is 'ill-advised' about artificial intelligence, says 'godfather' of AI" title="Trump is 'ill-advised' about artificial intelligence, says 'godfather' of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J0Tk_voS0oY&title=OpenAI+unveils+new+AI+agent+called+%22dots%22&lang=en&timestamp=1790724964&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=301">
+          <img src="https://ytcards.demolab.com/?id=J0Tk_voS0oY&title=OpenAI+unveils+new+AI+agent+called+%22dots%22&lang=en&timestamp=1790724964&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=301" alt="OpenAI unveils new AI agent called &quot;dots&quot;" title="OpenAI unveils new AI agent called &quot;dots&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XklI-X5Z_Qc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wDAjehkO--k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XklI-X5Z_Qc&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1790780450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
-          <img src="https://ytcards.demolab.com/?id=XklI-X5Z_Qc&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1790780450&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wDAjehkO--k&title=Trump+signs+order%2C+rebranding+AI+as+%E2%80%98super+intelligence%E2%80%99&lang=en&timestamp=1790771764&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58">
+          <img src="https://ytcards.demolab.com/?id=wDAjehkO--k&title=Trump+signs+order%2C+rebranding+AI+as+%E2%80%98super+intelligence%E2%80%99&lang=en&timestamp=1790771764&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=58" alt="Trump signs order, rebranding AI as ‘super intelligence’" title="Trump signs order, rebranding AI as ‘super intelligence’">
         </picture>
       </a>
     </td>
