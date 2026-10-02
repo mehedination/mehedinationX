@@ -579,56 +579,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=XqxbWdJ51K0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XqxbWdJ51K0&title=%22They%27re+Not+Superintelligent%22%3A+Timnit+Gebru+Discredits+Big+Tech%27s+AI+Claims&lang=en&timestamp=1790867703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1512">
+          <img src="https://ytcards.demolab.com/?id=XqxbWdJ51K0&title=%22They%27re+Not+Superintelligent%22%3A+Timnit+Gebru+Discredits+Big+Tech%27s+AI+Claims&lang=en&timestamp=1790867703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1512" alt="&quot;They're Not Superintelligent&quot;: Timnit Gebru Discredits Big Tech's AI Claims" title="&quot;They're Not Superintelligent&quot;: Timnit Gebru Discredits Big Tech's AI Claims">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=J9n1plL7040" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9n1plL7040&title=Trump+called+his+new+AI+chatbot+%E2%80%98damn+good.%E2%80%99+Then+it+fact-checked+him&lang=en&timestamp=1790871303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=549">
+          <img src="https://ytcards.demolab.com/?id=J9n1plL7040&title=Trump+called+his+new+AI+chatbot+%E2%80%98damn+good.%E2%80%99+Then+it+fact-checked+him&lang=en&timestamp=1790871303&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=549" alt="Trump called his new AI chatbot ‘damn good.’ Then it fact-checked him" title="Trump called his new AI chatbot ‘damn good.’ Then it fact-checked him">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=WsdcF7EEvhM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=THIS+is+What+Happens+When+AI+Gets+Smarter+Than+Humans&lang=en&timestamp=1790859943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6294">
-          <img src="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=THIS+is+What+Happens+When+AI+Gets+Smarter+Than+Humans&lang=en&timestamp=1790859943&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6294" alt="THIS is What Happens When AI Gets Smarter Than Humans" title="THIS is What Happens When AI Gets Smarter Than Humans">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BmhI5_nD91g" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BmhI5_nD91g&title=California+adds+guardrails+around+artificial+intelligence&lang=en&timestamp=1790903143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37">
-          <img src="https://ytcards.demolab.com/?id=BmhI5_nD91g&title=California+adds+guardrails+around+artificial+intelligence&lang=en&timestamp=1790903143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37" alt="California adds guardrails around artificial intelligence" title="California adds guardrails around artificial intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XQNNFCJLchQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XQNNFCJLchQ&title=Governor+Wes+Moore%27s+approach+to+AI&lang=en&timestamp=1790877943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1360">
-          <img src="https://ytcards.demolab.com/?id=XQNNFCJLchQ&title=Governor+Wes+Moore%27s+approach+to+AI&lang=en&timestamp=1790877943&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1360" alt="Governor Wes Moore's approach to AI" title="Governor Wes Moore's approach to AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=AI+is+So+Good+They%E2%80%99ll+Pay+You+to+Get+Out+of+the+Way&lang=en&timestamp=1790860503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6294">
+          <img src="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=AI+is+So+Good+They%E2%80%99ll+Pay+You+to+Get+Out+of+the+Way&lang=en&timestamp=1790860503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6294" alt="AI is So Good They’ll Pay You to Get Out of the Way" title="AI is So Good They’ll Pay You to Get Out of the Way">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OHfe824vVl0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ltT6nx0Zcy0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OHfe824vVl0&title=273%3A+AI+Beyond+Tech%3A+How+Artificial+Intelligence+Is+Reshaping+the+Economy&lang=en&timestamp=1790914723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1239">
-          <img src="https://ytcards.demolab.com/?id=OHfe824vVl0&title=273%3A+AI+Beyond+Tech%3A+How+Artificial+Intelligence+Is+Reshaping+the+Economy&lang=en&timestamp=1790914723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1239" alt="273: AI Beyond Tech: How Artificial Intelligence Is Reshaping the Economy" title="273: AI Beyond Tech: How Artificial Intelligence Is Reshaping the Economy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ltT6nx0Zcy0&title=Google+unveils+Gemini+4+Argon&lang=en&timestamp=1790882103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146">
+          <img src="https://ytcards.demolab.com/?id=ltT6nx0Zcy0&title=Google+unveils+Gemini+4+Argon&lang=en&timestamp=1790882103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=146" alt="Google unveils Gemini 4 Argon" title="Google unveils Gemini 4 Argon">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BpdipP_Tk2s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1fK5omRbOvM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BpdipP_Tk2s&title=Human+Language%2C+Artificial+Intelligence+%7C+Vera+Gruscevic&lang=en&timestamp=1790867143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
-          <img src="https://ytcards.demolab.com/?id=BpdipP_Tk2s&title=Human+Language%2C+Artificial+Intelligence+%7C+Vera+Gruscevic&lang=en&timestamp=1790867143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="Human Language, Artificial Intelligence | Vera Gruscevic" title="Human Language, Artificial Intelligence | Vera Gruscevic">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1fK5omRbOvM&title=FRED+Con+Live%3A+The+Now+and+Next+of+Economic+Data&lang=en&timestamp=1790889303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24270">
+          <img src="https://ytcards.demolab.com/?id=1fK5omRbOvM&title=FRED+Con+Live%3A+The+Now+and+Next+of+Economic+Data&lang=en&timestamp=1790889303&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24270" alt="FRED Con Live: The Now and Next of Economic Data" title="FRED Con Live: The Now and Next of Economic Data">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Dc1i9gNypnE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-fo7gN5qoDA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dc1i9gNypnE&title=Authentic+Truth+about+Artificial+Intelligence&lang=en&timestamp=1790906743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=559">
-          <img src="https://ytcards.demolab.com/?id=Dc1i9gNypnE&title=Authentic+Truth+about+Artificial+Intelligence&lang=en&timestamp=1790906743&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=559" alt="Authentic Truth about Artificial Intelligence" title="Authentic Truth about Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-fo7gN5qoDA&title=Newsom+declares+Trump%E2%80%99s+%E2%80%98Super+Intelligence%E2%80%99+is+NOT+coming+to+California&lang=en&timestamp=1790936103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=348">
+          <img src="https://ytcards.demolab.com/?id=-fo7gN5qoDA&title=Newsom+declares+Trump%E2%80%99s+%E2%80%98Super+Intelligence%E2%80%99+is+NOT+coming+to+California&lang=en&timestamp=1790936103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=348" alt="Newsom declares Trump’s ‘Super Intelligence’ is NOT coming to California" title="Newsom declares Trump’s ‘Super Intelligence’ is NOT coming to California">
         </picture>
       </a>
     </td>
