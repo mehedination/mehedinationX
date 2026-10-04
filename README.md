@@ -580,56 +580,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XqxbWdJ51K0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mUoChnvp6sE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XqxbWdJ51K0&title=%22They%27re+Not+Superintelligent%22%3A+Timnit+Gebru+Discredits+Big+Tech%27s+AI+Claims&lang=en&timestamp=1790867703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1512">
-          <img src="https://ytcards.demolab.com/?id=XqxbWdJ51K0&title=%22They%27re+Not+Superintelligent%22%3A+Timnit+Gebru+Discredits+Big+Tech%27s+AI+Claims&lang=en&timestamp=1790867703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1512" alt="&quot;They're Not Superintelligent&quot;: Timnit Gebru Discredits Big Tech's AI Claims" title="&quot;They're Not Superintelligent&quot;: Timnit Gebru Discredits Big Tech's AI Claims">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791037272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=760">
+          <img src="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791037272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=760" alt="Why Philosophers Are Worried About AI" title="Why Philosophers Are Worried About AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=J9n1plL7040" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BXZrEM-_MLw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9n1plL7040&title=Trump+called+his+new+AI+chatbot+%E2%80%98damn+good.%E2%80%99+Then+it+fact-checked+him&lang=en&timestamp=1790871303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=549">
-          <img src="https://ytcards.demolab.com/?id=J9n1plL7040&title=Trump+called+his+new+AI+chatbot+%E2%80%98damn+good.%E2%80%99+Then+it+fact-checked+him&lang=en&timestamp=1790871303&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=549" alt="Trump called his new AI chatbot ‘damn good.’ Then it fact-checked him" title="Trump called his new AI chatbot ‘damn good.’ Then it fact-checked him">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791048072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
+          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791048072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WsdcF7EEvhM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wULlr9BiTVs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=AI+is+So+Good+They%E2%80%99ll+Pay+You+to+Get+Out+of+the+Way&lang=en&timestamp=1790860503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6294">
-          <img src="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=AI+is+So+Good+They%E2%80%99ll+Pay+You+to+Get+Out+of+the+Way&lang=en&timestamp=1790860503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6294" alt="AI is So Good They’ll Pay You to Get Out of the Way" title="AI is So Good They’ll Pay You to Get Out of the Way">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wULlr9BiTVs&title=Peter+Norvig+Disagrees+With+Yann+LeCun.+Here%E2%80%99s+Why&lang=en&timestamp=1791030072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1099">
+          <img src="https://ytcards.demolab.com/?id=wULlr9BiTVs&title=Peter+Norvig+Disagrees+With+Yann+LeCun.+Here%E2%80%99s+Why&lang=en&timestamp=1791030072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1099" alt="Peter Norvig Disagrees With Yann LeCun. Here’s Why" title="Peter Norvig Disagrees With Yann LeCun. Here’s Why">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ltT6nx0Zcy0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Hz4AMy5vdwA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ltT6nx0Zcy0&title=Google+unveils+Gemini+4+Argon&lang=en&timestamp=1790882103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146">
-          <img src="https://ytcards.demolab.com/?id=ltT6nx0Zcy0&title=Google+unveils+Gemini+4+Argon&lang=en&timestamp=1790882103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=146" alt="Google unveils Gemini 4 Argon" title="Google unveils Gemini 4 Argon">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791055272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1239">
+          <img src="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791055272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1239" alt="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity" title="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1fK5omRbOvM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CHZ1KxpvAuU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1fK5omRbOvM&title=FRED+Con+Live%3A+The+Now+and+Next+of+Economic+Data&lang=en&timestamp=1790889303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24270">
-          <img src="https://ytcards.demolab.com/?id=1fK5omRbOvM&title=FRED+Con+Live%3A+The+Now+and+Next+of+Economic+Data&lang=en&timestamp=1790889303&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24270" alt="FRED Con Live: The Now and Next of Economic Data" title="FRED Con Live: The Now and Next of Economic Data">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791037272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
+          <img src="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791037272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="Rogue AI concerns hearing" title="Rogue AI concerns hearing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-fo7gN5qoDA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xGf7kglapR8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-fo7gN5qoDA&title=Newsom+declares+Trump%E2%80%99s+%E2%80%98Super+Intelligence%E2%80%99+is+NOT+coming+to+California&lang=en&timestamp=1790936103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=348">
-          <img src="https://ytcards.demolab.com/?id=-fo7gN5qoDA&title=Newsom+declares+Trump%E2%80%99s+%E2%80%98Super+Intelligence%E2%80%99+is+NOT+coming+to+California&lang=en&timestamp=1790936103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=348" alt="Newsom declares Trump’s ‘Super Intelligence’ is NOT coming to California" title="Newsom declares Trump’s ‘Super Intelligence’ is NOT coming to California">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791058872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791058872&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="AI expert pokes fun at ‘APOCALYPTIC pessimism’" title="AI expert pokes fun at ‘APOCALYPTIC pessimism’">
         </picture>
       </a>
     </td>
