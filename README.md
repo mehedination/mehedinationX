@@ -584,56 +584,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=dk-hx4_cqpk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dk-hx4_cqpk&title=AI+Just+Exploded%3A+GPT-7+BEL%2C+99%25+AGI%2C+Gemini+4+RSI%2C+Alien+Mind%2C+JEV&lang=en&timestamp=1791153469&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6221">
+          <img src="https://ytcards.demolab.com/?id=dk-hx4_cqpk&title=AI+Just+Exploded%3A+GPT-7+BEL%2C+99%25+AGI%2C+Gemini+4+RSI%2C+Alien+Mind%2C+JEV&lang=en&timestamp=1791153469&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6221" alt="AI Just Exploded: GPT-7 BEL, 99% AGI, Gemini 4 RSI, Alien Mind, JEV" title="AI Just Exploded: GPT-7 BEL, 99% AGI, Gemini 4 RSI, Alien Mind, JEV">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=e-zVdABblks" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e-zVdABblks&title=Expert+says+%27the+most+transcendent+applications%27+of+AI+will+be+in+the+military&lang=en&timestamp=1791146269&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=311">
+          <img src="https://ytcards.demolab.com/?id=e-zVdABblks&title=Expert+says+%27the+most+transcendent+applications%27+of+AI+will+be+in+the+military&lang=en&timestamp=1791146269&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=311" alt="Expert says 'the most transcendent applications' of AI will be in the military" title="Expert says 'the most transcendent applications' of AI will be in the military">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=83HMZrhL_Uw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=83HMZrhL_Uw&title=AI+%26+Music%3A+How+AI+Is+Changing+Music+Creation+%26+Creativity&lang=en&timestamp=1791112102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1038">
-          <img src="https://ytcards.demolab.com/?id=83HMZrhL_Uw&title=AI+%26+Music%3A+How+AI+Is+Changing+Music+Creation+%26+Creativity&lang=en&timestamp=1791112102&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1038" alt="AI & Music: How AI Is Changing Music Creation & Creativity" title="AI & Music: How AI Is Changing Music Creation & Creativity">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=283-FIF7s40" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=283-FIF7s40&title=AI+Gone+Rogue+-+The+Terrifying+Truth+About+Artificial+Intelligence+%7C+Billy+Carson&lang=en&timestamp=1791072502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6982">
-          <img src="https://ytcards.demolab.com/?id=283-FIF7s40&title=AI+Gone+Rogue+-+The+Terrifying+Truth+About+Artificial+Intelligence+%7C+Billy+Carson&lang=en&timestamp=1791072502&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6982" alt="AI Gone Rogue - The Terrifying Truth About Artificial Intelligence | Billy Carson" title="AI Gone Rogue - The Terrifying Truth About Artificial Intelligence | Billy Carson">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Nb9of8oTUeo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nb9of8oTUeo&title=Artificial+intelligence+takes+over+Command+%26+Conquer%3A+Red+Alert+2+&lang=en&timestamp=1791126502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2938">
-          <img src="https://ytcards.demolab.com/?id=Nb9of8oTUeo&title=Artificial+intelligence+takes+over+Command+%26+Conquer%3A+Red+Alert+2+&lang=en&timestamp=1791126502&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2938" alt="Artificial intelligence takes over Command & Conquer: Red Alert 2 " title="Artificial intelligence takes over Command & Conquer: Red Alert 2 ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=83HMZrhL_Uw&title=AI+%26+Music%3A+How+AI+Is+Changing+Music+Creation+%26+Creativity&lang=en&timestamp=1791113869&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1038">
+          <img src="https://ytcards.demolab.com/?id=83HMZrhL_Uw&title=AI+%26+Music%3A+How+AI+Is+Changing+Music+Creation+%26+Creativity&lang=en&timestamp=1791113869&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1038" alt="AI & Music: How AI Is Changing Music Creation & Creativity" title="AI & Music: How AI Is Changing Music Creation & Creativity">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BXZrEM-_MLw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TmyGxeuRo6Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791061702&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
-          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791061702&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmyGxeuRo6Y&title=Why+I+quit+the+movement+shaping+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1791124669&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=322">
+          <img src="https://ytcards.demolab.com/?id=TmyGxeuRo6Y&title=Why+I+quit+the+movement+shaping+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1791124669&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=322" alt="Why I quit the movement shaping AI • FRANCE 24 English" title="Why I quit the movement shaping AI • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lkuxhX580Wo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Nb9of8oTUeo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lkuxhX580Wo&title=The+Chris+Voss+Show+Podcast+%E2%80%93+The+AI-Human+Paradox%3A+What+Artificial+Intelligence+Reveals+About+Co...&lang=en&timestamp=1791094102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2080">
-          <img src="https://ytcards.demolab.com/?id=lkuxhX580Wo&title=The+Chris+Voss+Show+Podcast+%E2%80%93+The+AI-Human+Paradox%3A+What+Artificial+Intelligence+Reveals+About+Co...&lang=en&timestamp=1791094102&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2080" alt="The Chris Voss Show Podcast – The AI-Human Paradox: What Artificial Intelligence Reveals About Co..." title="The Chris Voss Show Podcast – The AI-Human Paradox: What Artificial Intelligence Reveals About Co...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nb9of8oTUeo&title=Artificial+intelligence+takes+over+Command+%26+Conquer%3A+Red+Alert+2+&lang=en&timestamp=1791124669&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2938">
+          <img src="https://ytcards.demolab.com/?id=Nb9of8oTUeo&title=Artificial+intelligence+takes+over+Command+%26+Conquer%3A+Red+Alert+2+&lang=en&timestamp=1791124669&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2938" alt="Artificial intelligence takes over Command & Conquer: Red Alert 2 " title="Artificial intelligence takes over Command & Conquer: Red Alert 2 ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lNdTvtPvNGk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6Xn2xxt3-kE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lNdTvtPvNGk&title=Contradicting+Trump%2C+Pope+Leo+says+artificial+intelligence+safety+concerns+not+%27fake+news%27&lang=en&timestamp=1791079702&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=47">
-          <img src="https://ytcards.demolab.com/?id=lNdTvtPvNGk&title=Contradicting+Trump%2C+Pope+Leo+says+artificial+intelligence+safety+concerns+not+%27fake+news%27&lang=en&timestamp=1791079702&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=47" alt="Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'" title="Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6Xn2xxt3-kE&title=US+workers+head+back+to+school+to+reskill+as+AI+reshapes+the+job+market&lang=en&timestamp=1791117469&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=139">
+          <img src="https://ytcards.demolab.com/?id=6Xn2xxt3-kE&title=US+workers+head+back+to+school+to+reskill+as+AI+reshapes+the+job+market&lang=en&timestamp=1791117469&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=139" alt="US workers head back to school to reskill as AI reshapes the job market" title="US workers head back to school to reskill as AI reshapes the job market">
         </picture>
       </a>
     </td>
