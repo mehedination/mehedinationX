@@ -586,56 +586,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=83HMZrhL_Uw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=veP6jdvy7j8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=83HMZrhL_Uw&title=AI+%26+Music%3A+How+AI+Is+Changing+Music+Creation+%26+Creativity&lang=en&timestamp=1791114265&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1038">
-          <img src="https://ytcards.demolab.com/?id=83HMZrhL_Uw&title=AI+%26+Music%3A+How+AI+Is+Changing+Music+Creation+%26+Creativity&lang=en&timestamp=1791114265&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1038" alt="AI & Music: How AI Is Changing Music Creation & Creativity" title="AI & Music: How AI Is Changing Music Creation & Creativity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791218956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
+          <img src="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791218956&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing" title="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dk-hx4_cqpk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w3u7NV0k3h0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dk-hx4_cqpk&title=AI+Just+Exploded%3A+GPT-7+BEL%2C+99%25+AGI%2C+Gemini+4+RSI%2C+Alien+Mind%2C+JEV&lang=en&timestamp=1791153865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6221">
-          <img src="https://ytcards.demolab.com/?id=dk-hx4_cqpk&title=AI+Just+Exploded%3A+GPT-7+BEL%2C+99%25+AGI%2C+Gemini+4+RSI%2C+Alien+Mind%2C+JEV&lang=en&timestamp=1791153865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6221" alt="AI Just Exploded: GPT-7 BEL, 99% AGI, Gemini 4 RSI, Alien Mind, JEV" title="AI Just Exploded: GPT-7 BEL, 99% AGI, Gemini 4 RSI, Alien Mind, JEV">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791186556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=537">
+          <img src="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791186556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=537" alt="WEDGE ISSUE: Democrats use AI to win over blue-collar voters" title="WEDGE ISSUE: Democrats use AI to win over blue-collar voters">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=peNzGhlAeZw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jq0AfkW-174" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=peNzGhlAeZw&title=Humans+are+teaching+AI+how+to+do+their+jobs+%7C+60+Minutes&lang=en&timestamp=1791171865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
-          <img src="https://ytcards.demolab.com/?id=peNzGhlAeZw&title=Humans+are+teaching+AI+how+to+do+their+jobs+%7C+60+Minutes&lang=en&timestamp=1791171865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="Humans are teaching AI how to do their jobs | 60 Minutes" title="Humans are teaching AI how to do their jobs | 60 Minutes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791229756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3184">
+          <img src="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791229756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3184" alt="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality" title="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cxRq2ADvlPc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tdK9eT1KBmk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cxRq2ADvlPc&title=What+does+winning+the+AI+race+really+mean%3F&lang=en&timestamp=1791121465&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=161">
-          <img src="https://ytcards.demolab.com/?id=cxRq2ADvlPc&title=What+does+winning+the+AI+race+really+mean%3F&lang=en&timestamp=1791121465&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=161" alt="What does winning the AI race really mean?" title="What does winning the AI race really mean?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791193756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
+          <img src="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791193756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology" title="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TmyGxeuRo6Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BUMy-KPGJY4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmyGxeuRo6Y&title=Why+I+quit+the+movement+shaping+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1791125065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=322">
-          <img src="https://ytcards.demolab.com/?id=TmyGxeuRo6Y&title=Why+I+quit+the+movement+shaping+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1791125065&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=322" alt="Why I quit the movement shaping AI • FRANCE 24 English" title="Why I quit the movement shaping AI • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BUMy-KPGJY4&title=689.+Artificial+Intelligence+and+the+Threat+to+Independent+Thought+with+Bruno+Giussani&lang=en&timestamp=1791211756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3466">
+          <img src="https://ytcards.demolab.com/?id=BUMy-KPGJY4&title=689.+Artificial+Intelligence+and+the+Threat+to+Independent+Thought+with+Bruno+Giussani&lang=en&timestamp=1791211756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3466" alt="689. Artificial Intelligence and the Threat to Independent Thought with Bruno Giussani" title="689. Artificial Intelligence and the Threat to Independent Thought with Bruno Giussani">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e-zVdABblks" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xw8Qc80_Puo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e-zVdABblks&title=Expert+says+%27the+most+transcendent+applications%27+of+AI+will+be+in+the+military&lang=en&timestamp=1791146665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=311">
-          <img src="https://ytcards.demolab.com/?id=e-zVdABblks&title=Expert+says+%27the+most+transcendent+applications%27+of+AI+will+be+in+the+military&lang=en&timestamp=1791146665&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=311" alt="Expert says 'the most transcendent applications' of AI will be in the military" title="Expert says 'the most transcendent applications' of AI will be in the military">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xw8Qc80_Puo&title=Trump+names+head+of+new+%27Super+Intelligence+Force%27+to+oversee+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1791215356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=97">
+          <img src="https://ytcards.demolab.com/?id=Xw8Qc80_Puo&title=Trump+names+head+of+new+%27Super+Intelligence+Force%27+to+oversee+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1791215356&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=97" alt="Trump names head of new 'Super Intelligence Force' to oversee AI • FRANCE 24 English" title="Trump names head of new 'Super Intelligence Force' to oversee AI • FRANCE 24 English">
         </picture>
       </a>
     </td>
