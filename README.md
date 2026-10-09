@@ -588,56 +588,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xdwFncdu8t0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e3OmaFrsB7I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791410121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
-          <img src="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791410121&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="The Experts Were Wrong About AI. Again." title="The Experts Were Wrong About AI. Again.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e3OmaFrsB7I&title=Anthropic+Is+Actually+Preparing+for+the+AI+Apocalypse+Now&lang=en&timestamp=1791502286&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=833">
+          <img src="https://ytcards.demolab.com/?id=e3OmaFrsB7I&title=Anthropic+Is+Actually+Preparing+for+the+AI+Apocalypse+Now&lang=en&timestamp=1791502286&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=833" alt="Anthropic Is Actually Preparing for the AI Apocalypse Now" title="Anthropic Is Actually Preparing for the AI Apocalypse Now">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xSr_IfyNWu0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d5ry6o3y4jg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791410121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
-          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791410121&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d5ry6o3y4jg&title=Anyone+Not+Calling+AI+%E2%80%98Super+Intelligence%E2%80%99+Is+The+Enemy%3A+President+Trump+%7C+N18G+%7C+CNBC+TV18&lang=en&timestamp=1791545486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=207">
+          <img src="https://ytcards.demolab.com/?id=d5ry6o3y4jg&title=Anyone+Not+Calling+AI+%E2%80%98Super+Intelligence%E2%80%99+Is+The+Enemy%3A+President+Trump+%7C+N18G+%7C+CNBC+TV18&lang=en&timestamp=1791545486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=207" alt="Anyone Not Calling AI ‘Super Intelligence’ Is The Enemy: President Trump | N18G | CNBC TV18" title="Anyone Not Calling AI ‘Super Intelligence’ Is The Enemy: President Trump | N18G | CNBC TV18">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FW8p3md6v-E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791410121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
-          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791410121&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="70 years of rebranding intelligence" title="70 years of rebranding intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791570686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7117">
+          <img src="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791570686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7117" alt="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI" title="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=utgSpoxxj04" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d05zKuUDJu4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utgSpoxxj04&title=Prophetic+Warning%3A+Artificial+Intelligence+and+The+Great+Deception&lang=en&timestamp=1791420921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=526">
-          <img src="https://ytcards.demolab.com/?id=utgSpoxxj04&title=Prophetic+Warning%3A+Artificial+Intelligence+and+The+Great+Deception&lang=en&timestamp=1791420921&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=526" alt="Prophetic Warning: Artificial Intelligence and The Great Deception" title="Prophetic Warning: Artificial Intelligence and The Great Deception">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d05zKuUDJu4&title=Dan+Schneider+discusses+lawsuit+against+McDonald%27s+over+AI+pricing&lang=en&timestamp=1791549086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314">
+          <img src="https://ytcards.demolab.com/?id=d05zKuUDJu4&title=Dan+Schneider+discusses+lawsuit+against+McDonald%27s+over+AI+pricing&lang=en&timestamp=1791549086&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=314" alt="Dan Schneider discusses lawsuit against McDonald's over AI pricing" title="Dan Schneider discusses lawsuit against McDonald's over AI pricing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m-jQujo7-B8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B9srCg-q1ZA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m-jQujo7-B8&title=AI+WARNING%21++How+Gold+and+Silver+REACT+when+the+AI+BUBBLE+POPS%21+%F0%9F%92%A5&lang=en&timestamp=1791410121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1327">
-          <img src="https://ytcards.demolab.com/?id=m-jQujo7-B8&title=AI+WARNING%21++How+Gold+and+Silver+REACT+when+the+AI+BUBBLE+POPS%21+%F0%9F%92%A5&lang=en&timestamp=1791410121&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1327" alt="AI WARNING!  How Gold and Silver REACT when the AI BUBBLE POPS! 💥" title="AI WARNING!  How Gold and Silver REACT when the AI BUBBLE POPS! 💥">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B9srCg-q1ZA&title=Best+AI+Courses+for+Free++2027+%7C+Complete+Future-Ready+AI+Course+2027+%7C+Top+AI+Courses+%7C+Simplilearn&lang=en&timestamp=1791559886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
+          <img src="https://ytcards.demolab.com/?id=B9srCg-q1ZA&title=Best+AI+Courses+for+Free++2027+%7C+Complete+Future-Ready+AI+Course+2027+%7C+Top+AI+Courses+%7C+Simplilearn&lang=en&timestamp=1791559886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="Best AI Courses for Free  2027 | Complete Future-Ready AI Course 2027 | Top AI Courses | Simplilearn" title="Best AI Courses for Free  2027 | Complete Future-Ready AI Course 2027 | Top AI Courses | Simplilearn">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=APoeF4_93FY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cofW0MYm5yU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=APoeF4_93FY&title=Why+We+Must+Abolish+A.I.+%7C+Denise+Utochkin&lang=en&timestamp=1791438921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4190">
-          <img src="https://ytcards.demolab.com/?id=APoeF4_93FY&title=Why+We+Must+Abolish+A.I.+%7C+Denise+Utochkin&lang=en&timestamp=1791438921&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4190" alt="Why We Must Abolish A.I. | Denise Utochkin" title="Why We Must Abolish A.I. | Denise Utochkin">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791577886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
+          <img src="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791577886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="The End Times Prophecy Of Artificial Intelligence" title="The End Times Prophecy Of Artificial Intelligence">
         </picture>
       </a>
     </td>
