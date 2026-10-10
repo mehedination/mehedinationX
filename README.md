@@ -589,30 +589,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e3OmaFrsB7I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jCNYVbin4bw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e3OmaFrsB7I&title=Anthropic+Is+Actually+Preparing+for+the+AI+Apocalypse+Now&lang=en&timestamp=1791502286&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=833">
-          <img src="https://ytcards.demolab.com/?id=e3OmaFrsB7I&title=Anthropic+Is+Actually+Preparing+for+the+AI+Apocalypse+Now&lang=en&timestamp=1791502286&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=833" alt="Anthropic Is Actually Preparing for the AI Apocalypse Now" title="Anthropic Is Actually Preparing for the AI Apocalypse Now">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d5ry6o3y4jg" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d5ry6o3y4jg&title=Anyone+Not+Calling+AI+%E2%80%98Super+Intelligence%E2%80%99+Is+The+Enemy%3A+President+Trump+%7C+N18G+%7C+CNBC+TV18&lang=en&timestamp=1791545486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=207">
-          <img src="https://ytcards.demolab.com/?id=d5ry6o3y4jg&title=Anyone+Not+Calling+AI+%E2%80%98Super+Intelligence%E2%80%99+Is+The+Enemy%3A+President+Trump+%7C+N18G+%7C+CNBC+TV18&lang=en&timestamp=1791545486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=207" alt="Anyone Not Calling AI ‘Super Intelligence’ Is The Enemy: President Trump | N18G | CNBC TV18" title="Anyone Not Calling AI ‘Super Intelligence’ Is The Enemy: President Trump | N18G | CNBC TV18">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791581759&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415">
+          <img src="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791581759&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=415" alt="What if AI goes RIGHT? Expert talks positives of innovative tech" title="What if AI goes RIGHT? Expert talks positives of innovative tech">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=FW8p3md6v-E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791570686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7117">
-          <img src="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791570686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7117" alt="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI" title="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791570959&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7117">
+          <img src="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791570959&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7117" alt="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI" title="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=B9srCg-q1ZA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B9srCg-q1ZA&title=Best+AI+Courses+for+Free++2027+%7C+Complete+Future-Ready+AI+Course+2027+%7C+Top+AI+Courses+%7C+Simplilearn&lang=en&timestamp=1791560159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
+          <img src="https://ytcards.demolab.com/?id=B9srCg-q1ZA&title=Best+AI+Courses+for+Free++2027+%7C+Complete+Future-Ready+AI+Course+2027+%7C+Top+AI+Courses+%7C+Simplilearn&lang=en&timestamp=1791560159&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="Best AI Courses for Free  2027 | Complete Future-Ready AI Course 2027 | Top AI Courses | Simplilearn" title="Best AI Courses for Free  2027 | Complete Future-Ready AI Course 2027 | Top AI Courses | Simplilearn">
         </picture>
       </a>
     </td>
@@ -621,24 +622,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=d05zKuUDJu4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d05zKuUDJu4&title=Dan+Schneider+discusses+lawsuit+against+McDonald%27s+over+AI+pricing&lang=en&timestamp=1791549086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314">
-          <img src="https://ytcards.demolab.com/?id=d05zKuUDJu4&title=Dan+Schneider+discusses+lawsuit+against+McDonald%27s+over+AI+pricing&lang=en&timestamp=1791549086&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=314" alt="Dan Schneider discusses lawsuit against McDonald's over AI pricing" title="Dan Schneider discusses lawsuit against McDonald's over AI pricing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d05zKuUDJu4&title=Dan+Schneider+discusses+lawsuit+against+McDonald%27s+over+AI+pricing&lang=en&timestamp=1791549359&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314">
+          <img src="https://ytcards.demolab.com/?id=d05zKuUDJu4&title=Dan+Schneider+discusses+lawsuit+against+McDonald%27s+over+AI+pricing&lang=en&timestamp=1791549359&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=314" alt="Dan Schneider discusses lawsuit against McDonald's over AI pricing" title="Dan Schneider discusses lawsuit against McDonald's over AI pricing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=B9srCg-q1ZA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=62FQu5lFkQs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B9srCg-q1ZA&title=Best+AI+Courses+for+Free++2027+%7C+Complete+Future-Ready+AI+Course+2027+%7C+Top+AI+Courses+%7C+Simplilearn&lang=en&timestamp=1791559886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
-          <img src="https://ytcards.demolab.com/?id=B9srCg-q1ZA&title=Best+AI+Courses+for+Free++2027+%7C+Complete+Future-Ready+AI+Course+2027+%7C+Top+AI+Courses+%7C+Simplilearn&lang=en&timestamp=1791559886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="Best AI Courses for Free  2027 | Complete Future-Ready AI Course 2027 | Top AI Courses | Simplilearn" title="Best AI Courses for Free  2027 | Complete Future-Ready AI Course 2027 | Top AI Courses | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=62FQu5lFkQs&title=Which+AI+Should+You+Pay+For%3F+The+Definitive+Comparison&lang=en&timestamp=1791545759&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4691">
+          <img src="https://ytcards.demolab.com/?id=62FQu5lFkQs&title=Which+AI+Should+You+Pay+For%3F+The+Definitive+Comparison&lang=en&timestamp=1791545759&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4691" alt="Which AI Should You Pay For? The Definitive Comparison" title="Which AI Should You Pay For? The Definitive Comparison">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cofW0MYm5yU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cfS-Lc2xaqo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791577886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
-          <img src="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791577886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="The End Times Prophecy Of Artificial Intelligence" title="The End Times Prophecy Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791574559&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791574559&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="Can 'Pain' Influence AI Behaviour? | BBC News" title="Can 'Pain' Influence AI Behaviour? | BBC News">
         </picture>
       </a>
     </td>
