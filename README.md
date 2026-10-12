@@ -592,56 +592,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CUaax5f5hxI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5kmj2vx60fk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CUaax5f5hxI&title=Can+Quantum+AI+Destroy+Humanity+by+2030%3F+%7C+Artificial+Intelligence+%7C+Quantum+Physics+%7C+Amit+Dubey&lang=en&timestamp=1791637777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6897">
-          <img src="https://ytcards.demolab.com/?id=CUaax5f5hxI&title=Can+Quantum+AI+Destroy+Humanity+by+2030%3F+%7C+Artificial+Intelligence+%7C+Quantum+Physics+%7C+Amit+Dubey&lang=en&timestamp=1791637777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6897" alt="Can Quantum AI Destroy Humanity by 2030? | Artificial Intelligence | Quantum Physics | Amit Dubey" title="Can Quantum AI Destroy Humanity by 2030? | Artificial Intelligence | Quantum Physics | Amit Dubey">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5kmj2vx60fk&title=Is+Humanity+Ready+For+AI%3F+Google+DeepMind%E2%80%99s+Chief+AI+Readiness+Officer+Reveals+All+%7C+NDTV+Exclusive&lang=en&timestamp=1791731212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1965">
+          <img src="https://ytcards.demolab.com/?id=5kmj2vx60fk&title=Is+Humanity+Ready+For+AI%3F+Google+DeepMind%E2%80%99s+Chief+AI+Readiness+Officer+Reveals+All+%7C+NDTV+Exclusive&lang=en&timestamp=1791731212&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1965" alt="Is Humanity Ready For AI? Google DeepMind’s Chief AI Readiness Officer Reveals All | NDTV Exclusive" title="Is Humanity Ready For AI? Google DeepMind’s Chief AI Readiness Officer Reveals All | NDTV Exclusive">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cfS-Lc2xaqo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QmVzL8647ks" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791572977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791572977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="Can 'Pain' Influence AI Behaviour? | BBC News" title="Can 'Pain' Influence AI Behaviour? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QmVzL8647ks&title=Greens+vow+to+regulate+artificial+intelligence+%7C+RNZ&lang=en&timestamp=1791764632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1099">
+          <img src="https://ytcards.demolab.com/?id=QmVzL8647ks&title=Greens+vow+to+regulate+artificial+intelligence+%7C+RNZ&lang=en&timestamp=1791764632&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1099" alt="Greens vow to regulate artificial intelligence | RNZ" title="Greens vow to regulate artificial intelligence | RNZ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jCNYVbin4bw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7QIWH7HSo38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791580177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415">
-          <img src="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791580177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=415" alt="What if AI goes RIGHT? Expert talks positives of innovative tech" title="What if AI goes RIGHT? Expert talks positives of innovative tech">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7QIWH7HSo38&title=%F0%9F%A4%96+What+Is+Artificial+Intelligence+%28AI%29%3F+%7C+Real-Life+Examples+%26+Future+Technology+%7C+AA+Academia+%23&lang=en&timestamp=1791738412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37">
+          <img src="https://ytcards.demolab.com/?id=7QIWH7HSo38&title=%F0%9F%A4%96+What+Is+Artificial+Intelligence+%28AI%29%3F+%7C+Real-Life+Examples+%26+Future+Technology+%7C+AA+Academia+%23&lang=en&timestamp=1791738412&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37" alt="🤖 What Is Artificial Intelligence (AI)? | Real-Life Examples & Future Technology | AA Academia #" title="🤖 What Is Artificial Intelligence (AI)? | Real-Life Examples & Future Technology | AA Academia #">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1hpViqRyK20" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NSbaH4LatzY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1hpViqRyK20&title=Is+AI+helping+or+harming+our+kids+at+school%3F+Experts+reveal+the+truth+%7C+Today+Show+Australia&lang=en&timestamp=1791598177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=406">
-          <img src="https://ytcards.demolab.com/?id=1hpViqRyK20&title=Is+AI+helping+or+harming+our+kids+at+school%3F+Experts+reveal+the+truth+%7C+Today+Show+Australia&lang=en&timestamp=1791598177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=406" alt="Is AI helping or harming our kids at school? Experts reveal the truth | Today Show Australia" title="Is AI helping or harming our kids at school? Experts reveal the truth | Today Show Australia">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NSbaH4LatzY&title=How+Artificial+Intelligence+Was+Born+%F0%9F%A4%96+%7C+The+Untold+Story+of+AI&lang=en&timestamp=1791706012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=993">
+          <img src="https://ytcards.demolab.com/?id=NSbaH4LatzY&title=How+Artificial+Intelligence+Was+Born+%F0%9F%A4%96+%7C+The+Untold+Story+of+AI&lang=en&timestamp=1791706012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=993" alt="How Artificial Intelligence Was Born 🤖 | The Untold Story of AI" title="How Artificial Intelligence Was Born 🤖 | The Untold Story of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cofW0MYm5yU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nhBybWMYBxo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791576577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
-          <img src="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791576577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="The End Times Prophecy Of Artificial Intelligence" title="The End Times Prophecy Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nhBybWMYBxo&title=EP+143%3A+Real+Confidence-+Artificial+Intelligence+%26+Real+Confidence&lang=en&timestamp=1791727612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234">
+          <img src="https://ytcards.demolab.com/?id=nhBybWMYBxo&title=EP+143%3A+Real+Confidence-+Artificial+Intelligence+%26+Real+Confidence&lang=en&timestamp=1791727612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="EP 143: Real Confidence- Artificial Intelligence & Real Confidence" title="EP 143: Real Confidence- Artificial Intelligence & Real Confidence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FW8p3md6v-E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7nWpwA062TA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791572977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7117">
-          <img src="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791572977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7117" alt="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI" title="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7nWpwA062TA&title=Artificial+Intelligence+Final+Revision&lang=en&timestamp=1791745612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7618">
+          <img src="https://ytcards.demolab.com/?id=7nWpwA062TA&title=Artificial+Intelligence+Final+Revision&lang=en&timestamp=1791745612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7618" alt="Artificial Intelligence Final Revision" title="Artificial Intelligence Final Revision">
         </picture>
       </a>
     </td>
