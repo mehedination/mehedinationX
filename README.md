@@ -594,56 +594,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5kmj2vx60fk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w_XDaRYEfW8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5kmj2vx60fk&title=Is+Humanity+Ready+For+AI%3F+Google+DeepMind%E2%80%99s+Chief+AI+Readiness+Officer+Reveals+All+%7C+NDTV+Exclusive&lang=en&timestamp=1791734159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1965">
-          <img src="https://ytcards.demolab.com/?id=5kmj2vx60fk&title=Is+Humanity+Ready+For+AI%3F+Google+DeepMind%E2%80%99s+Chief+AI+Readiness+Officer+Reveals+All+%7C+NDTV+Exclusive&lang=en&timestamp=1791734159&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1965" alt="Is Humanity Ready For AI? Google DeepMind’s Chief AI Readiness Officer Reveals All | NDTV Exclusive" title="Is Humanity Ready For AI? Google DeepMind’s Chief AI Readiness Officer Reveals All | NDTV Exclusive">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w_XDaRYEfW8&title=Bill+Gates+Warns+Of+Rising+AI+Cyberattacks%3A+Says+Leaving+Rules+Only+To+Tech+Giants+Is+Not+Enough&lang=en&timestamp=1791803504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=147">
+          <img src="https://ytcards.demolab.com/?id=w_XDaRYEfW8&title=Bill+Gates+Warns+Of+Rising+AI+Cyberattacks%3A+Says+Leaving+Rules+Only+To+Tech+Giants+Is+Not+Enough&lang=en&timestamp=1791803504&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=147" alt="Bill Gates Warns Of Rising AI Cyberattacks: Says Leaving Rules Only To Tech Giants Is Not Enough" title="Bill Gates Warns Of Rising AI Cyberattacks: Says Leaving Rules Only To Tech Giants Is Not Enough">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4YcEHs10dt4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WfAicCDl5Wk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4YcEHs10dt4&title=Big+Tech+Execs+Asked+About+Ways+To+Prevent+AI+Addiction+In+Children+%7C+New+York+City+Council+Hearing&lang=en&timestamp=1791737759&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508">
-          <img src="https://ytcards.demolab.com/?id=4YcEHs10dt4&title=Big+Tech+Execs+Asked+About+Ways+To+Prevent+AI+Addiction+In+Children+%7C+New+York+City+Council+Hearing&lang=en&timestamp=1791737759&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=508" alt="Big Tech Execs Asked About Ways To Prevent AI Addiction In Children | New York City Council Hearing" title="Big Tech Execs Asked About Ways To Prevent AI Addiction In Children | New York City Council Hearing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WfAicCDl5Wk&title=PM+Wong+calls+for+an+independent+global+body+to+oversee+AI+policies&lang=en&timestamp=1791817904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=203">
+          <img src="https://ytcards.demolab.com/?id=WfAicCDl5Wk&title=PM+Wong+calls+for+an+independent+global+body+to+oversee+AI+policies&lang=en&timestamp=1791817904&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=203" alt="PM Wong calls for an independent global body to oversee AI policies" title="PM Wong calls for an independent global body to oversee AI policies">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1jfb3KDvS5A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IUp3_q-TgTI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791744959&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=577">
-          <img src="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791744959&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=577" alt="Artificial Intelligence Just Destroyed SpongeBob Speedrunning" title="Artificial Intelligence Just Destroyed SpongeBob Speedrunning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IUp3_q-TgTI&title=AI+Has+Already+Secretly+Taken+Over+%E2%80%94+Yuval+Noah+Harari%E2%80%99s+Shocking+Interview&lang=en&timestamp=1791796304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1594">
+          <img src="https://ytcards.demolab.com/?id=IUp3_q-TgTI&title=AI+Has+Already+Secretly+Taken+Over+%E2%80%94+Yuval+Noah+Harari%E2%80%99s+Shocking+Interview&lang=en&timestamp=1791796304&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1594" alt="AI Has Already Secretly Taken Over — Yuval Noah Harari’s Shocking Interview" title="AI Has Already Secretly Taken Over — Yuval Noah Harari’s Shocking Interview">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=h7LQykTx-5s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IkhmdTqSvJw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h7LQykTx-5s&title=They+Gave+AI+the+Voynich+Manuscript%E2%80%A6+Its+Answer+Made+the+Mystery+Worse&lang=en&timestamp=1791752159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
-          <img src="https://ytcards.demolab.com/?id=h7LQykTx-5s&title=They+Gave+AI+the+Voynich+Manuscript%E2%80%A6+Its+Answer+Made+the+Mystery+Worse&lang=en&timestamp=1791752159&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="They Gave AI the Voynich Manuscript… Its Answer Made the Mystery Worse" title="They Gave AI the Voynich Manuscript… Its Answer Made the Mystery Worse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IkhmdTqSvJw&title=UFO+Cover-Up+Analyst%3A+The+Alien+Programs+You%27re+Told+Don%27t+Exist%21+%7C+Eric+Weinstein&lang=en&timestamp=1791789104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6778">
+          <img src="https://ytcards.demolab.com/?id=IkhmdTqSvJw&title=UFO+Cover-Up+Analyst%3A+The+Alien+Programs+You%27re+Told+Don%27t+Exist%21+%7C+Eric+Weinstein&lang=en&timestamp=1791789104&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6778" alt="UFO Cover-Up Analyst: The Alien Programs You're Told Don't Exist! | Eric Weinstein" title="UFO Cover-Up Analyst: The Alien Programs You're Told Don't Exist! | Eric Weinstein">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=79VzKgzQBWc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5g_1r0uS02M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=79VzKgzQBWc&title=What+Is+Artificial+Intelligence+%28AI%29%3F+Explained+Simply+for+Beginners+%7C+AI+QA+with+Divya&lang=en&timestamp=1791794339&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=720">
-          <img src="https://ytcards.demolab.com/?id=79VzKgzQBWc&title=What+Is+Artificial+Intelligence+%28AI%29%3F+Explained+Simply+for+Beginners+%7C+AI+QA+with+Divya&lang=en&timestamp=1791794339&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=720" alt="What Is Artificial Intelligence (AI)? Explained Simply for Beginners | AI QA with Divya" title="What Is Artificial Intelligence (AI)? Explained Simply for Beginners | AI QA with Divya">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5g_1r0uS02M&title=Artificial+Intelligence%3A+Doomsday+or+New+Day%3F&lang=en&timestamp=1791850304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1600">
+          <img src="https://ytcards.demolab.com/?id=5g_1r0uS02M&title=Artificial+Intelligence%3A+Doomsday+or+New+Day%3F&lang=en&timestamp=1791850304&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1600" alt="Artificial Intelligence: Doomsday or New Day?" title="Artificial Intelligence: Doomsday or New Day?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Vl0Foc_DD0I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ALN6mAbm3w8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vl0Foc_DD0I&title=How+ChatGPT+Actually+Learns%3A+The+Simple+Trick+That+Changed+AI+Forever&lang=en&timestamp=1791719759&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
-          <img src="https://ytcards.demolab.com/?id=Vl0Foc_DD0I&title=How+ChatGPT+Actually+Learns%3A+The+Simple+Trick+That+Changed+AI+Forever&lang=en&timestamp=1791719759&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="How ChatGPT Actually Learns: The Simple Trick That Changed AI Forever" title="How ChatGPT Actually Learns: The Simple Trick That Changed AI Forever">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ALN6mAbm3w8&title=Blaise+Ag%C3%BCera+y+Arcas%3A+AI+May+Already+Be+Alive.+It+Gets+Weirder&lang=en&timestamp=1791803504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5497">
+          <img src="https://ytcards.demolab.com/?id=ALN6mAbm3w8&title=Blaise+Ag%C3%BCera+y+Arcas%3A+AI+May+Already+Be+Alive.+It+Gets+Weirder&lang=en&timestamp=1791803504&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5497" alt="Blaise Agüera y Arcas: AI May Already Be Alive. It Gets Weirder" title="Blaise Agüera y Arcas: AI May Already Be Alive. It Gets Weirder">
         </picture>
       </a>
     </td>
