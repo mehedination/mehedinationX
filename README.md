@@ -596,56 +596,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tj1dFIUAs7A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J-sMqnzHwI0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tj1dFIUAs7A&title=Bill+Gates+calls+AI+%E2%80%98the+most+dangerous+technology%E2%80%99+ever+invented&lang=en&timestamp=1791846656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=647">
-          <img src="https://ytcards.demolab.com/?id=tj1dFIUAs7A&title=Bill+Gates+calls+AI+%E2%80%98the+most+dangerous+technology%E2%80%99+ever+invented&lang=en&timestamp=1791846656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=647" alt="Bill Gates calls AI ‘the most dangerous technology’ ever invented" title="Bill Gates calls AI ‘the most dangerous technology’ ever invented">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J-sMqnzHwI0&title=AI+won%E2%80%99t+steal+your+job%3A+Andrew+Ng+interview+%7C+The+Economist&lang=en&timestamp=1791998390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=427">
+          <img src="https://ytcards.demolab.com/?id=J-sMqnzHwI0&title=AI+won%E2%80%99t+steal+your+job%3A+Andrew+Ng+interview+%7C+The+Economist&lang=en&timestamp=1791998390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=427" alt="AI won’t steal your job: Andrew Ng interview | The Economist" title="AI won’t steal your job: Andrew Ng interview | The Economist">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WLChrO51aWM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DgRuZYcTWis" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WLChrO51aWM&title=Amazon+and+Nvidia+considering+AI+startup+deals%3A+Reports&lang=en&timestamp=1791828656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
-          <img src="https://ytcards.demolab.com/?id=WLChrO51aWM&title=Amazon+and+Nvidia+considering+AI+startup+deals%3A+Reports&lang=en&timestamp=1791828656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34" alt="Amazon and Nvidia considering AI startup deals: Reports" title="Amazon and Nvidia considering AI startup deals: Reports">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DgRuZYcTWis&title=Will+AI+take+your+job%3F+%7C+The+future+of+work+explained&lang=en&timestamp=1791983990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1185">
+          <img src="https://ytcards.demolab.com/?id=DgRuZYcTWis&title=Will+AI+take+your+job%3F+%7C+The+future+of+work+explained&lang=en&timestamp=1791983990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1185" alt="Will AI take your job? | The future of work explained" title="Will AI take your job? | The future of work explained">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=P7stqAvmfR8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tZsx28aZ2fU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P7stqAvmfR8&title=AI+Doomsday+Fears%2C+Hacking+%26+the+Fight+for+Control+with+Gary+Marcus+%7C+The+Real+Eisman+Playbook+Ep+79&lang=en&timestamp=1791821456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2796">
-          <img src="https://ytcards.demolab.com/?id=P7stqAvmfR8&title=AI+Doomsday+Fears%2C+Hacking+%26+the+Fight+for+Control+with+Gary+Marcus+%7C+The+Real+Eisman+Playbook+Ep+79&lang=en&timestamp=1791821456&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2796" alt="AI Doomsday Fears, Hacking & the Fight for Control with Gary Marcus | The Real Eisman Playbook Ep 79" title="AI Doomsday Fears, Hacking & the Fight for Control with Gary Marcus | The Real Eisman Playbook Ep 79">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tZsx28aZ2fU&title=The+Only+Real+Danger+of+Artificial+Intelligence+Is+Us+%7C+Pep+Martorell+%23LFDE&lang=en&timestamp=1791991190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6911">
+          <img src="https://ytcards.demolab.com/?id=tZsx28aZ2fU&title=The+Only+Real+Danger+of+Artificial+Intelligence+Is+Us+%7C+Pep+Martorell+%23LFDE&lang=en&timestamp=1791991190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6911" alt="The Only Real Danger of Artificial Intelligence Is Us | Pep Martorell #LFDE" title="The Only Real Danger of Artificial Intelligence Is Us | Pep Martorell #LFDE">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2kIT4BxPIrY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SlQW2cv6O-I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2kIT4BxPIrY&title=Divine+Intelligence+Guiding+Our+Use+of+Artificial+Intelligence&lang=en&timestamp=1791875456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1404">
-          <img src="https://ytcards.demolab.com/?id=2kIT4BxPIrY&title=Divine+Intelligence+Guiding+Our+Use+of+Artificial+Intelligence&lang=en&timestamp=1791875456&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1404" alt="Divine Intelligence Guiding Our Use of Artificial Intelligence" title="Divine Intelligence Guiding Our Use of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SlQW2cv6O-I&title=What+Does+It+Mean+for+AI+to+Experience+Pain%3F&lang=en&timestamp=1791965990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=294">
+          <img src="https://ytcards.demolab.com/?id=SlQW2cv6O-I&title=What+Does+It+Mean+for+AI+to+Experience+Pain%3F&lang=en&timestamp=1791965990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=294" alt="What Does It Mean for AI to Experience Pain?" title="What Does It Mean for AI to Experience Pain?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lfyu2UQc0Zw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w8rktmA3rLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lfyu2UQc0Zw&title=Science+Tech+Lecture+3+-+Artificial+Intelligence+%2372ndbpscmains&lang=en&timestamp=1791871856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7107">
-          <img src="https://ytcards.demolab.com/?id=lfyu2UQc0Zw&title=Science+Tech+Lecture+3+-+Artificial+Intelligence+%2372ndbpscmains&lang=en&timestamp=1791871856&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7107" alt="Science Tech Lecture 3 - Artificial Intelligence #72ndbpscmains" title="Science Tech Lecture 3 - Artificial Intelligence #72ndbpscmains">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w8rktmA3rLk&title=How+Artificial+Intelligence+is+poised+to+become+a+growth+engine+for+German+companies&lang=en&timestamp=1791983990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=474">
+          <img src="https://ytcards.demolab.com/?id=w8rktmA3rLk&title=How+Artificial+Intelligence+is+poised+to+become+a+growth+engine+for+German+companies&lang=en&timestamp=1791983990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=474" alt="How Artificial Intelligence is poised to become a growth engine for German companies" title="How Artificial Intelligence is poised to become a growth engine for German companies">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dndXOogUjns" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RSjLosySU6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dndXOogUjns&title=Designing+The+Ultimate+Hypothetical+AI+PC&lang=en&timestamp=1791803456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1208">
-          <img src="https://ytcards.demolab.com/?id=dndXOogUjns&title=Designing+The+Ultimate+Hypothetical+AI+PC&lang=en&timestamp=1791803456&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1208" alt="Designing The Ultimate Hypothetical AI PC" title="Designing The Ultimate Hypothetical AI PC">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792016390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=491">
+          <img src="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792016390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=491" alt="13 Action News Big Story: Artificial intelligence, real problems" title="13 Action News Big Story: Artificial intelligence, real problems">
         </picture>
       </a>
     </td>
