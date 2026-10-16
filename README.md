@@ -597,56 +597,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=J-sMqnzHwI0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=p5r9pCqJ3Qo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J-sMqnzHwI0&title=AI+won%E2%80%99t+steal+your+job%3A+Andrew+Ng+interview+%7C+The+Economist&lang=en&timestamp=1791998390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=427">
-          <img src="https://ytcards.demolab.com/?id=J-sMqnzHwI0&title=AI+won%E2%80%99t+steal+your+job%3A+Andrew+Ng+interview+%7C+The+Economist&lang=en&timestamp=1791998390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=427" alt="AI won’t steal your job: Andrew Ng interview | The Economist" title="AI won’t steal your job: Andrew Ng interview | The Economist">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p5r9pCqJ3Qo&title=AI+Panic+Spreads+Worldwide&lang=en&timestamp=1792076724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853">
+          <img src="https://ytcards.demolab.com/?id=p5r9pCqJ3Qo&title=AI+Panic+Spreads+Worldwide&lang=en&timestamp=1792076724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=853" alt="AI Panic Spreads Worldwide" title="AI Panic Spreads Worldwide">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DgRuZYcTWis" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8yWd7jQDm3k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DgRuZYcTWis&title=Will+AI+take+your+job%3F+%7C+The+future+of+work+explained&lang=en&timestamp=1791983990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1185">
-          <img src="https://ytcards.demolab.com/?id=DgRuZYcTWis&title=Will+AI+take+your+job%3F+%7C+The+future+of+work+explained&lang=en&timestamp=1791983990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1185" alt="Will AI take your job? | The future of work explained" title="Will AI take your job? | The future of work explained">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792062324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=408">
+          <img src="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792062324&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=408" alt="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30" title="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tZsx28aZ2fU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tZsx28aZ2fU&title=The+Only+Real+Danger+of+Artificial+Intelligence+Is+Us+%7C+Pep+Martorell+%23LFDE&lang=en&timestamp=1791991190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6911">
-          <img src="https://ytcards.demolab.com/?id=tZsx28aZ2fU&title=The+Only+Real+Danger+of+Artificial+Intelligence+Is+Us+%7C+Pep+Martorell+%23LFDE&lang=en&timestamp=1791991190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6911" alt="The Only Real Danger of Artificial Intelligence Is Us | Pep Martorell #LFDE" title="The Only Real Danger of Artificial Intelligence Is Us | Pep Martorell #LFDE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792083924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
+          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792083924&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SlQW2cv6O-I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AwuTTOJGEi0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SlQW2cv6O-I&title=What+Does+It+Mean+for+AI+to+Experience+Pain%3F&lang=en&timestamp=1791965990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=294">
-          <img src="https://ytcards.demolab.com/?id=SlQW2cv6O-I&title=What+Does+It+Mean+for+AI+to+Experience+Pain%3F&lang=en&timestamp=1791965990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=294" alt="What Does It Mean for AI to Experience Pain?" title="What Does It Mean for AI to Experience Pain?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792058724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2363">
+          <img src="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792058724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2363" alt="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman" title="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w8rktmA3rLk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fsvWurHpSYI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w8rktmA3rLk&title=How+Artificial+Intelligence+is+poised+to+become+a+growth+engine+for+German+companies&lang=en&timestamp=1791983990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=474">
-          <img src="https://ytcards.demolab.com/?id=w8rktmA3rLk&title=How+Artificial+Intelligence+is+poised+to+become+a+growth+engine+for+German+companies&lang=en&timestamp=1791983990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=474" alt="How Artificial Intelligence is poised to become a growth engine for German companies" title="How Artificial Intelligence is poised to become a growth engine for German companies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792094724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
+          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792094724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei" title="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RSjLosySU6A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2OMj38XHJ6Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792016390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=491">
-          <img src="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792016390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=491" alt="13 Action News Big Story: Artificial intelligence, real problems" title="13 Action News Big Story: Artificial intelligence, real problems">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2OMj38XHJ6Y&title=Ukraine%27s+AI+Drone+Strikes%3A+A+New+Era+Of+Combat&lang=en&timestamp=1792058724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=176">
+          <img src="https://ytcards.demolab.com/?id=2OMj38XHJ6Y&title=Ukraine%27s+AI+Drone+Strikes%3A+A+New+Era+Of+Combat&lang=en&timestamp=1792058724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=176" alt="Ukraine's AI Drone Strikes: A New Era Of Combat" title="Ukraine's AI Drone Strikes: A New Era Of Combat">
         </picture>
       </a>
     </td>
