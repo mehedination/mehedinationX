@@ -598,56 +598,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=p5r9pCqJ3Qo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nj0iaUDEO-0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p5r9pCqJ3Qo&title=AI+Panic+Spreads+Worldwide&lang=en&timestamp=1792076724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853">
-          <img src="https://ytcards.demolab.com/?id=p5r9pCqJ3Qo&title=AI+Panic+Spreads+Worldwide&lang=en&timestamp=1792076724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=853" alt="AI Panic Spreads Worldwide" title="AI Panic Spreads Worldwide">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8yWd7jQDm3k" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792062324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=408">
-          <img src="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792062324&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=408" alt="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30" title="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792072551&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
+          <img src="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792072551&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="AI scheming is a real concern, risk mitigation expert warns" title="AI scheming is a real concern, risk mitigation expert warns">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792083924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
-          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792083924&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792083351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
+          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792083351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=AwuTTOJGEi0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792061751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2363">
+          <img src="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792061751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2363" alt="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman" title="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AwuTTOJGEi0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8yWd7jQDm3k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792058724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2363">
-          <img src="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792058724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2363" alt="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman" title="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792065351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=408">
+          <img src="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792065351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=408" alt="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30" title="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=fsvWurHpSYI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792094724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
-          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792094724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei" title="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792097751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
+          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792097751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei" title="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2OMj38XHJ6Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qf5YR2T_k2M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2OMj38XHJ6Y&title=Ukraine%27s+AI+Drone+Strikes%3A+A+New+Era+Of+Combat&lang=en&timestamp=1792058724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=176">
-          <img src="https://ytcards.demolab.com/?id=2OMj38XHJ6Y&title=Ukraine%27s+AI+Drone+Strikes%3A+A+New+Era+Of+Combat&lang=en&timestamp=1792058724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=176" alt="Ukraine's AI Drone Strikes: A New Era Of Combat" title="Ukraine's AI Drone Strikes: A New Era Of Combat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qf5YR2T_k2M&title=The+Dark+Roots+of+Transhumanism%3A+Artificial+Intelligence+%26+the+Anti+Human+Agenda+%7C+Joseph+Farrell+&lang=en&timestamp=1792115751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4314">
+          <img src="https://ytcards.demolab.com/?id=qf5YR2T_k2M&title=The+Dark+Roots+of+Transhumanism%3A+Artificial+Intelligence+%26+the+Anti+Human+Agenda+%7C+Joseph+Farrell+&lang=en&timestamp=1792115751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4314" alt="The Dark Roots of Transhumanism: Artificial Intelligence & the Anti Human Agenda | Joseph Farrell " title="The Dark Roots of Transhumanism: Artificial Intelligence & the Anti Human Agenda | Joseph Farrell ">
         </picture>
       </a>
     </td>
