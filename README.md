@@ -602,56 +602,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=-Q4Uzw8SG-0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792144083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
-          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792144083&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792146181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
+          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792146181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tGRB8ECyEJ0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZzLONU6W8iw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tGRB8ECyEJ0&title=AI+bubble+fears%3A+Could+a+crash+trigger+a+global+financial+crisis%3F+%7C+DW+News&lang=en&timestamp=1792108083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=813">
-          <img src="https://ytcards.demolab.com/?id=tGRB8ECyEJ0&title=AI+bubble+fears%3A+Could+a+crash+trigger+a+global+financial+crisis%3F+%7C+DW+News&lang=en&timestamp=1792108083&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=813" alt="AI bubble fears: Could a crash trigger a global financial crisis? | DW News" title="AI bubble fears: Could a crash trigger a global financial crisis? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZzLONU6W8iw&title=Unnamed+AI+company+to+lease+new+Nova+Scotia+data+centre&lang=en&timestamp=1792185781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
+          <img src="https://ytcards.demolab.com/?id=ZzLONU6W8iw&title=Unnamed+AI+company+to+lease+new+Nova+Scotia+data+centre&lang=en&timestamp=1792185781&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Unnamed AI company to lease new Nova Scotia data centre" title="Unnamed AI company to lease new Nova Scotia data centre">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JUY8NJ7gNAo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qf5YR2T_k2M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792136883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
-          <img src="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792136883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="What if the skeptics are right about AI? | DW News" title="What if the skeptics are right about AI? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qf5YR2T_k2M&title=The+Dark+Roots+of+Transhumanism%3A+Artificial+Intelligence+%26+the+Anti+Human+Agenda+%7C+Joseph+Farrell+&lang=en&timestamp=1792113781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4314">
+          <img src="https://ytcards.demolab.com/?id=qf5YR2T_k2M&title=The+Dark+Roots+of+Transhumanism%3A+Artificial+Intelligence+%26+the+Anti+Human+Agenda+%7C+Joseph+Farrell+&lang=en&timestamp=1792113781&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4314" alt="The Dark Roots of Transhumanism: Artificial Intelligence & the Anti Human Agenda | Joseph Farrell " title="The Dark Roots of Transhumanism: Artificial Intelligence & the Anti Human Agenda | Joseph Farrell ">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qf5YR2T_k2M" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qf5YR2T_k2M&title=The+Dark+Roots+of+Transhumanism%3A+Artificial+Intelligence+%26+the+Anti+Human+Agenda+%7C+Joseph+Farrell+&lang=en&timestamp=1792115283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4314">
-          <img src="https://ytcards.demolab.com/?id=qf5YR2T_k2M&title=The+Dark+Roots+of+Transhumanism%3A+Artificial+Intelligence+%26+the+Anti+Human+Agenda+%7C+Joseph+Farrell+&lang=en&timestamp=1792115283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4314" alt="The Dark Roots of Transhumanism: Artificial Intelligence & the Anti Human Agenda | Joseph Farrell " title="The Dark Roots of Transhumanism: Artificial Intelligence & the Anti Human Agenda | Joseph Farrell ">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=7loKqXPzTcQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792176483&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116">
-          <img src="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792176483&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=116" alt="Scientists WARN artificial intelligence can DISTORT human memories" title="Scientists WARN artificial intelligence can DISTORT human memories">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792174981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116">
+          <img src="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792174981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=116" alt="Scientists WARN artificial intelligence can DISTORT human memories" title="Scientists WARN artificial intelligence can DISTORT human memories">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FyPANjJEfN8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792097283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
-          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792097283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FyPANjJEfN8&title=Artificial+Intelligence+and+Escalating+Cyber+Risks&lang=en&timestamp=1792146181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3630">
+          <img src="https://ytcards.demolab.com/?id=FyPANjJEfN8&title=Artificial+Intelligence+and+Escalating+Cyber+Risks&lang=en&timestamp=1792146181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3630" alt="Artificial Intelligence and Escalating Cyber Risks" title="Artificial Intelligence and Escalating Cyber Risks">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=fsvWurHpSYI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=The+Algorithms+Broke+Our+Brains%2C+Could+AI+Fix+Them%3F+With+Jim+VandeHei+of+Axios&lang=en&timestamp=1792106581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
+          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=The+Algorithms+Broke+Our+Brains%2C+Could+AI+Fix+Them%3F+With+Jim+VandeHei+of+Axios&lang=en&timestamp=1792106581&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="The Algorithms Broke Our Brains, Could AI Fix Them? With Jim VandeHei of Axios" title="The Algorithms Broke Our Brains, Could AI Fix Them? With Jim VandeHei of Axios">
         </picture>
       </a>
     </td>
