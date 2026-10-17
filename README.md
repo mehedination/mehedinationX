@@ -604,56 +604,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-Q4Uzw8SG-0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FSGf8fRyQXQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792144454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
-          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792144454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FSGf8fRyQXQ&title=The+AI+Revolution%3A+How+Artificial+Intelligence+Is+Changing+the+World+%7C+Documentary&lang=en&timestamp=1792218388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3226">
+          <img src="https://ytcards.demolab.com/?id=FSGf8fRyQXQ&title=The+AI+Revolution%3A+How+Artificial+Intelligence+Is+Changing+the+World+%7C+Documentary&lang=en&timestamp=1792218388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3226" alt="The AI Revolution: How Artificial Intelligence Is Changing the World | Documentary" title="The AI Revolution: How Artificial Intelligence Is Changing the World | Documentary">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=JUY8NJ7gNAo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792139188&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
+          <img src="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792139188&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="What if the skeptics are right about AI? | DW News" title="What if the skeptics are right about AI? | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=i9PTcGD1viU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792173254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
-          <img src="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792173254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN" title="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Zu2C9YNDgyM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zu2C9YNDgyM&title=Q%3A+What+are+the+biggest+threats+from+artificial+intelligence%3F&lang=en&timestamp=1792198454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=196">
-          <img src="https://ytcards.demolab.com/?id=Zu2C9YNDgyM&title=Q%3A+What+are+the+biggest+threats+from+artificial+intelligence%3F&lang=en&timestamp=1792198454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=196" alt="Q: What are the biggest threats from artificial intelligence?" title="Q: What are the biggest threats from artificial intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792171588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
+          <img src="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792171588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN" title="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cvIMC8yZeUY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=c9nGPNID6EY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cvIMC8yZeUY&title=AI-driven+workforce+changes+create+anxiety+but+may+offer+opportunities&lang=en&timestamp=1792151654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=260">
-          <img src="https://ytcards.demolab.com/?id=cvIMC8yZeUY&title=AI-driven+workforce+changes+create+anxiety+but+may+offer+opportunities&lang=en&timestamp=1792151654&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=260" alt="AI-driven workforce changes create anxiety but may offer opportunities" title="AI-driven workforce changes create anxiety but may offer opportunities">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c9nGPNID6EY&title=THE+ODDS+AI+WIPES+OUT+HUMANITY+ARE+A+COIN+FLIP+-+w%2F+Liv+Boeree&lang=en&timestamp=1792185988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2852">
+          <img src="https://ytcards.demolab.com/?id=c9nGPNID6EY&title=THE+ODDS+AI+WIPES+OUT+HUMANITY+ARE+A+COIN+FLIP+-+w%2F+Liv+Boeree&lang=en&timestamp=1792185988&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2852" alt="THE ODDS AI WIPES OUT HUMANITY ARE A COIN FLIP - w/ Liv Boeree" title="THE ODDS AI WIPES OUT HUMANITY ARE A COIN FLIP - w/ Liv Boeree">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SDLRYEVzEEw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fBg0DRg7ZKs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SDLRYEVzEEw&title=NYC+Council+hearing+testimony+from+SpaceX+about+AI+safety&lang=en&timestamp=1792169654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
-          <img src="https://ytcards.demolab.com/?id=SDLRYEVzEEw&title=NYC+Council+hearing+testimony+from+SpaceX+about+AI+safety&lang=en&timestamp=1792169654&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="NYC Council hearing testimony from SpaceX about AI safety" title="NYC Council hearing testimony from SpaceX about AI safety">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fBg0DRg7ZKs&title=AI%2C+Preparedness%2C+and+the+time+we+almost+created+Skynet&lang=en&timestamp=1792171588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1057">
+          <img src="https://ytcards.demolab.com/?id=fBg0DRg7ZKs&title=AI%2C+Preparedness%2C+and+the+time+we+almost+created+Skynet&lang=en&timestamp=1792171588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1057" alt="AI, Preparedness, and the time we almost created Skynet" title="AI, Preparedness, and the time we almost created Skynet">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4LUA7CDa9Xo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eRRiAEdHtDY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4LUA7CDa9Xo&title=UGST+2026+Symposium+%7C+Day+One+%7C+Plenary+Session+%232+-+Artificial+Intelligence+and+the+Church&lang=en&timestamp=1792122854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4534">
-          <img src="https://ytcards.demolab.com/?id=4LUA7CDa9Xo&title=UGST+2026+Symposium+%7C+Day+One+%7C+Plenary+Session+%232+-+Artificial+Intelligence+and+the+Church&lang=en&timestamp=1792122854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4534" alt="UGST 2026 Symposium | Day One | Plenary Session #2 - Artificial Intelligence and the Church" title="UGST 2026 Symposium | Day One | Plenary Session #2 - Artificial Intelligence and the Church">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eRRiAEdHtDY&title=Are+we+building+the+AI+that+destroys+us%3F+%7C+BBC+News&lang=en&timestamp=1792171588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=896">
+          <img src="https://ytcards.demolab.com/?id=eRRiAEdHtDY&title=Are+we+building+the+AI+that+destroys+us%3F+%7C+BBC+News&lang=en&timestamp=1792171588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=896" alt="Are we building the AI that destroys us? | BBC News" title="Are we building the AI that destroys us? | BBC News">
         </picture>
       </a>
     </td>
