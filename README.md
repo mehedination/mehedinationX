@@ -603,56 +603,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=-Q4Uzw8SG-0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792146181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
-          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792146181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792144454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
+          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792144454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZzLONU6W8iw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=i9PTcGD1viU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZzLONU6W8iw&title=Unnamed+AI+company+to+lease+new+Nova+Scotia+data+centre&lang=en&timestamp=1792185781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
-          <img src="https://ytcards.demolab.com/?id=ZzLONU6W8iw&title=Unnamed+AI+company+to+lease+new+Nova+Scotia+data+centre&lang=en&timestamp=1792185781&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Unnamed AI company to lease new Nova Scotia data centre" title="Unnamed AI company to lease new Nova Scotia data centre">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792173254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
+          <img src="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792173254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN" title="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qf5YR2T_k2M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Zu2C9YNDgyM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qf5YR2T_k2M&title=The+Dark+Roots+of+Transhumanism%3A+Artificial+Intelligence+%26+the+Anti+Human+Agenda+%7C+Joseph+Farrell+&lang=en&timestamp=1792113781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4314">
-          <img src="https://ytcards.demolab.com/?id=qf5YR2T_k2M&title=The+Dark+Roots+of+Transhumanism%3A+Artificial+Intelligence+%26+the+Anti+Human+Agenda+%7C+Joseph+Farrell+&lang=en&timestamp=1792113781&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4314" alt="The Dark Roots of Transhumanism: Artificial Intelligence & the Anti Human Agenda | Joseph Farrell " title="The Dark Roots of Transhumanism: Artificial Intelligence & the Anti Human Agenda | Joseph Farrell ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zu2C9YNDgyM&title=Q%3A+What+are+the+biggest+threats+from+artificial+intelligence%3F&lang=en&timestamp=1792198454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=196">
+          <img src="https://ytcards.demolab.com/?id=Zu2C9YNDgyM&title=Q%3A+What+are+the+biggest+threats+from+artificial+intelligence%3F&lang=en&timestamp=1792198454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=196" alt="Q: What are the biggest threats from artificial intelligence?" title="Q: What are the biggest threats from artificial intelligence?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7loKqXPzTcQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cvIMC8yZeUY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792174981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116">
-          <img src="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792174981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=116" alt="Scientists WARN artificial intelligence can DISTORT human memories" title="Scientists WARN artificial intelligence can DISTORT human memories">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cvIMC8yZeUY&title=AI-driven+workforce+changes+create+anxiety+but+may+offer+opportunities&lang=en&timestamp=1792151654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=260">
+          <img src="https://ytcards.demolab.com/?id=cvIMC8yZeUY&title=AI-driven+workforce+changes+create+anxiety+but+may+offer+opportunities&lang=en&timestamp=1792151654&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=260" alt="AI-driven workforce changes create anxiety but may offer opportunities" title="AI-driven workforce changes create anxiety but may offer opportunities">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FyPANjJEfN8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SDLRYEVzEEw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FyPANjJEfN8&title=Artificial+Intelligence+and+Escalating+Cyber+Risks&lang=en&timestamp=1792146181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3630">
-          <img src="https://ytcards.demolab.com/?id=FyPANjJEfN8&title=Artificial+Intelligence+and+Escalating+Cyber+Risks&lang=en&timestamp=1792146181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3630" alt="Artificial Intelligence and Escalating Cyber Risks" title="Artificial Intelligence and Escalating Cyber Risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SDLRYEVzEEw&title=NYC+Council+hearing+testimony+from+SpaceX+about+AI+safety&lang=en&timestamp=1792169654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
+          <img src="https://ytcards.demolab.com/?id=SDLRYEVzEEw&title=NYC+Council+hearing+testimony+from+SpaceX+about+AI+safety&lang=en&timestamp=1792169654&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="NYC Council hearing testimony from SpaceX about AI safety" title="NYC Council hearing testimony from SpaceX about AI safety">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fsvWurHpSYI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4LUA7CDa9Xo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=The+Algorithms+Broke+Our+Brains%2C+Could+AI+Fix+Them%3F+With+Jim+VandeHei+of+Axios&lang=en&timestamp=1792106581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
-          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=The+Algorithms+Broke+Our+Brains%2C+Could+AI+Fix+Them%3F+With+Jim+VandeHei+of+Axios&lang=en&timestamp=1792106581&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="The Algorithms Broke Our Brains, Could AI Fix Them? With Jim VandeHei of Axios" title="The Algorithms Broke Our Brains, Could AI Fix Them? With Jim VandeHei of Axios">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4LUA7CDa9Xo&title=UGST+2026+Symposium+%7C+Day+One+%7C+Plenary+Session+%232+-+Artificial+Intelligence+and+the+Church&lang=en&timestamp=1792122854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4534">
+          <img src="https://ytcards.demolab.com/?id=4LUA7CDa9Xo&title=UGST+2026+Symposium+%7C+Day+One+%7C+Plenary+Session+%232+-+Artificial+Intelligence+and+the+Church&lang=en&timestamp=1792122854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4534" alt="UGST 2026 Symposium | Day One | Plenary Session #2 - Artificial Intelligence and the Church" title="UGST 2026 Symposium | Day One | Plenary Session #2 - Artificial Intelligence and the Church">
         </picture>
       </a>
     </td>
