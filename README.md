@@ -608,56 +608,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=l5A1WvhnCwI" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792251449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=565">
-          <img src="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792251449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=565" alt="Will autonomous weapons obey the laws of war?| DW News" title="Will autonomous weapons obey the laws of war?| DW News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=5Q04wrvtBc8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5Q04wrvtBc8&title=I+was+wrong+to+ignore+A.I&lang=en&timestamp=1792269449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
-          <img src="https://ytcards.demolab.com/?id=5Q04wrvtBc8&title=I+was+wrong+to+ignore+A.I&lang=en&timestamp=1792269449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="I was wrong to ignore A.I" title="I was wrong to ignore A.I">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5Q04wrvtBc8&title=I+was+wrong+to+ignore+A.I&lang=en&timestamp=1792266285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
+          <img src="https://ytcards.demolab.com/?id=5Q04wrvtBc8&title=I+was+wrong+to+ignore+A.I&lang=en&timestamp=1792266285&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="I was wrong to ignore A.I" title="I was wrong to ignore A.I">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=L8KbTUySgtA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=l5A1WvhnCwI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=China%27s+New+AI+Tech+at+the+Canton+Fair%21&lang=en&timestamp=1792251449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=224">
-          <img src="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=China%27s+New+AI+Tech+at+the+Canton+Fair%21&lang=en&timestamp=1792251449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=224" alt="China's New AI Tech at the Canton Fair!" title="China's New AI Tech at the Canton Fair!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792251885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=565">
+          <img src="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792251885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=565" alt="Will autonomous weapons obey the laws of war?| DW News" title="Will autonomous weapons obey the laws of war?| DW News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=OAU3lAadXLM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OAU3lAadXLM&title=Why+Humanity+Might+Have+to+Declare+War+on+AI&lang=en&timestamp=1792251885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2382">
+          <img src="https://ytcards.demolab.com/?id=OAU3lAadXLM&title=Why+Humanity+Might+Have+to+Declare+War+on+AI&lang=en&timestamp=1792251885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2382" alt="Why Humanity Might Have to Declare War on AI" title="Why Humanity Might Have to Declare War on AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AwmZTXFEnWY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792269449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1041">
-          <img src="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792269449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1041" alt="Aging Will Soon Be Solved by AI" title="Aging Will Soon Be Solved by AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792247849&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
-          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792247849&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792248285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
+          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792248285&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=L8KbTUySgtA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792269449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792269449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Is This The Biggest AI Discovery Of The Year?" title="Is This The Biggest AI Discovery Of The Year?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=Why+Everyone+is+Talking+About+China%E2%80%99s+Tech%21+Canton+Fair+2026&lang=en&timestamp=1792248285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=224">
+          <img src="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=Why+Everyone+is+Talking+About+China%E2%80%99s+Tech%21+Canton+Fair+2026&lang=en&timestamp=1792248285&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=224" alt="Why Everyone is Talking About China’s Tech! Canton Fair 2026" title="Why Everyone is Talking About China’s Tech! Canton Fair 2026">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=AwmZTXFEnWY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792269885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1041">
+          <img src="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792269885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1041" alt="Aging Will Soon Be Solved by AI" title="Aging Will Soon Be Solved by AI">
         </picture>
       </a>
     </td>
