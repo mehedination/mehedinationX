@@ -613,56 +613,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H5KkePO-hIc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fb0rfVZmsrs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792277730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2422">
-          <img src="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792277730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2422" alt="AI Just Went Too Far — And What Happened Next Is Shocking..." title="AI Just Went Too Far — And What Happened Next Is Shocking...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fb0rfVZmsrs&title=Artificial+Intelligence+in+2026+%F0%9F%A4%96+%7C+Introduction%2C+Types%2C+Benefits%2C+Uses+%26+Future+of+IT&lang=en&timestamp=1792394468&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=510">
+          <img src="https://ytcards.demolab.com/?id=fb0rfVZmsrs&title=Artificial+Intelligence+in+2026+%F0%9F%A4%96+%7C+Introduction%2C+Types%2C+Benefits%2C+Uses+%26+Future+of+IT&lang=en&timestamp=1792394468&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=510" alt="Artificial Intelligence in 2026 🤖 | Introduction, Types, Benefits, Uses & Future of IT" title="Artificial Intelligence in 2026 🤖 | Introduction, Types, Benefits, Uses & Future of IT">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XfOUDRFBLTc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792277730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
-          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792277730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792392308&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
+          <img src="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792392308&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News" title="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AwmZTXFEnWY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pDHxLmL-F_U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792277730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1041">
-          <img src="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792277730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1041" alt="Aging Will Soon Be Solved by AI" title="Aging Will Soon Be Solved by AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pDHxLmL-F_U&title=%27RATIONAL+FEAR%E2%80%99%3A+Why+Gen+Z+Is+%E2%80%98TERRIFIED%E2%80%99+of+AI&lang=en&timestamp=1792348388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=251">
+          <img src="https://ytcards.demolab.com/?id=pDHxLmL-F_U&title=%27RATIONAL+FEAR%E2%80%99%3A+Why+Gen+Z+Is+%E2%80%98TERRIFIED%E2%80%99+of+AI&lang=en&timestamp=1792348388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=251" alt="'RATIONAL FEAR’: Why Gen Z Is ‘TERRIFIED’ of AI" title="'RATIONAL FEAR’: Why Gen Z Is ‘TERRIFIED’ of AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cd3QM3foiLU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rMgM0NxnWLE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cd3QM3foiLU&title=MAXIMUM+OVERDRIVE%3A+Could+Rogue+AI+Turn+Our+Machines+Against+Us+in+the+near+future%3F&lang=en&timestamp=1792284930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2517">
-          <img src="https://ytcards.demolab.com/?id=Cd3QM3foiLU&title=MAXIMUM+OVERDRIVE%3A+Could+Rogue+AI+Turn+Our+Machines+Against+Us+in+the+near+future%3F&lang=en&timestamp=1792284930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2517" alt="MAXIMUM OVERDRIVE: Could Rogue AI Turn Our Machines Against Us in the near future?" title="MAXIMUM OVERDRIVE: Could Rogue AI Turn Our Machines Against Us in the near future?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792373588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=939">
+          <img src="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792373588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=939" alt="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!" title="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=r85tPdGSnys" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r85tPdGSnys&title=The+Future+of+AI+in+the+Workplace%3A+Human+Connections%2C+Bias%2C+%26+Women+Leaders&lang=en&timestamp=1792348388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1227">
+          <img src="https://ytcards.demolab.com/?id=r85tPdGSnys&title=The+Future+of+AI+in+the+Workplace%3A+Human+Connections%2C+Bias%2C+%26+Women+Leaders&lang=en&timestamp=1792348388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1227" alt="The Future of AI in the Workplace: Human Connections, Bias, & Women Leaders" title="The Future of AI in the Workplace: Human Connections, Bias, & Women Leaders">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=v5xLQC0ruEY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792338930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
-          <img src="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792338930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow" title="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792277730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792277730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Is This The Biggest AI Discovery Of The Year?" title="Is This The Biggest AI Discovery Of The Year?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792337588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
+          <img src="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792337588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow" title="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow">
         </picture>
       </a>
     </td>
