@@ -615,56 +615,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wS3lJpOs9Uw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DF5M5CJi9sM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wS3lJpOs9Uw&title=Anthropic+Just+Shocked+The+World...+AI+SINGULARITY+Is+Here%21&lang=en&timestamp=1792373140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
-          <img src="https://ytcards.demolab.com/?id=wS3lJpOs9Uw&title=Anthropic+Just+Shocked+The+World...+AI+SINGULARITY+Is+Here%21&lang=en&timestamp=1792373140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="Anthropic Just Shocked The World... AI SINGULARITY Is Here!" title="Anthropic Just Shocked The World... AI SINGULARITY Is Here!">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XfOUDRFBLTc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792394740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
-          <img src="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792394740&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News" title="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rMgM0NxnWLE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792373140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=939">
-          <img src="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792373140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=939" alt="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!" title="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5C4piXqdlYA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5C4piXqdlYA&title=Ryytel+-+Artificial+Intelligence&lang=en&timestamp=1792422880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
-          <img src="https://ytcards.demolab.com/?id=5C4piXqdlYA&title=Ryytel+-+Artificial+Intelligence&lang=en&timestamp=1792422880&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="Ryytel - Artificial Intelligence" title="Ryytel - Artificial Intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=r85tPdGSnys" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r85tPdGSnys&title=Human+vs.+Artificial+Intelligence%3A+Maintaining+Purpose%2C+Trust%2C+and+Connection+in+the+AI+Era&lang=en&timestamp=1792347940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1227">
-          <img src="https://ytcards.demolab.com/?id=r85tPdGSnys&title=Human+vs.+Artificial+Intelligence%3A+Maintaining+Purpose%2C+Trust%2C+and+Connection+in+the+AI+Era&lang=en&timestamp=1792347940&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1227" alt="Human vs. Artificial Intelligence: Maintaining Purpose, Trust, and Connection in the AI Era" title="Human vs. Artificial Intelligence: Maintaining Purpose, Trust, and Connection in the AI Era">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DF5M5CJi9sM&title=What+Senior+Engineers+Are+Actually+Doing+About+AI&lang=en&timestamp=1792414583&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5053">
+          <img src="https://ytcards.demolab.com/?id=DF5M5CJi9sM&title=What+Senior+Engineers+Are+Actually+Doing+About+AI&lang=en&timestamp=1792414583&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5053" alt="What Senior Engineers Are Actually Doing About AI" title="What Senior Engineers Are Actually Doing About AI">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=v5xLQC0ruEY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792337140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
-          <img src="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792337140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow" title="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792356983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
+          <img src="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792356983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow" title="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=BP7iC7_y_jM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BP7iC7_y_jM&title=Artificial+Intelligence+vs+HUMAN+%E2%80%94+The+Final+Showdown&lang=en&timestamp=1792356983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=234">
+          <img src="https://ytcards.demolab.com/?id=BP7iC7_y_jM&title=Artificial+Intelligence+vs+HUMAN+%E2%80%94+The+Final+Showdown&lang=en&timestamp=1792356983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=234" alt="Artificial Intelligence vs HUMAN — The Final Showdown" title="Artificial Intelligence vs HUMAN — The Final Showdown">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=aTd8LIt9Nb8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aTd8LIt9Nb8&title=Why+You+Need+to+Adapt+Now%3A+The+Future+of+Work+in+the+Age+of+AI&lang=en&timestamp=1792389383&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2149">
+          <img src="https://ytcards.demolab.com/?id=aTd8LIt9Nb8&title=Why+You+Need+to+Adapt+Now%3A+The+Future+of+Work+in+the+Age+of+AI&lang=en&timestamp=1792389383&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2149" alt="Why You Need to Adapt Now: The Future of Work in the Age of AI" title="Why You Need to Adapt Now: The Future of Work in the Age of AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=0g3GJPehJOI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0g3GJPehJOI&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+10+-+MiniMax+Search+Enhancements&lang=en&timestamp=1792385783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4824">
+          <img src="https://ytcards.demolab.com/?id=0g3GJPehJOI&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+10+-+MiniMax+Search+Enhancements&lang=en&timestamp=1792385783&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4824" alt="COMP 3200 - Intro to Artificial Intelligence - Lecture 10 - MiniMax Search Enhancements" title="COMP 3200 - Intro to Artificial Intelligence - Lecture 10 - MiniMax Search Enhancements">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=WxmogvXKjtQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WxmogvXKjtQ&title=%28Official%29+Microsoft+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses&lang=en&timestamp=1792410983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=498">
+          <img src="https://ytcards.demolab.com/?id=WxmogvXKjtQ&title=%28Official%29+Microsoft+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses&lang=en&timestamp=1792410983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=498" alt="(Official) Microsoft Free Artificial Intelligence Certification Course | AI Engineer Courses" title="(Official) Microsoft Free Artificial Intelligence Certification Course | AI Engineer Courses">
         </picture>
       </a>
     </td>
