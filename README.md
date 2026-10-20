@@ -617,56 +617,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=O4lrgCecT0Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xsr-OcXhVGU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792411930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=913">
-          <img src="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792411930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=913" alt="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!" title="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xsr-OcXhVGU&title=2030%3A+The+AI+Accumulative+Risk+Scenario&lang=en&timestamp=1792433726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1220">
+          <img src="https://ytcards.demolab.com/?id=xsr-OcXhVGU&title=2030%3A+The+AI+Accumulative+Risk+Scenario&lang=en&timestamp=1792433726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1220" alt="2030: The AI Accumulative Risk Scenario" title="2030: The AI Accumulative Risk Scenario">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xw5-Wea7kY0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d6SO10ihpL4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xw5-Wea7kY0&title=The+Navy%27s+AI+Strategy+Comes+Down+to+One+Thing%3A+Speed&lang=en&timestamp=1792415530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=463">
-          <img src="https://ytcards.demolab.com/?id=xw5-Wea7kY0&title=The+Navy%27s+AI+Strategy+Comes+Down+to+One+Thing%3A+Speed&lang=en&timestamp=1792415530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=463" alt="The Navy's AI Strategy Comes Down to One Thing: Speed" title="The Navy's AI Strategy Comes Down to One Thing: Speed">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792430126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1224">
+          <img src="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792430126&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1224" alt="A Potentially Historic AI Breakthrough" title="A Potentially Historic AI Breakthrough">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Q-OCWTKUv1c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JZ7DnHoPLLQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792415530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792415530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race" title="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JZ7DnHoPLLQ&title=LIVE%3A+The+People%27s+AI+Assembly&lang=en&timestamp=1792462526&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11861">
+          <img src="https://ytcards.demolab.com/?id=JZ7DnHoPLLQ&title=LIVE%3A+The+People%27s+AI+Assembly&lang=en&timestamp=1792462526&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11861" alt="LIVE: The People's AI Assembly" title="LIVE: The People's AI Assembly">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DF5M5CJi9sM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=O4lrgCecT0Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DF5M5CJi9sM&title=What+Senior+Engineers+Are+Actually+Doing+About+AI&lang=en&timestamp=1792411930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5053">
-          <img src="https://ytcards.demolab.com/?id=DF5M5CJi9sM&title=What+Senior+Engineers+Are+Actually+Doing+About+AI&lang=en&timestamp=1792411930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5053" alt="What Senior Engineers Are Actually Doing About AI" title="What Senior Engineers Are Actually Doing About AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792412126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=913">
+          <img src="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792412126&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=913" alt="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!" title="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oMFJSDan_Tk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Q-OCWTKUv1c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMFJSDan_Tk&title=Scams+and+privacy+concerns+fuelling+AI+scepticism&lang=en&timestamp=1792404730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=153">
-          <img src="https://ytcards.demolab.com/?id=oMFJSDan_Tk&title=Scams+and+privacy+concerns+fuelling+AI+scepticism&lang=en&timestamp=1792404730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=153" alt="Scams and privacy concerns fuelling AI scepticism" title="Scams and privacy concerns fuelling AI scepticism">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792412126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
+          <img src="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792412126&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race" title="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SOUqoP6IXKk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZqdzdKF1PsM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SOUqoP6IXKk&title=Is+DSA+Still+Worth+Learning+in+2026%3F+Reality+of+Tech+Placements%21&lang=en&timestamp=1792415530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=983">
-          <img src="https://ytcards.demolab.com/?id=SOUqoP6IXKk&title=Is+DSA+Still+Worth+Learning+in+2026%3F+Reality+of+Tech+Placements%21&lang=en&timestamp=1792415530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=983" alt="Is DSA Still Worth Learning in 2026? Reality of Tech Placements!" title="Is DSA Still Worth Learning in 2026? Reality of Tech Placements!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZqdzdKF1PsM&title=Elon+Musk+pledges+to+give+his+share+of+SpaceX+to+every+U.S.+kid&lang=en&timestamp=1792448126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28">
+          <img src="https://ytcards.demolab.com/?id=ZqdzdKF1PsM&title=Elon+Musk+pledges+to+give+his+share+of+SpaceX+to+every+U.S.+kid&lang=en&timestamp=1792448126&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28" alt="Elon Musk pledges to give his share of SpaceX to every U.S. kid" title="Elon Musk pledges to give his share of SpaceX to every U.S. kid">
         </picture>
       </a>
     </td>
