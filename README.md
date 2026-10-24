@@ -621,56 +621,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jWmkQIoLvug" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XW4D6NguJmA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jWmkQIoLvug&title=%E2%80%9CWhen+the+Bubble+Bursts%E2%80%9D%3A+Naomi+Klein+%26+Astra+Taylor+on+Reclaiming+Democracy+from+AI+Oligarchs&lang=en&timestamp=1792612367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1737">
-          <img src="https://ytcards.demolab.com/?id=jWmkQIoLvug&title=%E2%80%9CWhen+the+Bubble+Bursts%E2%80%9D%3A+Naomi+Klein+%26+Astra+Taylor+on+Reclaiming+Democracy+from+AI+Oligarchs&lang=en&timestamp=1792612367&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1737" alt="“When the Bubble Bursts”: Naomi Klein & Astra Taylor on Reclaiming Democracy from AI Oligarchs" title="“When the Bubble Bursts”: Naomi Klein & Astra Taylor on Reclaiming Democracy from AI Oligarchs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
+          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765593&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hNefZz4z4QA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LPlZXfs0-C0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hNefZz4z4QA&title=Concerns+mount+over+artificial+intelligence+as+Silicon+Valley+sees+AI+boom+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792612367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=328">
-          <img src="https://ytcards.demolab.com/?id=hNefZz4z4QA&title=Concerns+mount+over+artificial+intelligence+as+Silicon+Valley+sees+AI+boom+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792612367&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=328" alt="Concerns mount over artificial intelligence as Silicon Valley sees AI boom • FRANCE 24 English" title="Concerns mount over artificial intelligence as Silicon Valley sees AI boom • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792779993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1641">
+          <img src="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792779993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1641" alt="Why is the UK at the forefront of AI-driven job cuts? | Inside Story" title="Why is the UK at the forefront of AI-driven job cuts? | Inside Story">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TQlf8QqDOV8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TQlf8QqDOV8&title=AI+discovers+bug+that+puts+up+to+70%25+of+websites+at+risk&lang=en&timestamp=1792619567&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
-          <img src="https://ytcards.demolab.com/?id=TQlf8QqDOV8&title=AI+discovers+bug+that+puts+up+to+70%25+of+websites+at+risk&lang=en&timestamp=1792619567&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="AI discovers bug that puts up to 70% of websites at risk" title="AI discovers bug that puts up to 70% of websites at risk">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792794393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
+          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792794393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nVFk3hGaakQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2Lexxq7Daz8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nVFk3hGaakQ&title=The+Rogue+AI+PANIC+Was+Planned&lang=en&timestamp=1792626767&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1677">
-          <img src="https://ytcards.demolab.com/?id=nVFk3hGaakQ&title=The+Rogue+AI+PANIC+Was+Planned&lang=en&timestamp=1792626767&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1677" alt="The Rogue AI PANIC Was Planned" title="The Rogue AI PANIC Was Planned">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Lexxq7Daz8&title=AI+Spending+Sparks+Tech+Stock+Selloff%3A+Meta+Shares+Slump+7%25+As+AI+Spending+Soars+%7C+WION&lang=en&timestamp=1792754793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=2Lexxq7Daz8&title=AI+Spending+Sparks+Tech+Stock+Selloff%3A+Meta+Shares+Slump+7%25+As+AI+Spending+Soars+%7C+WION&lang=en&timestamp=1792754793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="AI Spending Sparks Tech Stock Selloff: Meta Shares Slump 7% As AI Spending Soars | WION" title="AI Spending Sparks Tech Stock Selloff: Meta Shares Slump 7% As AI Spending Soars | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3gXLmy7DK_4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zGdFuo_4S2A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3gXLmy7DK_4&title=Sam+Altman%3A+RSI%2C+AI+Consciousness%2C+OpenAI%27s+New+Hardware%2C+Compute%2C+and+more%21&lang=en&timestamp=1792612367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2708">
-          <img src="https://ytcards.demolab.com/?id=3gXLmy7DK_4&title=Sam+Altman%3A+RSI%2C+AI+Consciousness%2C+OpenAI%27s+New+Hardware%2C+Compute%2C+and+more%21&lang=en&timestamp=1792612367&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2708" alt="Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!" title="Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zGdFuo_4S2A&title=Will+AI+Become+the+New+Parent%3F+%7C+The+Future+of+Parenting+%7C+Prof.+Dr.+Javed+Iqbal&lang=en&timestamp=1792761993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=814">
+          <img src="https://ytcards.demolab.com/?id=zGdFuo_4S2A&title=Will+AI+Become+the+New+Parent%3F+%7C+The+Future+of+Parenting+%7C+Prof.+Dr.+Javed+Iqbal&lang=en&timestamp=1792761993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=814" alt="Will AI Become the New Parent? | The Future of Parenting | Prof. Dr. Javed Iqbal" title="Will AI Become the New Parent? | The Future of Parenting | Prof. Dr. Javed Iqbal">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YYAtgL8KFQs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yBlZZlMW8Ig" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YYAtgL8KFQs&title=Kroger+to+cut+thousands+of+corporate+jobs+amid+AI+expansion&lang=en&timestamp=1792612367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=84">
-          <img src="https://ytcards.demolab.com/?id=YYAtgL8KFQs&title=Kroger+to+cut+thousands+of+corporate+jobs+amid+AI+expansion&lang=en&timestamp=1792612367&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=84" alt="Kroger to cut thousands of corporate jobs amid AI expansion" title="Kroger to cut thousands of corporate jobs amid AI expansion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yBlZZlMW8Ig&title=How+artificial+intelligence+affects+real+estate+sales&lang=en&timestamp=1792790793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
+          <img src="https://ytcards.demolab.com/?id=yBlZZlMW8Ig&title=How+artificial+intelligence+affects+real+estate+sales&lang=en&timestamp=1792790793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="How artificial intelligence affects real estate sales" title="How artificial intelligence affects real estate sales">
         </picture>
       </a>
     </td>
