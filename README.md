@@ -629,30 +629,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=yNlc8nNrHh4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792828451&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
-          <img src="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792828451&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="America's AI race: Are the risks being ignored? | DW News" title="America's AI race: Are the risks being ignored? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792839897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
+          <img src="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792839897&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="America's AI race: Are the risks being ignored? | DW News" title="America's AI race: Are the risks being ignored? | DW News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=mBLnQCF1evE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mBLnQCF1evE&title=Whitney+Webb+EXPOSES+the+Dark+Agenda+Behind+the+AI+Takeover&lang=en&timestamp=1792886697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1108">
+          <img src="https://ytcards.demolab.com/?id=mBLnQCF1evE&title=Whitney+Webb+EXPOSES+the+Dark+Agenda+Behind+the+AI+Takeover&lang=en&timestamp=1792886697&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1108" alt="Whitney Webb EXPOSES the Dark Agenda Behind the AI Takeover" title="Whitney Webb EXPOSES the Dark Agenda Behind the AI Takeover">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=oMpCkdFn754" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792832051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792832051&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="US banks scramble to control their AI agent activity" title="US banks scramble to control their AI agent activity">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZI-hsm5yhkw" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792864451&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=898">
-          <img src="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792864451&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=898" alt="Nobody Can Think Without AI Anymore" title="Nobody Can Think Without AI Anymore">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792839897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792839897&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="US banks scramble to control their AI agent activity" title="US banks scramble to control their AI agent activity">
         </picture>
       </a>
     </td>
@@ -661,24 +662,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=BD-fSSxIULI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792886051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13171">
-          <img src="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792886051&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13171" alt="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?" title="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792883097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13171">
+          <img src="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792883097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13171" alt="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?" title="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ZI-hsm5yhkw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792865097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=898">
+          <img src="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792865097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=898" alt="Nobody Can Think Without AI Anymore" title="Nobody Can Think Without AI Anymore">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=kIe68Ml_TcM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kIe68Ml_TcM&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F+%F0%9F%93%B1&lang=en&timestamp=1792886051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13169">
-          <img src="https://ytcards.demolab.com/?id=kIe68Ml_TcM&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F+%F0%9F%93%B1&lang=en&timestamp=1792886051&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13169" alt="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity? 📱" title="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity? 📱">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=i3jjjKLYcEM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i3jjjKLYcEM&title=AI+Panic+Spreads+-+OpenAI+Valuation+Cut+as+Market+Fears+Grow&lang=en&timestamp=1792842851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=878">
-          <img src="https://ytcards.demolab.com/?id=i3jjjKLYcEM&title=AI+Panic+Spreads+-+OpenAI+Valuation+Cut+as+Market+Fears+Grow&lang=en&timestamp=1792842851&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=878" alt="AI Panic Spreads - OpenAI Valuation Cut as Market Fears Grow" title="AI Panic Spreads - OpenAI Valuation Cut as Market Fears Grow">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kIe68Ml_TcM&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F+%F0%9F%93%B1&lang=en&timestamp=1792883097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13169">
+          <img src="https://ytcards.demolab.com/?id=kIe68Ml_TcM&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F+%F0%9F%93%B1&lang=en&timestamp=1792883097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13169" alt="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity? 📱" title="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity? 📱">
         </picture>
       </a>
     </td>
