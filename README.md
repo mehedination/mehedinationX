@@ -630,56 +630,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yNlc8nNrHh4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OnXVUXktKxQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792839897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
-          <img src="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792839897&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="America's AI race: Are the risks being ignored? | DW News" title="America's AI race: Are the risks being ignored? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OnXVUXktKxQ&title=Why+so+many+AI+developers+are+freaked+out+about+AI&lang=en&timestamp=1792948417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
+          <img src="https://ytcards.demolab.com/?id=OnXVUXktKxQ&title=Why+so+many+AI+developers+are+freaked+out+about+AI&lang=en&timestamp=1792948417&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="Why so many AI developers are freaked out about AI" title="Why so many AI developers are freaked out about AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mBLnQCF1evE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W3Zn_sjdHxM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mBLnQCF1evE&title=Whitney+Webb+EXPOSES+the+Dark+Agenda+Behind+the+AI+Takeover&lang=en&timestamp=1792886697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1108">
-          <img src="https://ytcards.demolab.com/?id=mBLnQCF1evE&title=Whitney+Webb+EXPOSES+the+Dark+Agenda+Behind+the+AI+Takeover&lang=en&timestamp=1792886697&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1108" alt="Whitney Webb EXPOSES the Dark Agenda Behind the AI Takeover" title="Whitney Webb EXPOSES the Dark Agenda Behind the AI Takeover">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793016817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
+          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793016817&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Inside the secret race to build artificial intelligence | The Gray Area" title="Inside the secret race to build artificial intelligence | The Gray Area">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oMpCkdFn754" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MFP7CRm2xW4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792839897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792839897&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="US banks scramble to control their AI agent activity" title="US banks scramble to control their AI agent activity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MFP7CRm2xW4&title=Jack+Dorsey+Just+Revealed+a+Terrifying+AI+Breakthrough&lang=en&timestamp=1792948417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1487">
+          <img src="https://ytcards.demolab.com/?id=MFP7CRm2xW4&title=Jack+Dorsey+Just+Revealed+a+Terrifying+AI+Breakthrough&lang=en&timestamp=1792948417&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1487" alt="Jack Dorsey Just Revealed a Terrifying AI Breakthrough" title="Jack Dorsey Just Revealed a Terrifying AI Breakthrough">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BD-fSSxIULI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QRVz697rEx0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792883097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13171">
-          <img src="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792883097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13171" alt="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?" title="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QRVz697rEx0&title=AI+agent+builds+itself+a+robot+body%2C+does+exactly+what+experts+warned&lang=en&timestamp=1792952017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=905">
+          <img src="https://ytcards.demolab.com/?id=QRVz697rEx0&title=AI+agent+builds+itself+a+robot+body%2C+does+exactly+what+experts+warned&lang=en&timestamp=1792952017&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=905" alt="AI agent builds itself a robot body, does exactly what experts warned" title="AI agent builds itself a robot body, does exactly what experts warned">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZI-hsm5yhkw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=U5zQzSqywEY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792865097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=898">
-          <img src="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792865097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=898" alt="Nobody Can Think Without AI Anymore" title="Nobody Can Think Without AI Anymore">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793027617&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42261">
+          <img src="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793027617&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42261" alt="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course" title="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kIe68Ml_TcM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cg9GiIY4dGI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kIe68Ml_TcM&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F+%F0%9F%93%B1&lang=en&timestamp=1792883097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13169">
-          <img src="https://ytcards.demolab.com/?id=kIe68Ml_TcM&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F+%F0%9F%93%B1&lang=en&timestamp=1792883097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13169" alt="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity? 📱" title="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity? 📱">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cg9GiIY4dGI&title=The+DARK+Truth+About+AI%E2%80%A6+Even+Its+Creators+Are+WARNING+Us&lang=en&timestamp=1792962817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1989">
+          <img src="https://ytcards.demolab.com/?id=cg9GiIY4dGI&title=The+DARK+Truth+About+AI%E2%80%A6+Even+Its+Creators+Are+WARNING+Us&lang=en&timestamp=1792962817&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1989" alt="The DARK Truth About AI… Even Its Creators Are WARNING Us" title="The DARK Truth About AI… Even Its Creators Are WARNING Us">
         </picture>
       </a>
     </td>
