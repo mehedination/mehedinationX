@@ -632,56 +632,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=zmSHcm5uHeU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zmSHcm5uHeU&title=This+Is+What%E2%80%99s+Coming+To+Hospitals+And+It%E2%80%99s+Getting+Scary&lang=en&timestamp=1793042179&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=856">
+          <img src="https://ytcards.demolab.com/?id=zmSHcm5uHeU&title=This+Is+What%E2%80%99s+Coming+To+Hospitals+And+It%E2%80%99s+Getting+Scary&lang=en&timestamp=1793042179&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=856" alt="This Is What’s Coming To Hospitals And It’s Getting Scary" title="This Is What’s Coming To Hospitals And It’s Getting Scary">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=W3Zn_sjdHxM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793018377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
-          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793018377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Inside the secret race to build artificial intelligence | The Gray Area" title="Inside the secret race to build artificial intelligence | The Gray Area">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793024179&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
+          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793024179&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Inside the secret race to build artificial intelligence | The Gray Area" title="Inside the secret race to build artificial intelligence | The Gray Area">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lbtUnjWh1_c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=giokryTGj_A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793047177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1218">
-          <img src="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793047177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1218" alt="I hacked my camera with AI (and so can you)" title="I hacked my camera with AI (and so can you)">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2xywnY2hpWA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2xywnY2hpWA&title=AI+wasn%E2%80%99t+ready+for+us&lang=en&timestamp=1793043577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91">
-          <img src="https://ytcards.demolab.com/?id=2xywnY2hpWA&title=AI+wasn%E2%80%99t+ready+for+us&lang=en&timestamp=1793043577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=91" alt="AI wasn’t ready for us" title="AI wasn’t ready for us">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=giokryTGj_A&title=Anthropic%27s+finances+are+wilder+than+you+think&lang=en&timestamp=1793045779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=426">
+          <img src="https://ytcards.demolab.com/?id=giokryTGj_A&title=Anthropic%27s+finances+are+wilder+than+you+think&lang=en&timestamp=1793045779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=426" alt="Anthropic's finances are wilder than you think" title="Anthropic's finances are wilder than you think">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hIEF43hTzaw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=U5zQzSqywEY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hIEF43hTzaw&title=Anthropic%27s+IPO+to+test+market+appetite+and+profitability+for+AI+giants+%7C+ABC+NEWS&lang=en&timestamp=1793068777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=370">
-          <img src="https://ytcards.demolab.com/?id=hIEF43hTzaw&title=Anthropic%27s+IPO+to+test+market+appetite+and+profitability+for+AI+giants+%7C+ABC+NEWS&lang=en&timestamp=1793068777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=370" alt="Anthropic's IPO to test market appetite and profitability for AI giants | ABC NEWS" title="Anthropic's IPO to test market appetite and profitability for AI giants | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793027779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42261">
+          <img src="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793027779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42261" alt="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course" title="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lbtUnjWh1_c" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793049379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1218">
+          <img src="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793049379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1218" alt="I hacked my camera with AI (and so can you)" title="I hacked my camera with AI (and so can you)">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=IJrxpS0Vpxg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793043577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=199">
-          <img src="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793043577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=199" alt="Microsoft Offers Buyouts To 25% Of Company" title="Microsoft Offers Buyouts To 25% Of Company">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=U5zQzSqywEY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793025577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42261">
-          <img src="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793025577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42261" alt="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course" title="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793045779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=199">
+          <img src="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793045779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=199" alt="Microsoft Offers Buyouts To 25% Of Company" title="Microsoft Offers Buyouts To 25% Of Company">
         </picture>
       </a>
     </td>
