@@ -634,56 +634,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W3Zn_sjdHxM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tUMm5rP4SwU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793044688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
-          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793044688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Inside the secret race to build artificial intelligence | The Gray Area" title="Inside the secret race to build artificial intelligence | The Gray Area">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tUMm5rP4SwU&title=Has+the+AI+Singularity+Already+Started%3F+Geoffrey+Hinton+Explains&lang=en&timestamp=1793135045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=678">
+          <img src="https://ytcards.demolab.com/?id=tUMm5rP4SwU&title=Has+the+AI+Singularity+Already+Started%3F+Geoffrey+Hinton+Explains&lang=en&timestamp=1793135045&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=678" alt="Has the AI Singularity Already Started? Geoffrey Hinton Explains" title="Has the AI Singularity Already Started? Geoffrey Hinton Explains">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fWXF8rX2d3o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M8j_Py_TQ9k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fWXF8rX2d3o&title=Anthropic+plans+to+go+public+in+one+of+Wall+Street%E2%80%99s+biggest+debuts+%7C+9+News+Australia&lang=en&timestamp=1793087888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=69">
-          <img src="https://ytcards.demolab.com/?id=fWXF8rX2d3o&title=Anthropic+plans+to+go+public+in+one+of+Wall+Street%E2%80%99s+biggest+debuts+%7C+9+News+Australia&lang=en&timestamp=1793087888&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=69" alt="Anthropic plans to go public in one of Wall Street’s biggest debuts | 9 News Australia" title="Anthropic plans to go public in one of Wall Street’s biggest debuts | 9 News Australia">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M8j_Py_TQ9k&title=Anthropic%E2%80%99s+new+warning&lang=en&timestamp=1793106245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
+          <img src="https://ytcards.demolab.com/?id=M8j_Py_TQ9k&title=Anthropic%E2%80%99s+new+warning&lang=en&timestamp=1793106245&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="Anthropic’s new warning" title="Anthropic’s new warning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2xywnY2hpWA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=P0887k67PF4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2xywnY2hpWA&title=AI+wasn%E2%80%99t+ready+for+us&lang=en&timestamp=1793044688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91">
-          <img src="https://ytcards.demolab.com/?id=2xywnY2hpWA&title=AI+wasn%E2%80%99t+ready+for+us&lang=en&timestamp=1793044688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=91" alt="AI wasn’t ready for us" title="AI wasn’t ready for us">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P0887k67PF4&title=The+Real+Reason+AI+Companies+Won%E2%80%99t+Slow+Down+%28It%E2%80%99s+Not+Money%29&lang=en&timestamp=1793106245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3011">
+          <img src="https://ytcards.demolab.com/?id=P0887k67PF4&title=The+Real+Reason+AI+Companies+Won%E2%80%99t+Slow+Down+%28It%E2%80%99s+Not+Money%29&lang=en&timestamp=1793106245&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3011" alt="The Real Reason AI Companies Won’t Slow Down (It’s Not Money)" title="The Real Reason AI Companies Won’t Slow Down (It’s Not Money)">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lbtUnjWh1_c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B_YxtKULp8o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793048288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1218">
-          <img src="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793048288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1218" alt="I hacked my camera with AI (and so can you)" title="I hacked my camera with AI (and so can you)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B_YxtKULp8o&title=AI%E2%80%99s+Funding+Crisis+Just+Got+Worse&lang=en&timestamp=1793127845&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903">
+          <img src="https://ytcards.demolab.com/?id=B_YxtKULp8o&title=AI%E2%80%99s+Funding+Crisis+Just+Got+Worse&lang=en&timestamp=1793127845&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=903" alt="AI’s Funding Crisis Just Got Worse" title="AI’s Funding Crisis Just Got Worse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iAGoB08a0cg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=j-UeAHKxZ8k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iAGoB08a0cg&title=Eric+Stogner+-+Artificial+%22Super+Intelligence%22+Battling+to+Take+Over%3F&lang=en&timestamp=1793080688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2647">
-          <img src="https://ytcards.demolab.com/?id=iAGoB08a0cg&title=Eric+Stogner+-+Artificial+%22Super+Intelligence%22+Battling+to+Take+Over%3F&lang=en&timestamp=1793080688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2647" alt="Eric Stogner - Artificial &quot;Super Intelligence&quot; Battling to Take Over?" title="Eric Stogner - Artificial &quot;Super Intelligence&quot; Battling to Take Over?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j-UeAHKxZ8k&title=Microsoft+offers+buyouts+to+60%2C000+employees+as+spending+on+AI+grows&lang=en&timestamp=1793095445&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
+          <img src="https://ytcards.demolab.com/?id=j-UeAHKxZ8k&title=Microsoft+offers+buyouts+to+60%2C000+employees+as+spending+on+AI+grows&lang=en&timestamp=1793095445&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="Microsoft offers buyouts to 60,000 employees as spending on AI grows" title="Microsoft offers buyouts to 60,000 employees as spending on AI grows">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kW2dEWcL-pw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OP5urXQqgkw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kW2dEWcL-pw&title=Unfortunately%2C+AI+just+changed+growing+a+creative+business+FOREVER&lang=en&timestamp=1793044688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699">
-          <img src="https://ytcards.demolab.com/?id=kW2dEWcL-pw&title=Unfortunately%2C+AI+just+changed+growing+a+creative+business+FOREVER&lang=en&timestamp=1793044688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=699" alt="Unfortunately, AI just changed growing a creative business FOREVER" title="Unfortunately, AI just changed growing a creative business FOREVER">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OP5urXQqgkw&title=Trump+Vows+To+Ban+Term+%E2%80%98Artificial+Intelligence%E2%80%99&lang=en&timestamp=1793138645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=173">
+          <img src="https://ytcards.demolab.com/?id=OP5urXQqgkw&title=Trump+Vows+To+Ban+Term+%E2%80%98Artificial+Intelligence%E2%80%99&lang=en&timestamp=1793138645&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=173" alt="Trump Vows To Ban Term ‘Artificial Intelligence’" title="Trump Vows To Ban Term ‘Artificial Intelligence’">
         </picture>
       </a>
     </td>
