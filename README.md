@@ -636,56 +636,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=GdwJqQawOz8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793392081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
+          <img src="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793392081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff" title="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4u5gRQ0USsE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4u5gRQ0USsE&title=Here%27s+why+an+AI-generated+campaign+ad+is+allowed+on+the+air+in+Pennsylvania&lang=en&timestamp=1793399281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189">
+          <img src="https://ytcards.demolab.com/?id=4u5gRQ0USsE&title=Here%27s+why+an+AI-generated+campaign+ad+is+allowed+on+the+air+in+Pennsylvania&lang=en&timestamp=1793399281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=189" alt="Here's why an AI-generated campaign ad is allowed on the air in Pennsylvania" title="Here's why an AI-generated campaign ad is allowed on the air in Pennsylvania">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=YI10RIptMbU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YI10RIptMbU&title=Democrats+are+%27ASSAULTING%27+Big+Tech+as+futures+PLUNGE%2C+Steve+Moore+warns&lang=en&timestamp=1793383857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=340">
-          <img src="https://ytcards.demolab.com/?id=YI10RIptMbU&title=Democrats+are+%27ASSAULTING%27+Big+Tech+as+futures+PLUNGE%2C+Steve+Moore+warns&lang=en&timestamp=1793383857&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=340" alt="Democrats are 'ASSAULTING' Big Tech as futures PLUNGE, Steve Moore warns" title="Democrats are 'ASSAULTING' Big Tech as futures PLUNGE, Steve Moore warns">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Vp8kDyreDGI" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793373057&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
-          <img src="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793373057&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat" title="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x09DdM19xhk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x09DdM19xhk&title=AI+Agents%3A+The+Next+BIG+Revolution+in+Artificial+Intelligence%21&lang=en&timestamp=1793365857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=668">
-          <img src="https://ytcards.demolab.com/?id=x09DdM19xhk&title=AI+Agents%3A+The+Next+BIG+Revolution+in+Artificial+Intelligence%21&lang=en&timestamp=1793365857&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=668" alt="AI Agents: The Next BIG Revolution in Artificial Intelligence!" title="AI Agents: The Next BIG Revolution in Artificial Intelligence!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YI10RIptMbU&title=Democrats+are+%27ASSAULTING%27+Big+Tech+as+futures+PLUNGE%2C+Steve+Moore+warns&lang=en&timestamp=1793384881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=340">
+          <img src="https://ytcards.demolab.com/?id=YI10RIptMbU&title=Democrats+are+%27ASSAULTING%27+Big+Tech+as+futures+PLUNGE%2C+Steve+Moore+warns&lang=en&timestamp=1793384881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=340" alt="Democrats are 'ASSAULTING' Big Tech as futures PLUNGE, Steve Moore warns" title="Democrats are 'ASSAULTING' Big Tech as futures PLUNGE, Steve Moore warns">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Rt2duJkBqo4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=A-dxxTV1b_o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Rt2duJkBqo4&title=AI+Worm+Explained%3A+Artificial+Intelligence+%E0%A4%A8%E0%A5%87+%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0+%E0%A4%95%E0%A5%8B+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+Blackmail%21+%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A4%BE+%E0%A4%96%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%95%3F+Kadak%7C&lang=en&timestamp=1793376657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=644">
-          <img src="https://ytcards.demolab.com/?id=Rt2duJkBqo4&title=AI+Worm+Explained%3A+Artificial+Intelligence+%E0%A4%A8%E0%A5%87+%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0+%E0%A4%95%E0%A5%8B+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+Blackmail%21+%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A4%BE+%E0%A4%96%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%95%3F+Kadak%7C&lang=en&timestamp=1793376657&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=644" alt="AI Worm Explained: Artificial Intelligence ने मैनेजर को किया Blackmail! भविष्य कितना खतरनाक? Kadak|" title="AI Worm Explained: Artificial Intelligence ने मैनेजर को किया Blackmail! भविष्य कितना खतरनाक? Kadak|">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793381281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
+          <img src="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793381281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="Investors in AI race spooked after Google value drops $500bn | BBC News" title="Investors in AI race spooked after Google value drops $500bn | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=OlU8agsbpEM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793387457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3690">
-          <img src="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793387457&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3690" alt="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion" title="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793384881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3690">
+          <img src="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793384881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3690" alt="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion" title="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=nzu3qTTx1-8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793358657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
-          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793358657&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793359681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793359681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
         </picture>
       </a>
     </td>
