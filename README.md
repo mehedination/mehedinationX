@@ -637,56 +637,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=A-dxxTV1b_o" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793378419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
+          <img src="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793378419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="Investors in AI race spooked after Google value drops $500bn | BBC News" title="Investors in AI race spooked after Google value drops $500bn | BBC News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=GdwJqQawOz8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793392081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
-          <img src="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793392081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff" title="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793392819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
+          <img src="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793392819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff" title="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4u5gRQ0USsE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NWNbAEivyvs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4u5gRQ0USsE&title=Here%27s+why+an+AI-generated+campaign+ad+is+allowed+on+the+air+in+Pennsylvania&lang=en&timestamp=1793399281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189">
-          <img src="https://ytcards.demolab.com/?id=4u5gRQ0USsE&title=Here%27s+why+an+AI-generated+campaign+ad+is+allowed+on+the+air+in+Pennsylvania&lang=en&timestamp=1793399281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=189" alt="Here's why an AI-generated campaign ad is allowed on the air in Pennsylvania" title="Here's why an AI-generated campaign ad is allowed on the air in Pennsylvania">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YI10RIptMbU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YI10RIptMbU&title=Democrats+are+%27ASSAULTING%27+Big+Tech+as+futures+PLUNGE%2C+Steve+Moore+warns&lang=en&timestamp=1793384881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=340">
-          <img src="https://ytcards.demolab.com/?id=YI10RIptMbU&title=Democrats+are+%27ASSAULTING%27+Big+Tech+as+futures+PLUNGE%2C+Steve+Moore+warns&lang=en&timestamp=1793384881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=340" alt="Democrats are 'ASSAULTING' Big Tech as futures PLUNGE, Steve Moore warns" title="Democrats are 'ASSAULTING' Big Tech as futures PLUNGE, Steve Moore warns">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NWNbAEivyvs&title=Are+There+Problems+Beyond+the+Reach+of+AI+%7C+World+Science+Festival&lang=en&timestamp=1793403619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5058">
+          <img src="https://ytcards.demolab.com/?id=NWNbAEivyvs&title=Are+There+Problems+Beyond+the+Reach+of+AI+%7C+World+Science+Festival&lang=en&timestamp=1793403619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5058" alt="Are There Problems Beyond the Reach of AI | World Science Festival" title="Are There Problems Beyond the Reach of AI | World Science Festival">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=A-dxxTV1b_o" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793381281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
-          <img src="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793381281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="Investors in AI race spooked after Google value drops $500bn | BBC News" title="Investors in AI race spooked after Google value drops $500bn | BBC News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OlU8agsbpEM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793384881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3690">
-          <img src="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793384881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3690" alt="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion" title="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=nzu3qTTx1-8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793359681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
-          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793359681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793374819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=M_iUHpSU5hY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M_iUHpSU5hY&title=The+Bubble+Is+Bursting&lang=en&timestamp=1793389219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1587">
+          <img src="https://ytcards.demolab.com/?id=M_iUHpSU5hY&title=The+Bubble+Is+Bursting&lang=en&timestamp=1793389219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1587" alt="The Bubble Is Bursting" title="The Bubble Is Bursting">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=hIIzIh4l208" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929">
+          <img src="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793374819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=929" alt="AI CRASH SPREADS WORLDWIDE" title="AI CRASH SPREADS WORLDWIDE">
         </picture>
       </a>
     </td>
