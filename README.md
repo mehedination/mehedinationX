@@ -638,56 +638,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=A-dxxTV1b_o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=au_yC2hWxnU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793378419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
-          <img src="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793378419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="Investors in AI race spooked after Google value drops $500bn | BBC News" title="Investors in AI race spooked after Google value drops $500bn | BBC News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GdwJqQawOz8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793392819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
-          <img src="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793392819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff" title="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=au_yC2hWxnU&title=%E0%B0%AE%E0%B1%80+H1B+VISA+Application++USCIS+%E0%B0%B5%E0%B0%BE%E0%B0%B3%E0%B1%8D%E0%B0%B3%E0%B1%81+Super+Intelligence+AI+USE+%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B0%BF+track++%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%AC%E0%B1%8B%E0%B0%A4%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B0%BE+%3F&lang=en&timestamp=1793405688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=889">
+          <img src="https://ytcards.demolab.com/?id=au_yC2hWxnU&title=%E0%B0%AE%E0%B1%80+H1B+VISA+Application++USCIS+%E0%B0%B5%E0%B0%BE%E0%B0%B3%E0%B1%8D%E0%B0%B3%E0%B1%81+Super+Intelligence+AI+USE+%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B0%BF+track++%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%AC%E0%B1%8B%E0%B0%A4%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B0%BE+%3F&lang=en&timestamp=1793405688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=889" alt="మీ H1B VISA Application  USCIS వాళ్ళు Super Intelligence AI USE చేసి track  చేయబోతున్నారా ?" title="మీ H1B VISA Application  USCIS వాళ్ళు Super Intelligence AI USE చేసి track  చేయబోతున్నారా ?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=NWNbAEivyvs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NWNbAEivyvs&title=Are+There+Problems+Beyond+the+Reach+of+AI+%7C+World+Science+Festival&lang=en&timestamp=1793403619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5058">
-          <img src="https://ytcards.demolab.com/?id=NWNbAEivyvs&title=Are+There+Problems+Beyond+the+Reach+of+AI+%7C+World+Science+Festival&lang=en&timestamp=1793403619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5058" alt="Are There Problems Beyond the Reach of AI | World Science Festival" title="Are There Problems Beyond the Reach of AI | World Science Festival">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nzu3qTTx1-8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
-          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793374819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M_iUHpSU5hY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M_iUHpSU5hY&title=The+Bubble+Is+Bursting&lang=en&timestamp=1793389219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1587">
-          <img src="https://ytcards.demolab.com/?id=M_iUHpSU5hY&title=The+Bubble+Is+Bursting&lang=en&timestamp=1793389219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1587" alt="The Bubble Is Bursting" title="The Bubble Is Bursting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NWNbAEivyvs&title=Are+There+Problems+Beyond+the+Reach+of+AI+%7C+World+Science+Festival&lang=en&timestamp=1793402088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5058">
+          <img src="https://ytcards.demolab.com/?id=NWNbAEivyvs&title=Are+There+Problems+Beyond+the+Reach+of+AI+%7C+World+Science+Festival&lang=en&timestamp=1793402088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5058" alt="Are There Problems Beyond the Reach of AI | World Science Festival" title="Are There Problems Beyond the Reach of AI | World Science Festival">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=hIIzIh4l208" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929">
-          <img src="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793374819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=929" alt="AI CRASH SPREADS WORLDWIDE" title="AI CRASH SPREADS WORLDWIDE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793402088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929">
+          <img src="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793402088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=929" alt="AI CRASH SPREADS WORLDWIDE" title="AI CRASH SPREADS WORLDWIDE">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Vzh4CmJavxE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=How+Artificial+Intelligence+Will+Change+Society+%7C+The+Age+of+AI&lang=en&timestamp=1793445288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
+          <img src="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=How+Artificial+Intelligence+Will+Change+Society+%7C+The+Age+of+AI&lang=en&timestamp=1793445288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="How Artificial Intelligence Will Change Society | The Age of AI" title="How Artificial Intelligence Will Change Society | The Age of AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=FrrIyZKlijc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FrrIyZKlijc&title=Wall+Street+drops+to+its+worst+day+since+June&lang=en&timestamp=1793409288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=159">
+          <img src="https://ytcards.demolab.com/?id=FrrIyZKlijc&title=Wall+Street+drops+to+its+worst+day+since+June&lang=en&timestamp=1793409288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=159" alt="Wall Street drops to its worst day since June" title="Wall Street drops to its worst day since June">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=jfR3nDk0C0g" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jfR3nDk0C0g&title=A+Neuroscientist%27s+Warning+About+AI+and+Children+%7C+Baroness+Susan+Greenfield&lang=en&timestamp=1793402088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5548">
+          <img src="https://ytcards.demolab.com/?id=jfR3nDk0C0g&title=A+Neuroscientist%27s+Warning+About+AI+and+Children+%7C+Baroness+Susan+Greenfield&lang=en&timestamp=1793402088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5548" alt="A Neuroscientist's Warning About AI and Children | Baroness Susan Greenfield" title="A Neuroscientist's Warning About AI and Children | Baroness Susan Greenfield">
         </picture>
       </a>
     </td>
