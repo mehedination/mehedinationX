@@ -635,56 +635,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tUMm5rP4SwU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YI10RIptMbU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tUMm5rP4SwU&title=Has+the+AI+Singularity+Already+Started%3F+Geoffrey+Hinton+Explains&lang=en&timestamp=1793135045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=678">
-          <img src="https://ytcards.demolab.com/?id=tUMm5rP4SwU&title=Has+the+AI+Singularity+Already+Started%3F+Geoffrey+Hinton+Explains&lang=en&timestamp=1793135045&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=678" alt="Has the AI Singularity Already Started? Geoffrey Hinton Explains" title="Has the AI Singularity Already Started? Geoffrey Hinton Explains">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YI10RIptMbU&title=Democrats+are+%27ASSAULTING%27+Big+Tech+as+futures+PLUNGE%2C+Steve+Moore+warns&lang=en&timestamp=1793383857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=340">
+          <img src="https://ytcards.demolab.com/?id=YI10RIptMbU&title=Democrats+are+%27ASSAULTING%27+Big+Tech+as+futures+PLUNGE%2C+Steve+Moore+warns&lang=en&timestamp=1793383857&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=340" alt="Democrats are 'ASSAULTING' Big Tech as futures PLUNGE, Steve Moore warns" title="Democrats are 'ASSAULTING' Big Tech as futures PLUNGE, Steve Moore warns">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M8j_Py_TQ9k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Vp8kDyreDGI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M8j_Py_TQ9k&title=Anthropic%E2%80%99s+new+warning&lang=en&timestamp=1793106245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
-          <img src="https://ytcards.demolab.com/?id=M8j_Py_TQ9k&title=Anthropic%E2%80%99s+new+warning&lang=en&timestamp=1793106245&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="Anthropic’s new warning" title="Anthropic’s new warning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793373057&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
+          <img src="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793373057&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat" title="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=P0887k67PF4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=x09DdM19xhk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P0887k67PF4&title=The+Real+Reason+AI+Companies+Won%E2%80%99t+Slow+Down+%28It%E2%80%99s+Not+Money%29&lang=en&timestamp=1793106245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3011">
-          <img src="https://ytcards.demolab.com/?id=P0887k67PF4&title=The+Real+Reason+AI+Companies+Won%E2%80%99t+Slow+Down+%28It%E2%80%99s+Not+Money%29&lang=en&timestamp=1793106245&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3011" alt="The Real Reason AI Companies Won’t Slow Down (It’s Not Money)" title="The Real Reason AI Companies Won’t Slow Down (It’s Not Money)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x09DdM19xhk&title=AI+Agents%3A+The+Next+BIG+Revolution+in+Artificial+Intelligence%21&lang=en&timestamp=1793365857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=668">
+          <img src="https://ytcards.demolab.com/?id=x09DdM19xhk&title=AI+Agents%3A+The+Next+BIG+Revolution+in+Artificial+Intelligence%21&lang=en&timestamp=1793365857&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=668" alt="AI Agents: The Next BIG Revolution in Artificial Intelligence!" title="AI Agents: The Next BIG Revolution in Artificial Intelligence!">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=B_YxtKULp8o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Rt2duJkBqo4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B_YxtKULp8o&title=AI%E2%80%99s+Funding+Crisis+Just+Got+Worse&lang=en&timestamp=1793127845&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903">
-          <img src="https://ytcards.demolab.com/?id=B_YxtKULp8o&title=AI%E2%80%99s+Funding+Crisis+Just+Got+Worse&lang=en&timestamp=1793127845&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=903" alt="AI’s Funding Crisis Just Got Worse" title="AI’s Funding Crisis Just Got Worse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Rt2duJkBqo4&title=AI+Worm+Explained%3A+Artificial+Intelligence+%E0%A4%A8%E0%A5%87+%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0+%E0%A4%95%E0%A5%8B+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+Blackmail%21+%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A4%BE+%E0%A4%96%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%95%3F+Kadak%7C&lang=en&timestamp=1793376657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=644">
+          <img src="https://ytcards.demolab.com/?id=Rt2duJkBqo4&title=AI+Worm+Explained%3A+Artificial+Intelligence+%E0%A4%A8%E0%A5%87+%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0+%E0%A4%95%E0%A5%8B+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+Blackmail%21+%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A4%BE+%E0%A4%96%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%95%3F+Kadak%7C&lang=en&timestamp=1793376657&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=644" alt="AI Worm Explained: Artificial Intelligence ने मैनेजर को किया Blackmail! भविष्य कितना खतरनाक? Kadak|" title="AI Worm Explained: Artificial Intelligence ने मैनेजर को किया Blackmail! भविष्य कितना खतरनाक? Kadak|">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=j-UeAHKxZ8k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OlU8agsbpEM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j-UeAHKxZ8k&title=Microsoft+offers+buyouts+to+60%2C000+employees+as+spending+on+AI+grows&lang=en&timestamp=1793095445&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
-          <img src="https://ytcards.demolab.com/?id=j-UeAHKxZ8k&title=Microsoft+offers+buyouts+to+60%2C000+employees+as+spending+on+AI+grows&lang=en&timestamp=1793095445&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="Microsoft offers buyouts to 60,000 employees as spending on AI grows" title="Microsoft offers buyouts to 60,000 employees as spending on AI grows">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793387457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3690">
+          <img src="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793387457&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3690" alt="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion" title="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OP5urXQqgkw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nzu3qTTx1-8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OP5urXQqgkw&title=Trump+Vows+To+Ban+Term+%E2%80%98Artificial+Intelligence%E2%80%99&lang=en&timestamp=1793138645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=173">
-          <img src="https://ytcards.demolab.com/?id=OP5urXQqgkw&title=Trump+Vows+To+Ban+Term+%E2%80%98Artificial+Intelligence%E2%80%99&lang=en&timestamp=1793138645&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=173" alt="Trump Vows To Ban Term ‘Artificial Intelligence’" title="Trump Vows To Ban Term ‘Artificial Intelligence’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793358657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793358657&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
         </picture>
       </a>
     </td>
