@@ -639,30 +639,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=au_yC2hWxnU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8FN2wkLap-Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=au_yC2hWxnU&title=%E0%B0%AE%E0%B1%80+H1B+VISA+Application++USCIS+%E0%B0%B5%E0%B0%BE%E0%B0%B3%E0%B1%8D%E0%B0%B3%E0%B1%81+Super+Intelligence+AI+USE+%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B0%BF+track++%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%AC%E0%B1%8B%E0%B0%A4%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B0%BE+%3F&lang=en&timestamp=1793405688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=889">
-          <img src="https://ytcards.demolab.com/?id=au_yC2hWxnU&title=%E0%B0%AE%E0%B1%80+H1B+VISA+Application++USCIS+%E0%B0%B5%E0%B0%BE%E0%B0%B3%E0%B1%8D%E0%B0%B3%E0%B1%81+Super+Intelligence+AI+USE+%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B0%BF+track++%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%AC%E0%B1%8B%E0%B0%A4%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B0%BE+%3F&lang=en&timestamp=1793405688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=889" alt="మీ H1B VISA Application  USCIS వాళ్ళు Super Intelligence AI USE చేసి track  చేయబోతున్నారా ?" title="మీ H1B VISA Application  USCIS వాళ్ళు Super Intelligence AI USE చేసి track  చేయబోతున్నారా ?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Forbes+%231+Tech+Investor+Warns+of+Revolution%2C+AI+Bank+Heists+%26+How+to+Avoid+a+Dystopian+Future&lang=en&timestamp=1793467783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5262">
+          <img src="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Forbes+%231+Tech+Investor+Warns+of+Revolution%2C+AI+Bank+Heists+%26+How+to+Avoid+a+Dystopian+Future&lang=en&timestamp=1793467783&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5262" alt="Forbes #1 Tech Investor Warns of Revolution, AI Bank Heists & How to Avoid a Dystopian Future" title="Forbes #1 Tech Investor Warns of Revolution, AI Bank Heists & How to Avoid a Dystopian Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NWNbAEivyvs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KjuAcZf8NC0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NWNbAEivyvs&title=Are+There+Problems+Beyond+the+Reach+of+AI+%7C+World+Science+Festival&lang=en&timestamp=1793402088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5058">
-          <img src="https://ytcards.demolab.com/?id=NWNbAEivyvs&title=Are+There+Problems+Beyond+the+Reach+of+AI+%7C+World+Science+Festival&lang=en&timestamp=1793402088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5058" alt="Are There Problems Beyond the Reach of AI | World Science Festival" title="Are There Problems Beyond the Reach of AI | World Science Festival">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793489383&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1380">
+          <img src="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793489383&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1380" alt="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone" title="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hIIzIh4l208" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lHJxUsdupho" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793402088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929">
-          <img src="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793402088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=929" alt="AI CRASH SPREADS WORLDWIDE" title="AI CRASH SPREADS WORLDWIDE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793438983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
+          <img src="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793438983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="How the Media Manufactures AI Belief" title="How the Media Manufactures AI Belief">
         </picture>
       </a>
     </td>
@@ -671,24 +672,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Vzh4CmJavxE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=How+Artificial+Intelligence+Will+Change+Society+%7C+The+Age+of+AI&lang=en&timestamp=1793445288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
-          <img src="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=How+Artificial+Intelligence+Will+Change+Society+%7C+The+Age+of+AI&lang=en&timestamp=1793445288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="How Artificial Intelligence Will Change Society | The Age of AI" title="How Artificial Intelligence Will Change Society | The Age of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=Who+Is+Responsible+When+AI+Makes+a+Mistake%3F+%7C+The+Age+of+AI&lang=en&timestamp=1793446183&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
+          <img src="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=Who+Is+Responsible+When+AI+Makes+a+Mistake%3F+%7C+The+Age+of+AI&lang=en&timestamp=1793446183&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="Who Is Responsible When AI Makes a Mistake? | The Age of AI" title="Who Is Responsible When AI Makes a Mistake? | The Age of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FrrIyZKlijc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4DLF2rlJK_8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FrrIyZKlijc&title=Wall+Street+drops+to+its+worst+day+since+June&lang=en&timestamp=1793409288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=159">
-          <img src="https://ytcards.demolab.com/?id=FrrIyZKlijc&title=Wall+Street+drops+to+its+worst+day+since+June&lang=en&timestamp=1793409288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=159" alt="Wall Street drops to its worst day since June" title="Wall Street drops to its worst day since June">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DLF2rlJK_8&title=Artificial+Intelligence+Premium+Paid+Lecture+No+1&lang=en&timestamp=1793453383&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2346">
+          <img src="https://ytcards.demolab.com/?id=4DLF2rlJK_8&title=Artificial+Intelligence+Premium+Paid+Lecture+No+1&lang=en&timestamp=1793453383&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2346" alt="Artificial Intelligence Premium Paid Lecture No 1" title="Artificial Intelligence Premium Paid Lecture No 1">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jfR3nDk0C0g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9wAjfYX95mE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jfR3nDk0C0g&title=A+Neuroscientist%27s+Warning+About+AI+and+Children+%7C+Baroness+Susan+Greenfield&lang=en&timestamp=1793402088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5548">
-          <img src="https://ytcards.demolab.com/?id=jfR3nDk0C0g&title=A+Neuroscientist%27s+Warning+About+AI+and+Children+%7C+Baroness+Susan+Greenfield&lang=en&timestamp=1793402088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5548" alt="A Neuroscientist's Warning About AI and Children | Baroness Susan Greenfield" title="A Neuroscientist's Warning About AI and Children | Baroness Susan Greenfield">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9wAjfYX95mE&title=Beginners+Complete+AI+Agency+Guide+For+2027+%285%2B+Hours%29&lang=en&timestamp=1793464183&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18040">
+          <img src="https://ytcards.demolab.com/?id=9wAjfYX95mE&title=Beginners+Complete+AI+Agency+Guide+For+2027+%285%2B+Hours%29&lang=en&timestamp=1793464183&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18040" alt="Beginners Complete AI Agency Guide For 2027 (5+ Hours)" title="Beginners Complete AI Agency Guide For 2027 (5+ Hours)">
         </picture>
       </a>
     </td>
