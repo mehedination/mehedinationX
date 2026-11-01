@@ -642,30 +642,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vvbVlI957Qg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KlG0VyhIzBU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793535826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
-          <img src="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793535826&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms" title="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KlG0VyhIzBU&title=Grok+5+Could+Be+The+Most+Powerful+AI+Ever+Created&lang=en&timestamp=1793504380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=KlG0VyhIzBU&title=Grok+5+Could+Be+The+Most+Powerful+AI+Ever+Created&lang=en&timestamp=1793504380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="Grok 5 Could Be The Most Powerful AI Ever Created" title="Grok 5 Could Be The Most Powerful AI Ever Created">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vV7dRkjTPo4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vvbVlI957Qg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vV7dRkjTPo4&title=Scientists+predicted+a+singularity+on+Nov+13%2C+2026.+They+were+right.&lang=en&timestamp=1793471026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1000">
-          <img src="https://ytcards.demolab.com/?id=vV7dRkjTPo4&title=Scientists+predicted+a+singularity+on+Nov+13%2C+2026.+They+were+right.&lang=en&timestamp=1793471026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1000" alt="Scientists predicted a singularity on Nov 13, 2026. They were right." title="Scientists predicted a singularity on Nov 13, 2026. They were right.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793536780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
+          <img src="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793536780&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms" title="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=yHMU5ql7O6o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yHMU5ql7O6o&title=Altman%E2%80%99s+Model+Admission%2C+Google%E2%80%99s+Profit+Problem%2C+and+the+AI+Market+Crash+%7C+%23307&lang=en&timestamp=1793471026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8395">
-          <img src="https://ytcards.demolab.com/?id=yHMU5ql7O6o&title=Altman%E2%80%99s+Model+Admission%2C+Google%E2%80%99s+Profit+Problem%2C+and+the+AI+Market+Crash+%7C+%23307&lang=en&timestamp=1793471026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8395" alt="Altman’s Model Admission, Google’s Profit Problem, and the AI Market Crash | #307" title="Altman’s Model Admission, Google’s Profit Problem, and the AI Market Crash | #307">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yHMU5ql7O6o&title=Altman%E2%80%99s+Model+Admission%2C+Google%E2%80%99s+Profit+Problem%2C+and+the+AI+Market+Crash+%7C+%23307&lang=en&timestamp=1793486380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8395">
+          <img src="https://ytcards.demolab.com/?id=yHMU5ql7O6o&title=Altman%E2%80%99s+Model+Admission%2C+Google%E2%80%99s+Profit+Problem%2C+and+the+AI+Market+Crash+%7C+%23307&lang=en&timestamp=1793486380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8395" alt="Altman’s Model Admission, Google’s Profit Problem, and the AI Market Crash | #307" title="Altman’s Model Admission, Google’s Profit Problem, and the AI Market Crash | #307">
         </picture>
       </a>
     </td>
@@ -674,24 +675,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8FN2wkLap-Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Hacking+Bank+Accounts+and+Sparking+Revolutions%3A+The+AI+Crisis+No+One+Is+Noticing%E2%80%A6&lang=en&timestamp=1793471026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5262">
-          <img src="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Hacking+Bank+Accounts+and+Sparking+Revolutions%3A+The+AI+Crisis+No+One+Is+Noticing%E2%80%A6&lang=en&timestamp=1793471026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5262" alt="Hacking Bank Accounts and Sparking Revolutions: The AI Crisis No One Is Noticing…" title="Hacking Bank Accounts and Sparking Revolutions: The AI Crisis No One Is Noticing…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Tech+Expert+Warns+of+Revolution%2C+Banking+Security+Crisis+and+the+Oncoming+Dystopian+AI+Future&lang=en&timestamp=1793486380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5262">
+          <img src="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Tech+Expert+Warns+of+Revolution%2C+Banking+Security+Crisis+and+the+Oncoming+Dystopian+AI+Future&lang=en&timestamp=1793486380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5262" alt="Tech Expert Warns of Revolution, Banking Security Crisis and the Oncoming Dystopian AI Future" title="Tech Expert Warns of Revolution, Banking Security Crisis and the Oncoming Dystopian AI Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UIYoKcIvSVo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vV7dRkjTPo4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793471026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1827">
-          <img src="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793471026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1827" alt="AI News Is Getting Absolutely RIDICULOUS" title="AI News Is Getting Absolutely RIDICULOUS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vV7dRkjTPo4&title=Scientists+predicted+a+singularity+on+Nov+13%2C+2026.+They+were+right.&lang=en&timestamp=1793486380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1000">
+          <img src="https://ytcards.demolab.com/?id=vV7dRkjTPo4&title=Scientists+predicted+a+singularity+on+Nov+13%2C+2026.+They+were+right.&lang=en&timestamp=1793486380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1000" alt="Scientists predicted a singularity on Nov 13, 2026. They were right." title="Scientists predicted a singularity on Nov 13, 2026. They were right.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KjuAcZf8NC0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=k0yClGrFAUU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793489026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1380">
-          <img src="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793489026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1380" alt="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone" title="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k0yClGrFAUU&title=ChatGPT%2C+Delusion+and+Death%3A+The+Hidden+Dangers+of+Artificial+Intelligence&lang=en&timestamp=1793522380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=546">
+          <img src="https://ytcards.demolab.com/?id=k0yClGrFAUU&title=ChatGPT%2C+Delusion+and+Death%3A+The+Hidden+Dangers+of+Artificial+Intelligence&lang=en&timestamp=1793522380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=546" alt="ChatGPT, Delusion and Death: The Hidden Dangers of Artificial Intelligence" title="ChatGPT, Delusion and Death: The Hidden Dangers of Artificial Intelligence">
         </picture>
       </a>
     </td>
