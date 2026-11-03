@@ -648,56 +648,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PUa5i_U8yYE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PUa5i_U8yYE&title=It%E2%80%99s+Happening%3A+AI+Eats+Physics&lang=en&timestamp=1793637587&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
-          <img src="https://ytcards.demolab.com/?id=PUa5i_U8yYE&title=It%E2%80%99s+Happening%3A+AI+Eats+Physics&lang=en&timestamp=1793637587&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="It’s Happening: AI Eats Physics" title="It’s Happening: AI Eats Physics">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=VjKREc7YWxo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VjKREc7YWxo&title=Why+AI+experts+are+sounding+the+alarm+about+the+midterms&lang=en&timestamp=1793655587&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=773">
-          <img src="https://ytcards.demolab.com/?id=VjKREc7YWxo&title=Why+AI+experts+are+sounding+the+alarm+about+the+midterms&lang=en&timestamp=1793655587&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=773" alt="Why AI experts are sounding the alarm about the midterms" title="Why AI experts are sounding the alarm about the midterms">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=li4wTehOFx8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=li4wTehOFx8&title=Why+Anthropic%27s+AI+warning+is+targeting+investors+%7C+The+Global+Story&lang=en&timestamp=1793666387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1269">
-          <img src="https://ytcards.demolab.com/?id=li4wTehOFx8&title=Why+Anthropic%27s+AI+warning+is+targeting+investors+%7C+The+Global+Story&lang=en&timestamp=1793666387&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1269" alt="Why Anthropic's AI warning is targeting investors | The Global Story" title="Why Anthropic's AI warning is targeting investors | The Global Story">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zYVIXCC-dR0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793633987&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=874">
-          <img src="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793633987&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=874" alt="5 AI questions everyone should be asking" title="5 AI questions everyone should be asking">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VjKREc7YWxo&title=Why+AI+experts+are+sounding+the+alarm+about+the+midterms&lang=en&timestamp=1793657971&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=773">
+          <img src="https://ytcards.demolab.com/?id=VjKREc7YWxo&title=Why+AI+experts+are+sounding+the+alarm+about+the+midterms&lang=en&timestamp=1793657971&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=773" alt="Why AI experts are sounding the alarm about the midterms" title="Why AI experts are sounding the alarm about the midterms">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ag3qNV9IcsM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ag3qNV9IcsM&title=Are+we+seeing+another+dot-com+bubble%3F+%7C+Artificial+intelligence&lang=en&timestamp=1793684387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=128">
-          <img src="https://ytcards.demolab.com/?id=ag3qNV9IcsM&title=Are+we+seeing+another+dot-com+bubble%3F+%7C+Artificial+intelligence&lang=en&timestamp=1793684387&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=128" alt="Are we seeing another dot-com bubble? | Artificial intelligence" title="Are we seeing another dot-com bubble? | Artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ag3qNV9IcsM&title=Are+we+seeing+another+dot-com+bubble%3F+%7C+Artificial+intelligence&lang=en&timestamp=1793683171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=128">
+          <img src="https://ytcards.demolab.com/?id=ag3qNV9IcsM&title=Are+we+seeing+another+dot-com+bubble%3F+%7C+Artificial+intelligence&lang=en&timestamp=1793683171&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=128" alt="Are we seeing another dot-com bubble? | Artificial intelligence" title="Are we seeing another dot-com bubble? | Artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=axQCMW4ouNM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PUa5i_U8yYE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=axQCMW4ouNM&title=Top+Neuroscientist%3A+%22We+Have+Paused+Human+Development%22+%7C+Karl+Friston&lang=en&timestamp=1793648387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5347">
-          <img src="https://ytcards.demolab.com/?id=axQCMW4ouNM&title=Top+Neuroscientist%3A+%22We+Have+Paused+Human+Development%22+%7C+Karl+Friston&lang=en&timestamp=1793648387&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5347" alt="Top Neuroscientist: &quot;We Have Paused Human Development&quot; | Karl Friston" title="Top Neuroscientist: &quot;We Have Paused Human Development&quot; | Karl Friston">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PUa5i_U8yYE&title=Physics+is+Unravelling%2C+And+It+Will+Get+Worse&lang=en&timestamp=1793643571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
+          <img src="https://ytcards.demolab.com/?id=PUa5i_U8yYE&title=Physics+is+Unravelling%2C+And+It+Will+Get+Worse&lang=en&timestamp=1793643571&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Physics is Unravelling, And It Will Get Worse" title="Physics is Unravelling, And It Will Get Worse">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=li4wTehOFx8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=li4wTehOFx8&title=Should+AI+investors+be+worried%3F+%7C+The+Global+Story&lang=en&timestamp=1793665171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1269">
+          <img src="https://ytcards.demolab.com/?id=li4wTehOFx8&title=Should+AI+investors+be+worried%3F+%7C+The+Global+Story&lang=en&timestamp=1793665171&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1269" alt="Should AI investors be worried? | The Global Story" title="Should AI investors be worried? | The Global Story">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=yzXLrX-EA9o" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yzXLrX-EA9o&title=It+Begins%3A+AI+Has+Started+Improving+Itself.&lang=en&timestamp=1793643571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=673">
+          <img src="https://ytcards.demolab.com/?id=yzXLrX-EA9o&title=It+Begins%3A+AI+Has+Started+Improving+Itself.&lang=en&timestamp=1793643571&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=673" alt="It Begins: AI Has Started Improving Itself." title="It Begins: AI Has Started Improving Itself.">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ZBc7RJy0Ldg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZBc7RJy0Ldg&title=Artificial+Intelligence+and+Genuine+Cheating%21&lang=en&timestamp=1793708371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+          <img src="https://ytcards.demolab.com/?id=ZBc7RJy0Ldg&title=Artificial+Intelligence+and+Genuine+Cheating%21&lang=en&timestamp=1793708371&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Artificial Intelligence and Genuine Cheating!" title="Artificial Intelligence and Genuine Cheating!">
         </picture>
       </a>
     </td>
