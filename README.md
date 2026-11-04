@@ -650,56 +650,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VjKREc7YWxo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VjKREc7YWxo&title=Why+AI+experts+are+sounding+the+alarm+about+the+midterms&lang=en&timestamp=1793663723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=773">
-          <img src="https://ytcards.demolab.com/?id=VjKREc7YWxo&title=Why+AI+experts+are+sounding+the+alarm+about+the+midterms&lang=en&timestamp=1793663723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=773" alt="Why AI experts are sounding the alarm about the midterms" title="Why AI experts are sounding the alarm about the midterms">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=9FjbFGYKxAc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793699723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793699723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Now Doing Things Scientists Thought Were Impossible" title="AI Is Now Doing Things Scientists Thought Were Impossible">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793699293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793699293&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Now Doing Things Scientists Thought Were Impossible" title="AI Is Now Doing Things Scientists Thought Were Impossible">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PUa5i_U8yYE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zXekn7txdLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PUa5i_U8yYE&title=It%E2%80%99s+Happening%3A+AI+Eats+Physics&lang=en&timestamp=1793663723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
-          <img src="https://ytcards.demolab.com/?id=PUa5i_U8yYE&title=It%E2%80%99s+Happening%3A+AI+Eats+Physics&lang=en&timestamp=1793663723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="It’s Happening: AI Eats Physics" title="It’s Happening: AI Eats Physics">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793699293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
+          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793699293&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=vKzPdFRBPWc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793731693&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=883">
+          <img src="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793731693&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=883" alt="AI Losses Explode as Anthropic Reveals the Cost of the Boom" title="AI Losses Explode as Anthropic Reveals the Cost of the Boom">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5kt_KkZH4_4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5kt_KkZH4_4&title=How+AI+Made+Hank+Green+Worse&lang=en&timestamp=1793663723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2166">
-          <img src="https://ytcards.demolab.com/?id=5kt_KkZH4_4&title=How+AI+Made+Hank+Green+Worse&lang=en&timestamp=1793663723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2166" alt="How AI Made Hank Green Worse" title="How AI Made Hank Green Worse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793702893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
+          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793702893&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2oCNeUHYOK0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Ulvz6hwanXU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2oCNeUHYOK0&title=Political+AI+deepfakes+infiltrating+midterm+elections%2C+could+pose+risks+to+voters&lang=en&timestamp=1793670923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=225">
-          <img src="https://ytcards.demolab.com/?id=2oCNeUHYOK0&title=Political+AI+deepfakes+infiltrating+midterm+elections%2C+could+pose+risks+to+voters&lang=en&timestamp=1793670923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=225" alt="Political AI deepfakes infiltrating midterm elections, could pose risks to voters" title="Political AI deepfakes infiltrating midterm elections, could pose risks to voters">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ulvz6hwanXU&title=Artificial+Intelligence+in+Everyday+Life+%7C+How+AI+Works+Around+You+%7C+Episode+4&lang=en&timestamp=1793770213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
+          <img src="https://ytcards.demolab.com/?id=Ulvz6hwanXU&title=Artificial+Intelligence+in+Everyday+Life+%7C+How+AI+Works+Around+You+%7C+Episode+4&lang=en&timestamp=1793770213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Artificial Intelligence in Everyday Life | How AI Works Around You | Episode 4" title="Artificial Intelligence in Everyday Life | How AI Works Around You | Episode 4">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zYVIXCC-dR0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dpQlVERn2rs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793663723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=874">
-          <img src="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793663723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=874" alt="5 AI questions everyone should be asking" title="5 AI questions everyone should be asking">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dpQlVERn2rs&title=Resisting+the+AI+Con+%7C+Emily+M.+Bender&lang=en&timestamp=1793724493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3637">
+          <img src="https://ytcards.demolab.com/?id=dpQlVERn2rs&title=Resisting+the+AI+Con+%7C+Emily+M.+Bender&lang=en&timestamp=1793724493&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3637" alt="Resisting the AI Con | Emily M. Bender" title="Resisting the AI Con | Emily M. Bender">
         </picture>
       </a>
     </td>
