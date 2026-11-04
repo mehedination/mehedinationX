@@ -651,56 +651,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=9FjbFGYKxAc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793699293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793699293&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Now Doing Things Scientists Thought Were Impossible" title="AI Is Now Doing Things Scientists Thought Were Impossible">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793714947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793714947&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Now Doing Things Scientists Thought Were Impossible" title="AI Is Now Doing Things Scientists Thought Were Impossible">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=55ttHgpHYCM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=55ttHgpHYCM&title=Will+Artificial+Intelligence+Destroy+Creativity+Or+Redefine+It%3F+%7C%C2%A0AI+Decoded+%7C%C2%A0Documentary&lang=en&timestamp=1793800867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3771">
+          <img src="https://ytcards.demolab.com/?id=55ttHgpHYCM&title=Will+Artificial+Intelligence+Destroy+Creativity+Or+Redefine+It%3F+%7C%C2%A0AI+Decoded+%7C%C2%A0Documentary&lang=en&timestamp=1793800867&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3771" alt="Will Artificial Intelligence Destroy Creativity Or Redefine It? | AI Decoded | Documentary" title="Will Artificial Intelligence Destroy Creativity Or Redefine It? | AI Decoded | Documentary">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=zXekn7txdLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793699293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
-          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793699293&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vKzPdFRBPWc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793731693&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=883">
-          <img src="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793731693&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=883" alt="AI Losses Explode as Anthropic Reveals the Cost of the Boom" title="AI Losses Explode as Anthropic Reveals the Cost of the Boom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793714947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
+          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793714947&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vKzPdFRBPWc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793702893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
-          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793702893&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793729347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=883">
+          <img src="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793729347&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=883" alt="AI Losses Explode as Anthropic Reveals the Cost of the Boom" title="AI Losses Explode as Anthropic Reveals the Cost of the Boom">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ulvz6hwanXU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ltSxhL4vRyU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ulvz6hwanXU&title=Artificial+Intelligence+in+Everyday+Life+%7C+How+AI+Works+Around+You+%7C+Episode+4&lang=en&timestamp=1793770213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
-          <img src="https://ytcards.demolab.com/?id=Ulvz6hwanXU&title=Artificial+Intelligence+in+Everyday+Life+%7C+How+AI+Works+Around+You+%7C+Episode+4&lang=en&timestamp=1793770213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Artificial Intelligence in Everyday Life | How AI Works Around You | Episode 4" title="Artificial Intelligence in Everyday Life | How AI Works Around You | Episode 4">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ltSxhL4vRyU&title=Artificial+Intelligence+Explained+%F0%9F%A4%96+%7C+How+AI+Is+Changing+Our+World+Forever%21&lang=en&timestamp=1793800867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36">
+          <img src="https://ytcards.demolab.com/?id=ltSxhL4vRyU&title=Artificial+Intelligence+Explained+%F0%9F%A4%96+%7C+How+AI+Is+Changing+Our+World+Forever%21&lang=en&timestamp=1793800867&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=36" alt="Artificial Intelligence Explained 🤖 | How AI Is Changing Our World Forever!" title="Artificial Intelligence Explained 🤖 | How AI Is Changing Our World Forever!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dpQlVERn2rs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TXStQ3MFod4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dpQlVERn2rs&title=Resisting+the+AI+Con+%7C+Emily+M.+Bender&lang=en&timestamp=1793724493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3637">
-          <img src="https://ytcards.demolab.com/?id=dpQlVERn2rs&title=Resisting+the+AI+Con+%7C+Emily+M.+Bender&lang=en&timestamp=1793724493&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3637" alt="Resisting the AI Con | Emily M. Bender" title="Resisting the AI Con | Emily M. Bender">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TXStQ3MFod4&title=Does+it+still+make+sense+to+learn+a+new+language+in+the+age+of+AI%3F+%7C+DW+News&lang=en&timestamp=1793714947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=598">
+          <img src="https://ytcards.demolab.com/?id=TXStQ3MFod4&title=Does+it+still+make+sense+to+learn+a+new+language+in+the+age+of+AI%3F+%7C+DW+News&lang=en&timestamp=1793714947&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=598" alt="Does it still make sense to learn a new language in the age of AI? | DW News" title="Does it still make sense to learn a new language in the age of AI? | DW News">
         </picture>
       </a>
     </td>
