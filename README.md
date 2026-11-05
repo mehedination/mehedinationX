@@ -653,56 +653,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zXekn7txdLk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lmLsiBmwEFE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793740254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
-          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793740254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lmLsiBmwEFE&title=GPT+6+Astra+Just+Did+the+Unthinkable&lang=en&timestamp=1793804824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1801">
+          <img src="https://ytcards.demolab.com/?id=lmLsiBmwEFE&title=GPT+6+Astra+Just+Did+the+Unthinkable&lang=en&timestamp=1793804824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1801" alt="GPT 6 Astra Just Did the Unthinkable" title="GPT 6 Astra Just Did the Unthinkable">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2u1UpkMkFEQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=su5HQxQaa08" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2u1UpkMkFEQ&title=Big+Tech%27s+Ugly+Week%2C+Getting+Rich+At+Anthropic%2C+AI+Costs+Plunge&lang=en&timestamp=1793740254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3382">
-          <img src="https://ytcards.demolab.com/?id=2u1UpkMkFEQ&title=Big+Tech%27s+Ugly+Week%2C+Getting+Rich+At+Anthropic%2C+AI+Costs+Plunge&lang=en&timestamp=1793740254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3382" alt="Big Tech's Ugly Week, Getting Rich At Anthropic, AI Costs Plunge" title="Big Tech's Ugly Week, Getting Rich At Anthropic, AI Costs Plunge">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=su5HQxQaa08&title=Artificial+Intelligence+Killed+It+%7C+How+much+can+we+trust+the+results%3F+%23AIAgenda&lang=en&timestamp=1793819224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3565">
+          <img src="https://ytcards.demolab.com/?id=su5HQxQaa08&title=Artificial+Intelligence+Killed+It+%7C+How+much+can+we+trust+the+results%3F+%23AIAgenda&lang=en&timestamp=1793819224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3565" alt="Artificial Intelligence Killed It | How much can we trust the results? #AIAgenda" title="Artificial Intelligence Killed It | How much can we trust the results? #AIAgenda">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TXStQ3MFod4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cSFZX5HWWLA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TXStQ3MFod4&title=Does+it+still+make+sense+to+learn+a+new+language+in+the+age+of+AI%3F+%7C+DW+News&lang=en&timestamp=1793740254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=598">
-          <img src="https://ytcards.demolab.com/?id=TXStQ3MFod4&title=Does+it+still+make+sense+to+learn+a+new+language+in+the+age+of+AI%3F+%7C+DW+News&lang=en&timestamp=1793740254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=598" alt="Does it still make sense to learn a new language in the age of AI? | DW News" title="Does it still make sense to learn a new language in the age of AI? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cSFZX5HWWLA&title=Artificial+Intelligence+Roundtable+at+Oxford+Global+Think+Tank%27s+November+2026+Leadership+Conference&lang=en&timestamp=1793826424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2761">
+          <img src="https://ytcards.demolab.com/?id=cSFZX5HWWLA&title=Artificial+Intelligence+Roundtable+at+Oxford+Global+Think+Tank%27s+November+2026+Leadership+Conference&lang=en&timestamp=1793826424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2761" alt="Artificial Intelligence Roundtable at Oxford Global Think Tank's November 2026 Leadership Conference" title="Artificial Intelligence Roundtable at Oxford Global Think Tank's November 2026 Leadership Conference">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vKzPdFRBPWc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5jmtfpLbxUg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793740254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=883">
-          <img src="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793740254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=883" alt="AI Losses Explode as Anthropic Reveals the Cost of the Boom" title="AI Losses Explode as Anthropic Reveals the Cost of the Boom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5jmtfpLbxUg&title=Americas+Listening+-+An+American+Interviews+Artificial+Intelligence+-+Meet+%22Charlie%22&lang=en&timestamp=1793819224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1458">
+          <img src="https://ytcards.demolab.com/?id=5jmtfpLbxUg&title=Americas+Listening+-+An+American+Interviews+Artificial+Intelligence+-+Meet+%22Charlie%22&lang=en&timestamp=1793819224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1458" alt="Americas Listening - An American Interviews Artificial Intelligence - Meet &quot;Charlie&quot;" title="Americas Listening - An American Interviews Artificial Intelligence - Meet &quot;Charlie&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KNrnpqPknvI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793740254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
-          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793740254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793794024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
+          <img src="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793794024&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Episode #144: The Real AI Takeover Isn’t What You Think" title="Episode #144: The Real AI Takeover Isn’t What You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HWaniazPj5Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CQcsi4lSAsw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HWaniazPj5Y&title=AI+Panic+Deepens+as+Oracle%2C+Marvell+%26+Lumentum+Plunge&lang=en&timestamp=1793740254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
-          <img src="https://ytcards.demolab.com/?id=HWaniazPj5Y&title=AI+Panic+Deepens+as+Oracle%2C+Marvell+%26+Lumentum+Plunge&lang=en&timestamp=1793740254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI Panic Deepens as Oracle, Marvell & Lumentum Plunge" title="AI Panic Deepens as Oracle, Marvell & Lumentum Plunge">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CQcsi4lSAsw&title=AI+Can%27t+Crash+Until+Normies+Say+So&lang=en&timestamp=1793819224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1073">
+          <img src="https://ytcards.demolab.com/?id=CQcsi4lSAsw&title=AI+Can%27t+Crash+Until+Normies+Say+So&lang=en&timestamp=1793819224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1073" alt="AI Can't Crash Until Normies Say So" title="AI Can't Crash Until Normies Say So">
         </picture>
       </a>
     </td>
