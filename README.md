@@ -654,56 +654,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lmLsiBmwEFE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=R-OeFlyzveI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lmLsiBmwEFE&title=GPT+6+Astra+Just+Did+the+Unthinkable&lang=en&timestamp=1793804824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1801">
-          <img src="https://ytcards.demolab.com/?id=lmLsiBmwEFE&title=GPT+6+Astra+Just+Did+the+Unthinkable&lang=en&timestamp=1793804824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1801" alt="GPT 6 Astra Just Did the Unthinkable" title="GPT 6 Astra Just Did the Unthinkable">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793954825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793954825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=su5HQxQaa08" target="_blank">
+      <a href="https://www.youtube.com/watch?v=R1vmfCfNXb8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=su5HQxQaa08&title=Artificial+Intelligence+Killed+It+%7C+How+much+can+we+trust+the+results%3F+%23AIAgenda&lang=en&timestamp=1793819224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3565">
-          <img src="https://ytcards.demolab.com/?id=su5HQxQaa08&title=Artificial+Intelligence+Killed+It+%7C+How+much+can+we+trust+the+results%3F+%23AIAgenda&lang=en&timestamp=1793819224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3565" alt="Artificial Intelligence Killed It | How much can we trust the results? #AIAgenda" title="Artificial Intelligence Killed It | How much can we trust the results? #AIAgenda">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R1vmfCfNXb8&title=Stock+market+meltdown+over+A.I.+fears&lang=en&timestamp=1793926025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
+          <img src="https://ytcards.demolab.com/?id=R1vmfCfNXb8&title=Stock+market+meltdown+over+A.I.+fears&lang=en&timestamp=1793926025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="Stock market meltdown over A.I. fears" title="Stock market meltdown over A.I. fears">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cSFZX5HWWLA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=h020JsAbMxM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cSFZX5HWWLA&title=Artificial+Intelligence+Roundtable+at+Oxford+Global+Think+Tank%27s+November+2026+Leadership+Conference&lang=en&timestamp=1793826424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2761">
-          <img src="https://ytcards.demolab.com/?id=cSFZX5HWWLA&title=Artificial+Intelligence+Roundtable+at+Oxford+Global+Think+Tank%27s+November+2026+Leadership+Conference&lang=en&timestamp=1793826424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2761" alt="Artificial Intelligence Roundtable at Oxford Global Think Tank's November 2026 Leadership Conference" title="Artificial Intelligence Roundtable at Oxford Global Think Tank's November 2026 Leadership Conference">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h020JsAbMxM&title=US+First%2C+Korea+Next%3A+How+One+Democrat+Could+Be+The+Reason+Behind+Wipeout+Of+%242.3+Trillion&lang=en&timestamp=1793951225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=178">
+          <img src="https://ytcards.demolab.com/?id=h020JsAbMxM&title=US+First%2C+Korea+Next%3A+How+One+Democrat+Could+Be+The+Reason+Behind+Wipeout+Of+%242.3+Trillion&lang=en&timestamp=1793951225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=178" alt="US First, Korea Next: How One Democrat Could Be The Reason Behind Wipeout Of $2.3 Trillion" title="US First, Korea Next: How One Democrat Could Be The Reason Behind Wipeout Of $2.3 Trillion">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5jmtfpLbxUg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KUWlcdmwXkg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5jmtfpLbxUg&title=Americas+Listening+-+An+American+Interviews+Artificial+Intelligence+-+Meet+%22Charlie%22&lang=en&timestamp=1793819224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1458">
-          <img src="https://ytcards.demolab.com/?id=5jmtfpLbxUg&title=Americas+Listening+-+An+American+Interviews+Artificial+Intelligence+-+Meet+%22Charlie%22&lang=en&timestamp=1793819224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1458" alt="Americas Listening - An American Interviews Artificial Intelligence - Meet &quot;Charlie&quot;" title="Americas Listening - An American Interviews Artificial Intelligence - Meet &quot;Charlie&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KUWlcdmwXkg&title=This+is+how+the+AI+bubble+bursts&lang=en&timestamp=1793944025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736">
+          <img src="https://ytcards.demolab.com/?id=KUWlcdmwXkg&title=This+is+how+the+AI+bubble+bursts&lang=en&timestamp=1793944025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=736" alt="This is how the AI bubble bursts" title="This is how the AI bubble bursts">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KNrnpqPknvI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uJZjCAzI3fA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793794024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
-          <img src="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793794024&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Episode #144: The Real AI Takeover Isn’t What You Think" title="Episode #144: The Real AI Takeover Isn’t What You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uJZjCAzI3fA&title=Neocloudy+With+a+Chance+of+Defaults%2A&lang=en&timestamp=1793995025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3932">
+          <img src="https://ytcards.demolab.com/?id=uJZjCAzI3fA&title=Neocloudy+With+a+Chance+of+Defaults%2A&lang=en&timestamp=1793995025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3932" alt="Neocloudy With a Chance of Defaults*" title="Neocloudy With a Chance of Defaults*">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CQcsi4lSAsw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EoDi69g-zYk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CQcsi4lSAsw&title=AI+Can%27t+Crash+Until+Normies+Say+So&lang=en&timestamp=1793819224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1073">
-          <img src="https://ytcards.demolab.com/?id=CQcsi4lSAsw&title=AI+Can%27t+Crash+Until+Normies+Say+So&lang=en&timestamp=1793819224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1073" alt="AI Can't Crash Until Normies Say So" title="AI Can't Crash Until Normies Say So">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EoDi69g-zYk&title=Artificial+Intelligence+Beats+Real+Ego+%7C%7C+IISc+Prof.+Prathosh+Spars+with+Acharya+Prashant+%282026%29&lang=en&timestamp=1793980025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7578">
+          <img src="https://ytcards.demolab.com/?id=EoDi69g-zYk&title=Artificial+Intelligence+Beats+Real+Ego+%7C%7C+IISc+Prof.+Prathosh+Spars+with+Acharya+Prashant+%282026%29&lang=en&timestamp=1793980025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7578" alt="Artificial Intelligence Beats Real Ego || IISc Prof. Prathosh Spars with Acharya Prashant (2026)" title="Artificial Intelligence Beats Real Ego || IISc Prof. Prathosh Spars with Acharya Prashant (2026)">
         </picture>
       </a>
     </td>
