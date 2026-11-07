@@ -655,6 +655,7 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
@@ -667,44 +668,44 @@
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=R1vmfCfNXb8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NeHNkU9nKtI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R1vmfCfNXb8&title=Stock+market+meltdown+over+A.I.+fears&lang=en&timestamp=1793926025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
-          <img src="https://ytcards.demolab.com/?id=R1vmfCfNXb8&title=Stock+market+meltdown+over+A.I.+fears&lang=en&timestamp=1793926025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="Stock market meltdown over A.I. fears" title="Stock market meltdown over A.I. fears">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NeHNkU9nKtI&title=The+AI+Crash+Is+Way+Worse+Than+People+Realize&lang=en&timestamp=1793987225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6975">
+          <img src="https://ytcards.demolab.com/?id=NeHNkU9nKtI&title=The+AI+Crash+Is+Way+Worse+Than+People+Realize&lang=en&timestamp=1793987225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6975" alt="The AI Crash Is Way Worse Than People Realize" title="The AI Crash Is Way Worse Than People Realize">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=h020JsAbMxM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3cV1sR2PANA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h020JsAbMxM&title=US+First%2C+Korea+Next%3A+How+One+Democrat+Could+Be+The+Reason+Behind+Wipeout+Of+%242.3+Trillion&lang=en&timestamp=1793951225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=178">
-          <img src="https://ytcards.demolab.com/?id=h020JsAbMxM&title=US+First%2C+Korea+Next%3A+How+One+Democrat+Could+Be+The+Reason+Behind+Wipeout+Of+%242.3+Trillion&lang=en&timestamp=1793951225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=178" alt="US First, Korea Next: How One Democrat Could Be The Reason Behind Wipeout Of $2.3 Trillion" title="US First, Korea Next: How One Democrat Could Be The Reason Behind Wipeout Of $2.3 Trillion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793965625&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1103">
+          <img src="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793965625&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1103" alt="The Big Question: AI Bubble or Boom?" title="The Big Question: AI Bubble or Boom?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KUWlcdmwXkg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xq7rPlcO0pA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KUWlcdmwXkg&title=This+is+how+the+AI+bubble+bursts&lang=en&timestamp=1793944025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736">
-          <img src="https://ytcards.demolab.com/?id=KUWlcdmwXkg&title=This+is+how+the+AI+bubble+bursts&lang=en&timestamp=1793944025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=736" alt="This is how the AI bubble bursts" title="This is how the AI bubble bursts">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793958425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1039">
+          <img src="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793958425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1039" alt="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge" title="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uJZjCAzI3fA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Itr3Ld5c9yI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uJZjCAzI3fA&title=Neocloudy+With+a+Chance+of+Defaults%2A&lang=en&timestamp=1793995025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3932">
-          <img src="https://ytcards.demolab.com/?id=uJZjCAzI3fA&title=Neocloudy+With+a+Chance+of+Defaults%2A&lang=en&timestamp=1793995025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3932" alt="Neocloudy With a Chance of Defaults*" title="Neocloudy With a Chance of Defaults*">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793998025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
+          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793998025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="AI bubble fears prompt dramatic sell-off" title="AI bubble fears prompt dramatic sell-off">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EoDi69g-zYk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vqAKdzkDia0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EoDi69g-zYk&title=Artificial+Intelligence+Beats+Real+Ego+%7C%7C+IISc+Prof.+Prathosh+Spars+with+Acharya+Prashant+%282026%29&lang=en&timestamp=1793980025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7578">
-          <img src="https://ytcards.demolab.com/?id=EoDi69g-zYk&title=Artificial+Intelligence+Beats+Real+Ego+%7C%7C+IISc+Prof.+Prathosh+Spars+with+Acharya+Prashant+%282026%29&lang=en&timestamp=1793980025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7578" alt="Artificial Intelligence Beats Real Ego || IISc Prof. Prathosh Spars with Acharya Prashant (2026)" title="Artificial Intelligence Beats Real Ego || IISc Prof. Prathosh Spars with Acharya Prashant (2026)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vqAKdzkDia0&title=Who+Is+Actually+Calling+the+Shots%3F+%28AI+Won%27t+Need+Us%29&lang=en&timestamp=1793994425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=920">
+          <img src="https://ytcards.demolab.com/?id=vqAKdzkDia0&title=Who+Is+Actually+Calling+the+Shots%3F+%28AI+Won%27t+Need+Us%29&lang=en&timestamp=1793994425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=920" alt="Who Is Actually Calling the Shots? (AI Won't Need Us)" title="Who Is Actually Calling the Shots? (AI Won't Need Us)">
         </picture>
       </a>
     </td>
