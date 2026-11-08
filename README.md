@@ -661,56 +661,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lVbQqjAJpkE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N-lNgyf-8KA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lVbQqjAJpkE&title=%22RSI+already+started...%22&lang=en&timestamp=1794075157&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1209">
-          <img src="https://ytcards.demolab.com/?id=lVbQqjAJpkE&title=%22RSI+already+started...%22&lang=en&timestamp=1794075157&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1209" alt="&quot;RSI already started...&quot;" title="&quot;RSI already started...&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794056555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=584">
+          <img src="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794056555&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=584" alt="'AI will change the world: Accept it' | Piers Linney" title="'AI will change the world: Accept it' | Piers Linney">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4yXpXO4ESz0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1QCXvQ5BFo0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4yXpXO4ESz0&title=Roko%27s+Basilisk+Is+Older+Than+the+Internet&lang=en&timestamp=1794071557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1506">
-          <img src="https://ytcards.demolab.com/?id=4yXpXO4ESz0&title=Roko%27s+Basilisk+Is+Older+Than+the+Internet&lang=en&timestamp=1794071557&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1506" alt="Roko's Basilisk Is Older Than the Internet" title="Roko's Basilisk Is Older Than the Internet">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
+          <img src="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Europeans protest construction of large AI data centres across continent" title="Europeans protest construction of large AI data centres across continent">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MuKNTziO7K8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4Id5aTlYkHg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794078757&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
-          <img src="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794078757&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours" title="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4Id5aTlYkHg&title=The+AI+Alignment+Problem+%26+Its+Solutions%2C+with+Aza+Raskin&lang=en&timestamp=1794067355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4964">
+          <img src="https://ytcards.demolab.com/?id=4Id5aTlYkHg&title=The+AI+Alignment+Problem+%26+Its+Solutions%2C+with+Aza+Raskin&lang=en&timestamp=1794067355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4964" alt="The AI Alignment Problem & Its Solutions, with Aza Raskin" title="The AI Alignment Problem & Its Solutions, with Aza Raskin">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Q7xYXOCsqQQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MuKNTziO7K8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q7xYXOCsqQQ&title=How+Humans+Built+a+Mind%3A+The+70-Year+Story+of+AI&lang=en&timestamp=1794049957&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1129">
-          <img src="https://ytcards.demolab.com/?id=Q7xYXOCsqQQ&title=How+Humans+Built+a+Mind%3A+The+70-Year+Story+of+AI&lang=en&timestamp=1794049957&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1129" alt="How Humans Built a Mind: The 70-Year Story of AI" title="How Humans Built a Mind: The 70-Year Story of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794078155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
+          <img src="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794078155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours" title="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RSt-9fd84fI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSt-9fd84fI&title=Veneziani%3A+%22Artificial+intelligence%2C+humans+are+becoming+obsolete%22+%7C+Galt+Right&lang=en&timestamp=1794049957&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1048">
-          <img src="https://ytcards.demolab.com/?id=RSt-9fd84fI&title=Veneziani%3A+%22Artificial+intelligence%2C+humans+are+becoming+obsolete%22+%7C+Galt+Right&lang=en&timestamp=1794049957&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1048" alt="Veneziani: &quot;Artificial intelligence, humans are becoming obsolete&quot; | Galt Right" title="Veneziani: &quot;Artificial intelligence, humans are becoming obsolete&quot; | Galt Right">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794045755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
+          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794045755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=V58oC2IoHo8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TSy-pLsJav4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V58oC2IoHo8&title=+Artificial+Intelligence+%28AI%29&lang=en&timestamp=1794067957&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9">
-          <img src="https://ytcards.demolab.com/?id=V58oC2IoHo8&title=+Artificial+Intelligence+%28AI%29&lang=en&timestamp=1794067957&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9" alt=" Artificial Intelligence (AI)" title=" Artificial Intelligence (AI)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
+          <img src="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="AI Data centres face growing backlash • FRANCE 24 English" title="AI Data centres face growing backlash • FRANCE 24 English">
         </picture>
       </a>
     </td>
