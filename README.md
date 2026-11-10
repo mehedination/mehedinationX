@@ -662,56 +662,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=N-lNgyf-8KA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794056555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=584">
-          <img src="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794056555&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=584" alt="'AI will change the world: Accept it' | Piers Linney" title="'AI will change the world: Accept it' | Piers Linney">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
+          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244829&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1QCXvQ5BFo0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Lug8EpNEq1E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
-          <img src="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Europeans protest construction of large AI data centres across continent" title="Europeans protest construction of large AI data centres across continent">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lug8EpNEq1E&title=Yuval+Noah+Harari%27s+DISTURBING+Speech+About+AI+and+the+Tower+of+Babel&lang=en&timestamp=1794252029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1519">
+          <img src="https://ytcards.demolab.com/?id=Lug8EpNEq1E&title=Yuval+Noah+Harari%27s+DISTURBING+Speech+About+AI+and+the+Tower+of+Babel&lang=en&timestamp=1794252029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1519" alt="Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel" title="Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4Id5aTlYkHg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XkKYUnhomWQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4Id5aTlYkHg&title=The+AI+Alignment+Problem+%26+Its+Solutions%2C+with+Aza+Raskin&lang=en&timestamp=1794067355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4964">
-          <img src="https://ytcards.demolab.com/?id=4Id5aTlYkHg&title=The+AI+Alignment+Problem+%26+Its+Solutions%2C+with+Aza+Raskin&lang=en&timestamp=1794067355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4964" alt="The AI Alignment Problem & Its Solutions, with Aza Raskin" title="The AI Alignment Problem & Its Solutions, with Aza Raskin">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XkKYUnhomWQ&title=AI+Agents+Are+Creating+Their+Own+Societies.+It%E2%80%99s+Getting+Strange&lang=en&timestamp=1794226829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=267">
+          <img src="https://ytcards.demolab.com/?id=XkKYUnhomWQ&title=AI+Agents+Are+Creating+Their+Own+Societies.+It%E2%80%99s+Getting+Strange&lang=en&timestamp=1794226829&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=267" alt="AI Agents Are Creating Their Own Societies. It’s Getting Strange" title="AI Agents Are Creating Their Own Societies. It’s Getting Strange">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MuKNTziO7K8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Rhxo-UpKpFU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794078155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
-          <img src="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794078155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours" title="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Rhxo-UpKpFU&title=How+spy+agencies+use+seduction+to+get+top+secret+info+from+targets&lang=en&timestamp=1794277229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=161">
+          <img src="https://ytcards.demolab.com/?id=Rhxo-UpKpFU&title=How+spy+agencies+use+seduction+to+get+top+secret+info+from+targets&lang=en&timestamp=1794277229&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=161" alt="How spy agencies use seduction to get top secret info from targets" title="How spy agencies use seduction to get top secret info from targets">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794045755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
-          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794045755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Nvidia+SPY+scandal%3A+Did+Chinese+intelligence+target+the+most+powerful+man+in+AI%3F&lang=en&timestamp=1794252029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
+          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Nvidia+SPY+scandal%3A+Did+Chinese+intelligence+target+the+most+powerful+man+in+AI%3F&lang=en&timestamp=1794252029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="Nvidia SPY scandal: Did Chinese intelligence target the most powerful man in AI?" title="Nvidia SPY scandal: Did Chinese intelligence target the most powerful man in AI?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TSy-pLsJav4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F5Ka3YXiPFg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
-          <img src="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="AI Data centres face growing backlash • FRANCE 24 English" title="AI Data centres face growing backlash • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F5Ka3YXiPFg&title=The+AI+Bubble+Is+Bursting%3F+%245.7+Trillion+Just+Vanished+From+Wall+Street&lang=en&timestamp=1794230429&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=566">
+          <img src="https://ytcards.demolab.com/?id=F5Ka3YXiPFg&title=The+AI+Bubble+Is+Bursting%3F+%245.7+Trillion+Just+Vanished+From+Wall+Street&lang=en&timestamp=1794230429&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=566" alt="The AI Bubble Is Bursting? $5.7 Trillion Just Vanished From Wall Street" title="The AI Bubble Is Bursting? $5.7 Trillion Just Vanished From Wall Street">
         </picture>
       </a>
     </td>
