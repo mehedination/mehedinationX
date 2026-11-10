@@ -663,56 +663,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZfC98aM9C8Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
-          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244829&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZfC98aM9C8Y&title=%27We+have+a+20%25+chance+of+extinction%27+%7C+The+%27Godfather+of+AI%27&lang=en&timestamp=1794295343&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699">
+          <img src="https://ytcards.demolab.com/?id=ZfC98aM9C8Y&title=%27We+have+a+20%25+chance+of+extinction%27+%7C+The+%27Godfather+of+AI%27&lang=en&timestamp=1794295343&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=699" alt="'We have a 20% chance of extinction' | The 'Godfather of AI'" title="'We have a 20% chance of extinction' | The 'Godfather of AI'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Lug8EpNEq1E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-NFyMYLlCeg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lug8EpNEq1E&title=Yuval+Noah+Harari%27s+DISTURBING+Speech+About+AI+and+the+Tower+of+Babel&lang=en&timestamp=1794252029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1519">
-          <img src="https://ytcards.demolab.com/?id=Lug8EpNEq1E&title=Yuval+Noah+Harari%27s+DISTURBING+Speech+About+AI+and+the+Tower+of+Babel&lang=en&timestamp=1794252029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1519" alt="Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel" title="Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266543&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
+          <img src="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266543&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="OpenAI Caught Its AI Deceiving Its Own Researchers…" title="OpenAI Caught Its AI Deceiving Its Own Researchers…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XkKYUnhomWQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M7XcOqeHbZs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XkKYUnhomWQ&title=AI+Agents+Are+Creating+Their+Own+Societies.+It%E2%80%99s+Getting+Strange&lang=en&timestamp=1794226829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=267">
-          <img src="https://ytcards.demolab.com/?id=XkKYUnhomWQ&title=AI+Agents+Are+Creating+Their+Own+Societies.+It%E2%80%99s+Getting+Strange&lang=en&timestamp=1794226829&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=267" alt="AI Agents Are Creating Their Own Societies. It’s Getting Strange" title="AI Agents Are Creating Their Own Societies. It’s Getting Strange">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M7XcOqeHbZs&title=Ex-Anthropic+Insider%3A+Human+Extinction+Has+Quietly+Started&lang=en&timestamp=1794244943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=926">
+          <img src="https://ytcards.demolab.com/?id=M7XcOqeHbZs&title=Ex-Anthropic+Insider%3A+Human+Extinction+Has+Quietly+Started&lang=en&timestamp=1794244943&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=926" alt="Ex-Anthropic Insider: Human Extinction Has Quietly Started" title="Ex-Anthropic Insider: Human Extinction Has Quietly Started">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Rhxo-UpKpFU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=y70Y4y2714E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Rhxo-UpKpFU&title=How+spy+agencies+use+seduction+to+get+top+secret+info+from+targets&lang=en&timestamp=1794277229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=161">
-          <img src="https://ytcards.demolab.com/?id=Rhxo-UpKpFU&title=How+spy+agencies+use+seduction+to+get+top+secret+info+from+targets&lang=en&timestamp=1794277229&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=161" alt="How spy agencies use seduction to get top secret info from targets" title="How spy agencies use seduction to get top secret info from targets">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y70Y4y2714E&title=Australia+Plans+Mandatory+Safeguards+For+Artificial+Intelligence+%7C++WION+News&lang=en&timestamp=1794306143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=y70Y4y2714E&title=Australia+Plans+Mandatory+Safeguards+For+Artificial+Intelligence+%7C++WION+News&lang=en&timestamp=1794306143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Australia Plans Mandatory Safeguards For Artificial Intelligence |  WION News" title="Australia Plans Mandatory Safeguards For Artificial Intelligence |  WION News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
+          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244943&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Nvidia+SPY+scandal%3A+Did+Chinese+intelligence+target+the+most+powerful+man+in+AI%3F&lang=en&timestamp=1794252029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
-          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Nvidia+SPY+scandal%3A+Did+Chinese+intelligence+target+the+most+powerful+man+in+AI%3F&lang=en&timestamp=1794252029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="Nvidia SPY scandal: Did Chinese intelligence target the most powerful man in AI?" title="Nvidia SPY scandal: Did Chinese intelligence target the most powerful man in AI?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F5Ka3YXiPFg" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F5Ka3YXiPFg&title=The+AI+Bubble+Is+Bursting%3F+%245.7+Trillion+Just+Vanished+From+Wall+Street&lang=en&timestamp=1794230429&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=566">
-          <img src="https://ytcards.demolab.com/?id=F5Ka3YXiPFg&title=The+AI+Bubble+Is+Bursting%3F+%245.7+Trillion+Just+Vanished+From+Wall+Street&lang=en&timestamp=1794230429&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=566" alt="The AI Bubble Is Bursting? $5.7 Trillion Just Vanished From Wall Street" title="The AI Bubble Is Bursting? $5.7 Trillion Just Vanished From Wall Street">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Did+China+target+the+most+powerful+man+in+AI%3F+The+Nvidia+scandal&lang=en&timestamp=1794252143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
+          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Did+China+target+the+most+powerful+man+in+AI%3F+The+Nvidia+scandal&lang=en&timestamp=1794252143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="Did China target the most powerful man in AI? The Nvidia scandal" title="Did China target the most powerful man in AI? The Nvidia scandal">
         </picture>
       </a>
     </td>
