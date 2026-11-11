@@ -665,56 +665,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eLA41pF_uVo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eLA41pF_uVo&title=Anthropic+Just+Admitted+It%E2%80%99s+Holding+Back+Its+Own+AI%E2%80%A6&lang=en&timestamp=1794323212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=779">
-          <img src="https://ytcards.demolab.com/?id=eLA41pF_uVo&title=Anthropic+Just+Admitted+It%E2%80%99s+Holding+Back+Its+Own+AI%E2%80%A6&lang=en&timestamp=1794323212&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=779" alt="Anthropic Just Admitted It’s Holding Back Its Own AI…" title="Anthropic Just Admitted It’s Holding Back Its Own AI…">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=nBVlvVoxb2E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794323212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
-          <img src="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794323212&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="20 AI Predictions for 2027: The Changes Already Beginning" title="20 AI Predictions for 2027: The Changes Already Beginning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=AI+in+2027%3A+20+Predictions+About+What+Comes+Next&lang=en&timestamp=1794332898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
+          <img src="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=AI+in+2027%3A+20+Predictions+About+What+Comes+Next&lang=en&timestamp=1794332898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="AI in 2027: 20 Predictions About What Comes Next" title="AI in 2027: 20 Predictions About What Comes Next">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s1IR0JSJKcE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QQUfMHx5Aug" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s1IR0JSJKcE&title=Anthropic+eyes+%241.4+trillion+IPO+valuation&lang=en&timestamp=1794370012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
-          <img src="https://ytcards.demolab.com/?id=s1IR0JSJKcE&title=Anthropic+eyes+%241.4+trillion+IPO+valuation&lang=en&timestamp=1794370012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Anthropic eyes $1.4 trillion IPO valuation" title="Anthropic eyes $1.4 trillion IPO valuation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794358098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5211">
+          <img src="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794358098&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5211" alt="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)" title="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794386898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794386898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QQUfMHx5Aug" target="_blank">
+      <a href="https://www.youtube.com/watch?v=05AvM4DjAlg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794359212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5211">
-          <img src="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794359212&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5211" alt="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)" title="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=05AvM4DjAlg&title=The+Singularity+Was+Predicted+for+This+Friday&lang=en&timestamp=1794332898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=495">
+          <img src="https://ytcards.demolab.com/?id=05AvM4DjAlg&title=The+Singularity+Was+Predicted+for+This+Friday&lang=en&timestamp=1794332898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=495" alt="The Singularity Was Predicted for This Friday" title="The Singularity Was Predicted for This Friday">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iw4UqjIhD14" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eLA41pF_uVo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iw4UqjIhD14&title=4+Insanely+Cheap+AI+Stocks+to+Buy+Now&lang=en&timestamp=1794334012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=922">
-          <img src="https://ytcards.demolab.com/?id=iw4UqjIhD14&title=4+Insanely+Cheap+AI+Stocks+to+Buy+Now&lang=en&timestamp=1794334012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=922" alt="4 Insanely Cheap AI Stocks to Buy Now" title="4 Insanely Cheap AI Stocks to Buy Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eLA41pF_uVo&title=Anthropic+Just+Released+Its+Most+Powerful+AI%E2%80%A6+But+Held+Something+Back&lang=en&timestamp=1794332898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=779">
+          <img src="https://ytcards.demolab.com/?id=eLA41pF_uVo&title=Anthropic+Just+Released+Its+Most+Powerful+AI%E2%80%A6+But+Held+Something+Back&lang=en&timestamp=1794332898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=779" alt="Anthropic Just Released Its Most Powerful AI… But Held Something Back" title="Anthropic Just Released Its Most Powerful AI… But Held Something Back">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Czw3FCmJG8A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d2CU3Tb0-w0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Czw3FCmJG8A&title=The+robot+boom%3A+Are+businesses+ready+for+an+AI-powered+workforce%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794326812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=376">
-          <img src="https://ytcards.demolab.com/?id=Czw3FCmJG8A&title=The+robot+boom%3A+Are+businesses+ready+for+an+AI-powered+workforce%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794326812&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=376" alt="The robot boom: Are businesses ready for an AI-powered workforce? • FRANCE 24 English" title="The robot boom: Are businesses ready for an AI-powered workforce? • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d2CU3Tb0-w0&title=Spying+for+China+to+Get+NVIDIA+Chips.+The+AI+Race+%26+CEO+Jensen+Huang+Saga+Episode+1.&lang=en&timestamp=1794365298&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=964">
+          <img src="https://ytcards.demolab.com/?id=d2CU3Tb0-w0&title=Spying+for+China+to+Get+NVIDIA+Chips.+The+AI+Race+%26+CEO+Jensen+Huang+Saga+Episode+1.&lang=en&timestamp=1794365298&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=964" alt="Spying for China to Get NVIDIA Chips. The AI Race & CEO Jensen Huang Saga Episode 1." title="Spying for China to Get NVIDIA Chips. The AI Race & CEO Jensen Huang Saga Episode 1.">
         </picture>
       </a>
     </td>
