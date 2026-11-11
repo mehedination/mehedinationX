@@ -664,56 +664,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZfC98aM9C8Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eLA41pF_uVo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZfC98aM9C8Y&title=%27We+have+a+20%25+chance+of+extinction%27+%7C+The+%27Godfather+of+AI%27&lang=en&timestamp=1794295343&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699">
-          <img src="https://ytcards.demolab.com/?id=ZfC98aM9C8Y&title=%27We+have+a+20%25+chance+of+extinction%27+%7C+The+%27Godfather+of+AI%27&lang=en&timestamp=1794295343&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=699" alt="'We have a 20% chance of extinction' | The 'Godfather of AI'" title="'We have a 20% chance of extinction' | The 'Godfather of AI'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eLA41pF_uVo&title=Anthropic+Just+Admitted+It%E2%80%99s+Holding+Back+Its+Own+AI%E2%80%A6&lang=en&timestamp=1794323212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=779">
+          <img src="https://ytcards.demolab.com/?id=eLA41pF_uVo&title=Anthropic+Just+Admitted+It%E2%80%99s+Holding+Back+Its+Own+AI%E2%80%A6&lang=en&timestamp=1794323212&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=779" alt="Anthropic Just Admitted It’s Holding Back Its Own AI…" title="Anthropic Just Admitted It’s Holding Back Its Own AI…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-NFyMYLlCeg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nBVlvVoxb2E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266543&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
-          <img src="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266543&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="OpenAI Caught Its AI Deceiving Its Own Researchers…" title="OpenAI Caught Its AI Deceiving Its Own Researchers…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794323212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
+          <img src="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794323212&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="20 AI Predictions for 2027: The Changes Already Beginning" title="20 AI Predictions for 2027: The Changes Already Beginning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M7XcOqeHbZs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s1IR0JSJKcE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M7XcOqeHbZs&title=Ex-Anthropic+Insider%3A+Human+Extinction+Has+Quietly+Started&lang=en&timestamp=1794244943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=926">
-          <img src="https://ytcards.demolab.com/?id=M7XcOqeHbZs&title=Ex-Anthropic+Insider%3A+Human+Extinction+Has+Quietly+Started&lang=en&timestamp=1794244943&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=926" alt="Ex-Anthropic Insider: Human Extinction Has Quietly Started" title="Ex-Anthropic Insider: Human Extinction Has Quietly Started">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s1IR0JSJKcE&title=Anthropic+eyes+%241.4+trillion+IPO+valuation&lang=en&timestamp=1794370012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
+          <img src="https://ytcards.demolab.com/?id=s1IR0JSJKcE&title=Anthropic+eyes+%241.4+trillion+IPO+valuation&lang=en&timestamp=1794370012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Anthropic eyes $1.4 trillion IPO valuation" title="Anthropic eyes $1.4 trillion IPO valuation">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=y70Y4y2714E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QQUfMHx5Aug" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y70Y4y2714E&title=Australia+Plans+Mandatory+Safeguards+For+Artificial+Intelligence+%7C++WION+News&lang=en&timestamp=1794306143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
-          <img src="https://ytcards.demolab.com/?id=y70Y4y2714E&title=Australia+Plans+Mandatory+Safeguards+For+Artificial+Intelligence+%7C++WION+News&lang=en&timestamp=1794306143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Australia Plans Mandatory Safeguards For Artificial Intelligence |  WION News" title="Australia Plans Mandatory Safeguards For Artificial Intelligence |  WION News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794359212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5211">
+          <img src="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794359212&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5211" alt="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)" title="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=iw4UqjIhD14" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
-          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244943&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iw4UqjIhD14&title=4+Insanely+Cheap+AI+Stocks+to+Buy+Now&lang=en&timestamp=1794334012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=922">
+          <img src="https://ytcards.demolab.com/?id=iw4UqjIhD14&title=4+Insanely+Cheap+AI+Stocks+to+Buy+Now&lang=en&timestamp=1794334012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=922" alt="4 Insanely Cheap AI Stocks to Buy Now" title="4 Insanely Cheap AI Stocks to Buy Now">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Czw3FCmJG8A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Did+China+target+the+most+powerful+man+in+AI%3F+The+Nvidia+scandal&lang=en&timestamp=1794252143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
-          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Did+China+target+the+most+powerful+man+in+AI%3F+The+Nvidia+scandal&lang=en&timestamp=1794252143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="Did China target the most powerful man in AI? The Nvidia scandal" title="Did China target the most powerful man in AI? The Nvidia scandal">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Czw3FCmJG8A&title=The+robot+boom%3A+Are+businesses+ready+for+an+AI-powered+workforce%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794326812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=376">
+          <img src="https://ytcards.demolab.com/?id=Czw3FCmJG8A&title=The+robot+boom%3A+Are+businesses+ready+for+an+AI-powered+workforce%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794326812&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=376" alt="The robot boom: Are businesses ready for an AI-powered workforce? • FRANCE 24 English" title="The robot boom: Are businesses ready for an AI-powered workforce? • FRANCE 24 English">
         </picture>
       </a>
     </td>
