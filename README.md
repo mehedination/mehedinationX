@@ -669,56 +669,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=L5z2JJaNfLQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=42fSmDTR03g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L5z2JJaNfLQ&title=Terrifying%3A+Rogue+AI+Could+Trigger+12k+Nukes+in+Minutes%21+Emergency+Trump%2C+Xi+%26+Putin%C2%A0Talks+%7CGravitas&lang=en&timestamp=1794418130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=197">
-          <img src="https://ytcards.demolab.com/?id=L5z2JJaNfLQ&title=Terrifying%3A+Rogue+AI+Could+Trigger+12k+Nukes+in+Minutes%21+Emergency+Trump%2C+Xi+%26+Putin%C2%A0Talks+%7CGravitas&lang=en&timestamp=1794418130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=197" alt="Terrifying: Rogue AI Could Trigger 12k Nukes in Minutes! Emergency Trump, Xi & Putin Talks |Gravitas" title="Terrifying: Rogue AI Could Trigger 12k Nukes in Minutes! Emergency Trump, Xi & Putin Talks |Gravitas">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794439506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904">
+          <img src="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794439506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=904" alt="AI 2027’s Authors Say We’re Already 5 Months Ahead…" title="AI 2027’s Authors Say We’re Already 5 Months Ahead…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3C4eYrJSzuY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NCghRPb0pH8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794418130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
-          <img src="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794418130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="Fable 5.2 Just Made Opus 5.5 Obsolete" title="Fable 5.2 Just Made Opus 5.5 Obsolete">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794518706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
+          <img src="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794518706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Artificial intelligence summit at WMU" title="Artificial intelligence summit at WMU">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZYTC33KciM8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qjfHUeAHniA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZYTC33KciM8&title=%27Nvidia%27s+most+capable+chips%E2%80%A6%27%3A+Explosive+report+reveals+blacklisted+Chinese+University+bought+H200&lang=en&timestamp=1794418130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=516">
-          <img src="https://ytcards.demolab.com/?id=ZYTC33KciM8&title=%27Nvidia%27s+most+capable+chips%E2%80%A6%27%3A+Explosive+report+reveals+blacklisted+Chinese+University+bought+H200&lang=en&timestamp=1794418130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=516" alt="'Nvidia's most capable chips…': Explosive report reveals blacklisted Chinese University bought H200" title="'Nvidia's most capable chips…': Explosive report reveals blacklisted Chinese University bought H200">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qjfHUeAHniA&title=Why+companies+can%27t+escape+the+AI+spending+spiral+%7C+DW+News&lang=en&timestamp=1794446706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=544">
+          <img src="https://ytcards.demolab.com/?id=qjfHUeAHniA&title=Why+companies+can%27t+escape+the+AI+spending+spiral+%7C+DW+News&lang=en&timestamp=1794446706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=544" alt="Why companies can't escape the AI spending spiral | DW News" title="Why companies can't escape the AI spending spiral | DW News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IpCVjHcqzHg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IpCVjHcqzHg&title=AI+and+India%3A+Navigating+the+AI+Revolution&lang=en&timestamp=1794468530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3122">
-          <img src="https://ytcards.demolab.com/?id=IpCVjHcqzHg&title=AI+and+India%3A+Navigating+the+AI+Revolution&lang=en&timestamp=1794468530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3122" alt="AI and India: Navigating the AI Revolution" title="AI and India: Navigating the AI Revolution">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794439506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
+          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794439506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="The Economics of AI Don’t Add Up" title="The Economics of AI Don’t Add Up">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3UgzF-GfJxI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hvnPWgfmvyI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3UgzF-GfJxI&title=The+AI+Takeover+Blackout%3A+What+Were+They+Hiding%3F&lang=en&timestamp=1794418130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1396">
-          <img src="https://ytcards.demolab.com/?id=3UgzF-GfJxI&title=The+AI+Takeover+Blackout%3A+What+Were+They+Hiding%3F&lang=en&timestamp=1794418130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1396" alt="The AI Takeover Blackout: What Were They Hiding?" title="The AI Takeover Blackout: What Were They Hiding?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hvnPWgfmvyI&title=Why+AI+Agents+Need+RAG+%2B+Observability&lang=en&timestamp=1794486306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=544">
+          <img src="https://ytcards.demolab.com/?id=hvnPWgfmvyI&title=Why+AI+Agents+Need+RAG+%2B+Observability&lang=en&timestamp=1794486306&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=544" alt="Why AI Agents Need RAG + Observability" title="Why AI Agents Need RAG + Observability">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=P-HifDKWx58" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P-HifDKWx58&title=Nvidia%27s+Jensen+Huang+at+heart+of+China+spy+scandal+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794428930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2598">
-          <img src="https://ytcards.demolab.com/?id=P-HifDKWx58&title=Nvidia%27s+Jensen+Huang+at+heart+of+China+spy+scandal+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794428930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2598" alt="Nvidia's Jensen Huang at heart of China spy scandal • FRANCE 24 English" title="Nvidia's Jensen Huang at heart of China spy scandal • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794439506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794439506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
         </picture>
       </a>
     </td>
