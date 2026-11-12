@@ -667,56 +667,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794414117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794414117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="The Economics of AI Don’t Add Up" title="The Economics of AI Don’t Add Up">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=3C4eYrJSzuY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794414117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
-          <img src="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794414117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="Fable 5.2 Just Made Opus 5.5 Obsolete" title="Fable 5.2 Just Made Opus 5.5 Obsolete">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794413190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
+          <img src="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794413190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="Fable 5.2 Just Made Opus 5.5 Obsolete" title="Fable 5.2 Just Made Opus 5.5 Obsolete">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=q0j9P61eOe4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=L5z2JJaNfLQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q0j9P61eOe4&title=A+Layman+Thinks+About+AI&lang=en&timestamp=1794410517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2587">
-          <img src="https://ytcards.demolab.com/?id=q0j9P61eOe4&title=A+Layman+Thinks+About+AI&lang=en&timestamp=1794410517&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2587" alt="A Layman Thinks About AI" title="A Layman Thinks About AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L5z2JJaNfLQ&title=Terrifying%3A+Rogue+AI+Could+Trigger+12k+Nukes+in+Minutes%21+Emergency+Trump%2C+Xi+%26+Putin%C2%A0Talks+%7CGravitas&lang=en&timestamp=1794420390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=197">
+          <img src="https://ytcards.demolab.com/?id=L5z2JJaNfLQ&title=Terrifying%3A+Rogue+AI+Could+Trigger+12k+Nukes+in+Minutes%21+Emergency+Trump%2C+Xi+%26+Putin%C2%A0Talks+%7CGravitas&lang=en&timestamp=1794420390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=197" alt="Terrifying: Rogue AI Could Trigger 12k Nukes in Minutes! Emergency Trump, Xi & Putin Talks |Gravitas" title="Terrifying: Rogue AI Could Trigger 12k Nukes in Minutes! Emergency Trump, Xi & Putin Talks |Gravitas">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=You+Might+Be+Killing+AI&lang=en&timestamp=1794413190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
+          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=You+Might+Be+Killing+AI&lang=en&timestamp=1794413190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="You Might Be Killing AI" title="You Might Be Killing AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s0qUNvgFgHg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794388917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
-          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794388917&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s0qUNvgFgHg&title=Paul+Christiano%3A+Governing+Transformative+AI+%7C+The+Hinton+Lectures+2026+%28Night+3%29&lang=en&timestamp=1794445590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4726">
+          <img src="https://ytcards.demolab.com/?id=s0qUNvgFgHg&title=Paul+Christiano%3A+Governing+Transformative+AI+%7C+The+Hinton+Lectures+2026+%28Night+3%29&lang=en&timestamp=1794445590&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4726" alt="Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)" title="Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ajtt48vvlJI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gu0ALRQPbXc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ajtt48vvlJI&title=Can+the+US+beat+China+at+AI%3F+%7C+GZERO+World&lang=en&timestamp=1794414117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=331">
-          <img src="https://ytcards.demolab.com/?id=Ajtt48vvlJI&title=Can+the+US+beat+China+at+AI%3F+%7C+GZERO+World&lang=en&timestamp=1794414117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=331" alt="Can the US beat China at AI? | GZERO World" title="Can the US beat China at AI? | GZERO World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gu0ALRQPbXc&title=US%2C+China+should+stay+clear-eyed+on+AI+ties%2C+Bessent+says&lang=en&timestamp=1794431190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=84">
+          <img src="https://ytcards.demolab.com/?id=gu0ALRQPbXc&title=US%2C+China+should+stay+clear-eyed+on+AI+ties%2C+Bessent+says&lang=en&timestamp=1794431190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=84" alt="US, China should stay clear-eyed on AI ties, Bessent says" title="US, China should stay clear-eyed on AI ties, Bessent says">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=waF0efI0AQM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9hXlMbSMHeU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=waF0efI0AQM&title=USA+BEGS+Europe+to+Come+Back+-+Canada+Sends+Aluminium+To+EU+Instead%2C+Finland+%22Stop+Using+US+Tech%21%22&lang=en&timestamp=1794417717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1188">
-          <img src="https://ytcards.demolab.com/?id=waF0efI0AQM&title=USA+BEGS+Europe+to+Come+Back+-+Canada+Sends+Aluminium+To+EU+Instead%2C+Finland+%22Stop+Using+US+Tech%21%22&lang=en&timestamp=1794417717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1188" alt="USA BEGS Europe to Come Back - Canada Sends Aluminium To EU Instead, Finland &quot;Stop Using US Tech!&quot;" title="USA BEGS Europe to Come Back - Canada Sends Aluminium To EU Instead, Finland &quot;Stop Using US Tech!&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9hXlMbSMHeU&title=The+AI+Bubble+Just+Claimed+Its+First+Victim&lang=en&timestamp=1794405990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=950">
+          <img src="https://ytcards.demolab.com/?id=9hXlMbSMHeU&title=The+AI+Bubble+Just+Claimed+Its+First+Victim&lang=en&timestamp=1794405990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=950" alt="The AI Bubble Just Claimed Its First Victim" title="The AI Bubble Just Claimed Its First Victim">
         </picture>
       </a>
     </td>
