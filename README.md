@@ -668,56 +668,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3C4eYrJSzuY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794413190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
-          <img src="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794413190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="Fable 5.2 Just Made Opus 5.5 Obsolete" title="Fable 5.2 Just Made Opus 5.5 Obsolete">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=L5z2JJaNfLQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L5z2JJaNfLQ&title=Terrifying%3A+Rogue+AI+Could+Trigger+12k+Nukes+in+Minutes%21+Emergency+Trump%2C+Xi+%26+Putin%C2%A0Talks+%7CGravitas&lang=en&timestamp=1794420390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=197">
-          <img src="https://ytcards.demolab.com/?id=L5z2JJaNfLQ&title=Terrifying%3A+Rogue+AI+Could+Trigger+12k+Nukes+in+Minutes%21+Emergency+Trump%2C+Xi+%26+Putin%C2%A0Talks+%7CGravitas&lang=en&timestamp=1794420390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=197" alt="Terrifying: Rogue AI Could Trigger 12k Nukes in Minutes! Emergency Trump, Xi & Putin Talks |Gravitas" title="Terrifying: Rogue AI Could Trigger 12k Nukes in Minutes! Emergency Trump, Xi & Putin Talks |Gravitas">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L5z2JJaNfLQ&title=Terrifying%3A+Rogue+AI+Could+Trigger+12k+Nukes+in+Minutes%21+Emergency+Trump%2C+Xi+%26+Putin%C2%A0Talks+%7CGravitas&lang=en&timestamp=1794418130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=197">
+          <img src="https://ytcards.demolab.com/?id=L5z2JJaNfLQ&title=Terrifying%3A+Rogue+AI+Could+Trigger+12k+Nukes+in+Minutes%21+Emergency+Trump%2C+Xi+%26+Putin%C2%A0Talks+%7CGravitas&lang=en&timestamp=1794418130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=197" alt="Terrifying: Rogue AI Could Trigger 12k Nukes in Minutes! Emergency Trump, Xi & Putin Talks |Gravitas" title="Terrifying: Rogue AI Could Trigger 12k Nukes in Minutes! Emergency Trump, Xi & Putin Talks |Gravitas">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3C4eYrJSzuY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=You+Might+Be+Killing+AI&lang=en&timestamp=1794413190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=You+Might+Be+Killing+AI&lang=en&timestamp=1794413190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="You Might Be Killing AI" title="You Might Be Killing AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794418130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
+          <img src="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794418130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="Fable 5.2 Just Made Opus 5.5 Obsolete" title="Fable 5.2 Just Made Opus 5.5 Obsolete">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ZYTC33KciM8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZYTC33KciM8&title=%27Nvidia%27s+most+capable+chips%E2%80%A6%27%3A+Explosive+report+reveals+blacklisted+Chinese+University+bought+H200&lang=en&timestamp=1794418130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=516">
+          <img src="https://ytcards.demolab.com/?id=ZYTC33KciM8&title=%27Nvidia%27s+most+capable+chips%E2%80%A6%27%3A+Explosive+report+reveals+blacklisted+Chinese+University+bought+H200&lang=en&timestamp=1794418130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=516" alt="'Nvidia's most capable chips…': Explosive report reveals blacklisted Chinese University bought H200" title="'Nvidia's most capable chips…': Explosive report reveals blacklisted Chinese University bought H200">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s0qUNvgFgHg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IpCVjHcqzHg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s0qUNvgFgHg&title=Paul+Christiano%3A+Governing+Transformative+AI+%7C+The+Hinton+Lectures+2026+%28Night+3%29&lang=en&timestamp=1794445590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4726">
-          <img src="https://ytcards.demolab.com/?id=s0qUNvgFgHg&title=Paul+Christiano%3A+Governing+Transformative+AI+%7C+The+Hinton+Lectures+2026+%28Night+3%29&lang=en&timestamp=1794445590&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4726" alt="Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)" title="Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IpCVjHcqzHg&title=AI+and+India%3A+Navigating+the+AI+Revolution&lang=en&timestamp=1794468530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3122">
+          <img src="https://ytcards.demolab.com/?id=IpCVjHcqzHg&title=AI+and+India%3A+Navigating+the+AI+Revolution&lang=en&timestamp=1794468530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3122" alt="AI and India: Navigating the AI Revolution" title="AI and India: Navigating the AI Revolution">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=gu0ALRQPbXc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3UgzF-GfJxI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gu0ALRQPbXc&title=US%2C+China+should+stay+clear-eyed+on+AI+ties%2C+Bessent+says&lang=en&timestamp=1794431190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=84">
-          <img src="https://ytcards.demolab.com/?id=gu0ALRQPbXc&title=US%2C+China+should+stay+clear-eyed+on+AI+ties%2C+Bessent+says&lang=en&timestamp=1794431190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=84" alt="US, China should stay clear-eyed on AI ties, Bessent says" title="US, China should stay clear-eyed on AI ties, Bessent says">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3UgzF-GfJxI&title=The+AI+Takeover+Blackout%3A+What+Were+They+Hiding%3F&lang=en&timestamp=1794418130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1396">
+          <img src="https://ytcards.demolab.com/?id=3UgzF-GfJxI&title=The+AI+Takeover+Blackout%3A+What+Were+They+Hiding%3F&lang=en&timestamp=1794418130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1396" alt="The AI Takeover Blackout: What Were They Hiding?" title="The AI Takeover Blackout: What Were They Hiding?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9hXlMbSMHeU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=P-HifDKWx58" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9hXlMbSMHeU&title=The+AI+Bubble+Just+Claimed+Its+First+Victim&lang=en&timestamp=1794405990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=950">
-          <img src="https://ytcards.demolab.com/?id=9hXlMbSMHeU&title=The+AI+Bubble+Just+Claimed+Its+First+Victim&lang=en&timestamp=1794405990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=950" alt="The AI Bubble Just Claimed Its First Victim" title="The AI Bubble Just Claimed Its First Victim">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P-HifDKWx58&title=Nvidia%27s+Jensen+Huang+at+heart+of+China+spy+scandal+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794428930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2598">
+          <img src="https://ytcards.demolab.com/?id=P-HifDKWx58&title=Nvidia%27s+Jensen+Huang+at+heart+of+China+spy+scandal+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794428930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2598" alt="Nvidia's Jensen Huang at heart of China spy scandal • FRANCE 24 English" title="Nvidia's Jensen Huang at heart of China spy scandal • FRANCE 24 English">
         </picture>
       </a>
     </td>
