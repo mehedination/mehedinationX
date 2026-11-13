@@ -670,56 +670,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=42fSmDTR03g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W9-kTUTj-zU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794439506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904">
-          <img src="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794439506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=904" alt="AI 2027’s Authors Say We’re Already 5 Months Ahead…" title="AI 2027’s Authors Say We’re Already 5 Months Ahead…">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NCghRPb0pH8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794518706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
-          <img src="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794518706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Artificial intelligence summit at WMU" title="Artificial intelligence summit at WMU">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qjfHUeAHniA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qjfHUeAHniA&title=Why+companies+can%27t+escape+the+AI+spending+spiral+%7C+DW+News&lang=en&timestamp=1794446706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=544">
-          <img src="https://ytcards.demolab.com/?id=qjfHUeAHniA&title=Why+companies+can%27t+escape+the+AI+spending+spiral+%7C+DW+News&lang=en&timestamp=1794446706&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=544" alt="Why companies can't escape the AI spending spiral | DW News" title="Why companies can't escape the AI spending spiral | DW News">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794439506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794439506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="The Economics of AI Don’t Add Up" title="The Economics of AI Don’t Add Up">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W9-kTUTj-zU&title=AI+Precisions+Explained&lang=en&timestamp=1794484900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1286">
+          <img src="https://ytcards.demolab.com/?id=W9-kTUTj-zU&title=AI+Precisions+Explained&lang=en&timestamp=1794484900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1286" alt="AI Precisions Explained" title="AI Precisions Explained">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=hvnPWgfmvyI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hvnPWgfmvyI&title=Why+AI+Agents+Need+RAG+%2B+Observability&lang=en&timestamp=1794486306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=544">
-          <img src="https://ytcards.demolab.com/?id=hvnPWgfmvyI&title=Why+AI+Agents+Need+RAG+%2B+Observability&lang=en&timestamp=1794486306&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=544" alt="Why AI Agents Need RAG + Observability" title="Why AI Agents Need RAG + Observability">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hvnPWgfmvyI&title=Why+AI+Agents+Need+RAG+%2B+Observability&lang=en&timestamp=1794484900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=544">
+          <img src="https://ytcards.demolab.com/?id=hvnPWgfmvyI&title=Why+AI+Agents+Need+RAG+%2B+Observability&lang=en&timestamp=1794484900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=544" alt="Why AI Agents Need RAG + Observability" title="Why AI Agents Need RAG + Observability">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9Vl3DAgbWeU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794439506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
-          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794439506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9Vl3DAgbWeU&title=How+to+Take+Back+the+Power+from+A.I.+CEOs+%7C+PTFO&lang=en&timestamp=1794477700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3095">
+          <img src="https://ytcards.demolab.com/?id=9Vl3DAgbWeU&title=How+to+Take+Back+the+Power+from+A.I.+CEOs+%7C+PTFO&lang=en&timestamp=1794477700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3095" alt="How to Take Back the Power from A.I. CEOs | PTFO" title="How to Take Back the Power from A.I. CEOs | PTFO">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Dt7Q_VQxGHc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794510100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1765">
+          <img src="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794510100&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1765" alt="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs." title="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=kfHsXbNyZBg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kfHsXbNyZBg&title=Michael+Kagan+-+CTO+of+NVIDIA+-+Explains+What+is+Physical+AI%2C+Digital+Twins+%26+AI+Factories&lang=en&timestamp=1794481300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1898">
+          <img src="https://ytcards.demolab.com/?id=kfHsXbNyZBg&title=Michael+Kagan+-+CTO+of+NVIDIA+-+Explains+What+is+Physical+AI%2C+Digital+Twins+%26+AI+Factories&lang=en&timestamp=1794481300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1898" alt="Michael Kagan - CTO of NVIDIA - Explains What is Physical AI, Digital Twins & AI Factories" title="Michael Kagan - CTO of NVIDIA - Explains What is Physical AI, Digital Twins & AI Factories">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=RQEYOi2ukaY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RQEYOi2ukaY&title=Artificial+Intelligence+and+body+imaging+is+changing+wellness&lang=en&timestamp=1794506500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
+          <img src="https://ytcards.demolab.com/?id=RQEYOi2ukaY&title=Artificial+Intelligence+and+body+imaging+is+changing+wellness&lang=en&timestamp=1794506500&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Artificial Intelligence and body imaging is changing wellness" title="Artificial Intelligence and body imaging is changing wellness">
         </picture>
       </a>
     </td>
