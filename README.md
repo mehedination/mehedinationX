@@ -671,56 +671,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W9-kTUTj-zU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CvLX2SaSxtQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W9-kTUTj-zU&title=AI+Precisions+Explained&lang=en&timestamp=1794484900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1286">
-          <img src="https://ytcards.demolab.com/?id=W9-kTUTj-zU&title=AI+Precisions+Explained&lang=en&timestamp=1794484900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1286" alt="AI Precisions Explained" title="AI Precisions Explained">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794603118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
+          <img src="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794603118&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="The race to control artificial intelligence | Ian Bremmer Explains" title="The race to control artificial intelligence | Ian Bremmer Explains">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hvnPWgfmvyI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HPCayerH1Jw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hvnPWgfmvyI&title=Why+AI+Agents+Need+RAG+%2B+Observability&lang=en&timestamp=1794484900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=544">
-          <img src="https://ytcards.demolab.com/?id=hvnPWgfmvyI&title=Why+AI+Agents+Need+RAG+%2B+Observability&lang=en&timestamp=1794484900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=544" alt="Why AI Agents Need RAG + Observability" title="Why AI Agents Need RAG + Observability">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HPCayerH1Jw&title=It%E2%80%99s+Happening...+SUPERHUMAN+AI+Is+Almost+Here%21+%28Everything+Changes%29&lang=en&timestamp=1794527518&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
+          <img src="https://ytcards.demolab.com/?id=HPCayerH1Jw&title=It%E2%80%99s+Happening...+SUPERHUMAN+AI+Is+Almost+Here%21+%28Everything+Changes%29&lang=en&timestamp=1794527518&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="It’s Happening... SUPERHUMAN AI Is Almost Here! (Everything Changes)" title="It’s Happening... SUPERHUMAN AI Is Almost Here! (Everything Changes)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9Vl3DAgbWeU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NCghRPb0pH8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9Vl3DAgbWeU&title=How+to+Take+Back+the+Power+from+A.I.+CEOs+%7C+PTFO&lang=en&timestamp=1794477700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3095">
-          <img src="https://ytcards.demolab.com/?id=9Vl3DAgbWeU&title=How+to+Take+Back+the+Power+from+A.I.+CEOs+%7C+PTFO&lang=en&timestamp=1794477700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3095" alt="How to Take Back the Power from A.I. CEOs | PTFO" title="How to Take Back the Power from A.I. CEOs | PTFO">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794520318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
+          <img src="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794520318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Artificial intelligence summit at WMU" title="Artificial intelligence summit at WMU">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=XqJmpIbfQzo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XqJmpIbfQzo&title=%E2%80%98Quantum+is+going+to+be+the+next+big+thing+after+artificial+intelligence%E2%80%99%3A+CEO+of+Xanadu&lang=en&timestamp=1794595918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
+          <img src="https://ytcards.demolab.com/?id=XqJmpIbfQzo&title=%E2%80%98Quantum+is+going+to+be+the+next+big+thing+after+artificial+intelligence%E2%80%99%3A+CEO+of+Xanadu&lang=en&timestamp=1794595918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="‘Quantum is going to be the next big thing after artificial intelligence’: CEO of Xanadu" title="‘Quantum is going to be the next big thing after artificial intelligence’: CEO of Xanadu">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=Dt7Q_VQxGHc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794510100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1765">
-          <img src="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794510100&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1765" alt="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs." title="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794520318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1765">
+          <img src="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794520318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1765" alt="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs." title="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kfHsXbNyZBg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_D9xnwWpTKk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kfHsXbNyZBg&title=Michael+Kagan+-+CTO+of+NVIDIA+-+Explains+What+is+Physical+AI%2C+Digital+Twins+%26+AI+Factories&lang=en&timestamp=1794481300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1898">
-          <img src="https://ytcards.demolab.com/?id=kfHsXbNyZBg&title=Michael+Kagan+-+CTO+of+NVIDIA+-+Explains+What+is+Physical+AI%2C+Digital+Twins+%26+AI+Factories&lang=en&timestamp=1794481300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1898" alt="Michael Kagan - CTO of NVIDIA - Explains What is Physical AI, Digital Twins & AI Factories" title="Michael Kagan - CTO of NVIDIA - Explains What is Physical AI, Digital Twins & AI Factories">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RQEYOi2ukaY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RQEYOi2ukaY&title=Artificial+Intelligence+and+body+imaging+is+changing+wellness&lang=en&timestamp=1794506500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
-          <img src="https://ytcards.demolab.com/?id=RQEYOi2ukaY&title=Artificial+Intelligence+and+body+imaging+is+changing+wellness&lang=en&timestamp=1794506500&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Artificial Intelligence and body imaging is changing wellness" title="Artificial Intelligence and body imaging is changing wellness">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_D9xnwWpTKk&title=Artificial+Intelligence%2C+Quality+%26+the+Future+of+Software+Engineering&lang=en&timestamp=1794585118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=947">
+          <img src="https://ytcards.demolab.com/?id=_D9xnwWpTKk&title=Artificial+Intelligence%2C+Quality+%26+the+Future+of+Software+Engineering&lang=en&timestamp=1794585118&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=947" alt="Artificial Intelligence, Quality & the Future of Software Engineering" title="Artificial Intelligence, Quality & the Future of Software Engineering">
         </picture>
       </a>
     </td>
