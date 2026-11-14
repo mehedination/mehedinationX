@@ -673,56 +673,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=HAF50MLyERU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794665673&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
+          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794665673&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the Party over? AI's week from hell | BBC News" title="Is the Party over? AI's week from hell | BBC News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=m33o0n-Bc44" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m33o0n-Bc44&title=AI+Expert%27s+Jensen+Huang+Joke+While+Explaining+Artificial+Intelligence%3A+Stuart+Russell+At+HTLS+2026&lang=en&timestamp=1794644073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=420">
+          <img src="https://ytcards.demolab.com/?id=m33o0n-Bc44&title=AI+Expert%27s+Jensen+Huang+Joke+While+Explaining+Artificial+Intelligence%3A+Stuart+Russell+At+HTLS+2026&lang=en&timestamp=1794644073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=420" alt="AI Expert's Jensen Huang Joke While Explaining Artificial Intelligence: Stuart Russell At HTLS 2026" title="AI Expert's Jensen Huang Joke While Explaining Artificial Intelligence: Stuart Russell At HTLS 2026">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=CvLX2SaSxtQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794603577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
-          <img src="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794603577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="The race to control artificial intelligence | Ian Bremmer Explains" title="The race to control artificial intelligence | Ian Bremmer Explains">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-TXnjS09HI0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-TXnjS09HI0&title=What+Happens+to+AI+Without+Jensen+Huang%3F&lang=en&timestamp=1794589177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403">
-          <img src="https://ytcards.demolab.com/?id=-TXnjS09HI0&title=What+Happens+to+AI+Without+Jensen+Huang%3F&lang=en&timestamp=1794589177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=403" alt="What Happens to AI Without Jensen Huang?" title="What Happens to AI Without Jensen Huang?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aNvx7dT4p8o" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aNvx7dT4p8o&title=Local+AI+is+Overhyped+and+Tribalism+is+Ruining+It&lang=en&timestamp=1794581977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=553">
-          <img src="https://ytcards.demolab.com/?id=aNvx7dT4p8o&title=Local+AI+is+Overhyped+and+Tribalism+is+Ruining+It&lang=en&timestamp=1794581977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=553" alt="Local AI is Overhyped and Tribalism is Ruining It" title="Local AI is Overhyped and Tribalism is Ruining It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794604473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
+          <img src="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794604473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="The race to control artificial intelligence | Ian Bremmer Explains" title="The race to control artificial intelligence | Ian Bremmer Explains">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TDRL7LbIuS4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JY85W9WRSck" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TDRL7LbIuS4&title=Why+investors+fear+Jensen+Huang%27s+exit+could+unravel+AI+financing&lang=en&timestamp=1794563977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=153">
-          <img src="https://ytcards.demolab.com/?id=TDRL7LbIuS4&title=Why+investors+fear+Jensen+Huang%27s+exit+could+unravel+AI+financing&lang=en&timestamp=1794563977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=153" alt="Why investors fear Jensen Huang's exit could unravel AI financing" title="Why investors fear Jensen Huang's exit could unravel AI financing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JY85W9WRSck&title=Stephen+Wolfram+Just+Revealed+That+AI+Might+Have+%22FEELINGS%22%2C+and+Could+Experience+Pain&lang=en&timestamp=1794604473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8356">
+          <img src="https://ytcards.demolab.com/?id=JY85W9WRSck&title=Stephen+Wolfram+Just+Revealed+That+AI+Might+Have+%22FEELINGS%22%2C+and+Could+Experience+Pain&lang=en&timestamp=1794604473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8356" alt="Stephen Wolfram Just Revealed That AI Might Have &quot;FEELINGS&quot;, and Could Experience Pain" title="Stephen Wolfram Just Revealed That AI Might Have &quot;FEELINGS&quot;, and Could Experience Pain">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iTmjGvyElms" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PYpzQk7cH_Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iTmjGvyElms&title=ICAI+Global+Webinar+on+Microsoft+365+Copilot&lang=en&timestamp=1794567577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8569">
-          <img src="https://ytcards.demolab.com/?id=iTmjGvyElms&title=ICAI+Global+Webinar+on+Microsoft+365+Copilot&lang=en&timestamp=1794567577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8569" alt="ICAI Global Webinar on Microsoft 365 Copilot" title="ICAI Global Webinar on Microsoft 365 Copilot">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PYpzQk7cH_Q&title=AI+startup+says+nationwide+ground+stop+was+not+caused+by+its+software&lang=en&timestamp=1794615273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=361">
+          <img src="https://ytcards.demolab.com/?id=PYpzQk7cH_Q&title=AI+startup+says+nationwide+ground+stop+was+not+caused+by+its+software&lang=en&timestamp=1794615273&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=361" alt="AI startup says nationwide ground stop was not caused by its software" title="AI startup says nationwide ground stop was not caused by its software">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pxbHidG7suE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-TXnjS09HI0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pxbHidG7suE&title=Looking+for+a+new+job%3F+Artificial+intelligence+impact&lang=en&timestamp=1794635977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=122">
-          <img src="https://ytcards.demolab.com/?id=pxbHidG7suE&title=Looking+for+a+new+job%3F+Artificial+intelligence+impact&lang=en&timestamp=1794635977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=122" alt="Looking for a new job? Artificial intelligence impact" title="Looking for a new job? Artificial intelligence impact">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-TXnjS09HI0&title=What+Happens+to+AI+Without+Jensen+Huang%3F&lang=en&timestamp=1794604473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403">
+          <img src="https://ytcards.demolab.com/?id=-TXnjS09HI0&title=What+Happens+to+AI+Without+Jensen+Huang%3F&lang=en&timestamp=1794604473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=403" alt="What Happens to AI Without Jensen Huang?" title="What Happens to AI Without Jensen Huang?">
         </picture>
       </a>
     </td>
