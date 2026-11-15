@@ -675,56 +675,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=HAF50MLyERU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+AI+party+over+after+a+week+from+hell%3F+%7C+BBC+News&lang=en&timestamp=1794667173&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
-          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+AI+party+over+after+a+week+from+hell%3F+%7C+BBC+News&lang=en&timestamp=1794667173&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the AI party over after a week from hell? | BBC News" title="Is the AI party over after a week from hell? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794675207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
+          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794675207&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the Party over? AI's week from hell | BBC News" title="Is the Party over? AI's week from hell | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Yg8GNp1Qmfk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794681573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
-          <img src="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794681573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Elon Musk Says Humans Won’t Control AI – Here’s Why!" title="Elon Musk Says Humans Won’t Control AI – Here’s Why!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794682407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
+          <img src="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794682407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Elon Musk Says Humans Won’t Control AI – Here’s Why!" title="Elon Musk Says Humans Won’t Control AI – Here’s Why!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EF-nBNW6y5c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7OsG4F9RU6Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EF-nBNW6y5c&title=Professor+Jiang%3A+They+WANT+the+AI+Crash+%7C+On+Altman%2C+Zuckerberg%2C+%26+Silicon+Valley&lang=en&timestamp=1794667173&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7086">
-          <img src="https://ytcards.demolab.com/?id=EF-nBNW6y5c&title=Professor+Jiang%3A+They+WANT+the+AI+Crash+%7C+On+Altman%2C+Zuckerberg%2C+%26+Silicon+Valley&lang=en&timestamp=1794667173&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7086" alt="Professor Jiang: They WANT the AI Crash | On Altman, Zuckerberg, & Silicon Valley" title="Professor Jiang: They WANT the AI Crash | On Altman, Zuckerberg, & Silicon Valley">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7OsG4F9RU6Q&title=The+AI+Job+Crisis+Is+Already+Here%2C+Are+You+Ready%3F&lang=en&timestamp=1794700407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=526">
+          <img src="https://ytcards.demolab.com/?id=7OsG4F9RU6Q&title=The+AI+Job+Crisis+Is+Already+Here%2C+Are+You+Ready%3F&lang=en&timestamp=1794700407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=526" alt="The AI Job Crisis Is Already Here, Are You Ready?" title="The AI Job Crisis Is Already Here, Are You Ready?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7GNpNPxJIvU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Y4cGOKbQLYw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7GNpNPxJIvU&title=GPT-7+Is+Launching+Into+a+World+OpenAI+Can%E2%80%99t+Control&lang=en&timestamp=1794663573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1078">
-          <img src="https://ytcards.demolab.com/?id=7GNpNPxJIvU&title=GPT-7+Is+Launching+Into+a+World+OpenAI+Can%E2%80%99t+Control&lang=en&timestamp=1794663573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1078" alt="GPT-7 Is Launching Into a World OpenAI Can’t Control" title="GPT-7 Is Launching Into a World OpenAI Can’t Control">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794682407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794682407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Finally Decoded Whale Language — The First Message Shocked Scientists" title="AI Finally Decoded Whale Language — The First Message Shocked Scientists">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4_OSm3o42yo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gkf53CJ6UTc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4_OSm3o42yo&title=Computer+Networking+for+AI+Introduction&lang=en&timestamp=1794685173&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8599">
-          <img src="https://ytcards.demolab.com/?id=4_OSm3o42yo&title=Computer+Networking+for+AI+Introduction&lang=en&timestamp=1794685173&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8599" alt="Computer Networking for AI Introduction" title="Computer Networking for AI Introduction">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gkf53CJ6UTc&title=Apple%27s+New+AI+Chip+Could+Kill+Data+Centers&lang=en&timestamp=1794675207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1335">
+          <img src="https://ytcards.demolab.com/?id=gkf53CJ6UTc&title=Apple%27s+New+AI+Chip+Could+Kill+Data+Centers&lang=en&timestamp=1794675207&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1335" alt="Apple's New AI Chip Could Kill Data Centers" title="Apple's New AI Chip Could Kill Data Centers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=K265zZXd418" target="_blank">
+      <a href="https://www.youtube.com/watch?v=c2fh_B89N18" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K265zZXd418&title=Nvidia+CEO+Jensen+Huang+resigns+amid+scandal%3A+What%27s+next+for+AI%3F&lang=en&timestamp=1794667173&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425">
-          <img src="https://ytcards.demolab.com/?id=K265zZXd418&title=Nvidia+CEO+Jensen+Huang+resigns+amid+scandal%3A+What%27s+next+for+AI%3F&lang=en&timestamp=1794667173&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=425" alt="Nvidia CEO Jensen Huang resigns amid scandal: What's next for AI?" title="Nvidia CEO Jensen Huang resigns amid scandal: What's next for AI?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c2fh_B89N18&title=%22AI+safety%22+won%27t+save+us&lang=en&timestamp=1794675207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1183">
+          <img src="https://ytcards.demolab.com/?id=c2fh_B89N18&title=%22AI+safety%22+won%27t+save+us&lang=en&timestamp=1794675207&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1183" alt="&quot;AI safety&quot; won't save us" title="&quot;AI safety&quot; won't save us">
         </picture>
       </a>
     </td>
