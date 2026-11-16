@@ -677,56 +677,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HAF50MLyERU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794692125&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
-          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+Party+over%3F+AI%27s+week+from+hell+%7C+BBC+News&lang=en&timestamp=1794692125&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the Party over? AI's week from hell | BBC News" title="Is the Party over? AI's week from hell | BBC News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=IWYaqPYmf0g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IWYaqPYmf0g&title=The+Nvidia+scandal+is+bad+news+for+Europe+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794753325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=367">
-          <img src="https://ytcards.demolab.com/?id=IWYaqPYmf0g&title=The+Nvidia+scandal+is+bad+news+for+Europe+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794753325&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=367" alt="The Nvidia scandal is bad news for Europe • FRANCE 24 English" title="The Nvidia scandal is bad news for Europe • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IWYaqPYmf0g&title=The+Nvidia+scandal+is+bad+news+for+Europe+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794753784&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=367">
+          <img src="https://ytcards.demolab.com/?id=IWYaqPYmf0g&title=The+Nvidia+scandal+is+bad+news+for+Europe+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794753784&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=367" alt="The Nvidia scandal is bad news for Europe • FRANCE 24 English" title="The Nvidia scandal is bad news for Europe • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Yg8GNp1Qmfk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=K6ffYKrlPdU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794692125&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
-          <img src="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794692125&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Elon Musk Says Humans Won’t Control AI – Here’s Why!" title="Elon Musk Says Humans Won’t Control AI – Here’s Why!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K6ffYKrlPdU&title=AI+Model+Debugging%3A+Find+the+First+Divergence+Across+AI+Accelerators&lang=en&timestamp=1794746584&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=870">
+          <img src="https://ytcards.demolab.com/?id=K6ffYKrlPdU&title=AI+Model+Debugging%3A+Find+the+First+Divergence+Across+AI+Accelerators&lang=en&timestamp=1794746584&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=870" alt="AI Model Debugging: Find the First Divergence Across AI Accelerators" title="AI Model Debugging: Find the First Divergence Across AI Accelerators">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=JwQm59qsWkM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JwQm59qsWkM&title=%F0%9F%9A%A8+LIVE%3A+The+Jensen+Huang+Nvidia+Story+is+Crazier+Than+You+Think&lang=en&timestamp=1794757384&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3864">
+          <img src="https://ytcards.demolab.com/?id=JwQm59qsWkM&title=%F0%9F%9A%A8+LIVE%3A+The+Jensen+Huang+Nvidia+Story+is+Crazier+Than+You+Think&lang=en&timestamp=1794757384&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3864" alt="🚨 LIVE: The Jensen Huang Nvidia Story is Crazier Than You Think" title="🚨 LIVE: The Jensen Huang Nvidia Story is Crazier Than You Think">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y4cGOKbQLYw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xebHV54vHZs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794692125&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794692125&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Finally Decoded Whale Language — The First Message Shocked Scientists" title="AI Finally Decoded Whale Language — The First Message Shocked Scientists">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xebHV54vHZs&title=Nvidia+CEO+Jensen+Huang+Resigns%3A+Did+China+Just+Win+the+AI+War%3F&lang=en&timestamp=1794757384&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=905">
+          <img src="https://ytcards.demolab.com/?id=xebHV54vHZs&title=Nvidia+CEO+Jensen+Huang+Resigns%3A+Did+China+Just+Win+the+AI+War%3F&lang=en&timestamp=1794757384&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=905" alt="Nvidia CEO Jensen Huang Resigns: Did China Just Win the AI War?" title="Nvidia CEO Jensen Huang Resigns: Did China Just Win the AI War?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-oNkL3sk68c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=K6zOgEf0I6M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-oNkL3sk68c&title=Google%27s+Gemini+4+KRYPTON+Is+INSANE&lang=en&timestamp=1794728125&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=869">
-          <img src="https://ytcards.demolab.com/?id=-oNkL3sk68c&title=Google%27s+Gemini+4+KRYPTON+Is+INSANE&lang=en&timestamp=1794728125&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=869" alt="Google's Gemini 4 KRYPTON Is INSANE" title="Google's Gemini 4 KRYPTON Is INSANE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K6zOgEf0I6M&title=A+Fatal+Blow+to+China+as+Jensen+Huang+Exits%21+%24167B+Wiped+Out%2C+Its+AI+Chip+Lifeline+Really+Severed&lang=en&timestamp=1794750184&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1113">
+          <img src="https://ytcards.demolab.com/?id=K6zOgEf0I6M&title=A+Fatal+Blow+to+China+as+Jensen+Huang+Exits%21+%24167B+Wiped+Out%2C+Its+AI+Chip+Lifeline+Really+Severed&lang=en&timestamp=1794750184&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1113" alt="A Fatal Blow to China as Jensen Huang Exits! $167B Wiped Out, Its AI Chip Lifeline Really Severed" title="A Fatal Blow to China as Jensen Huang Exits! $167B Wiped Out, Its AI Chip Lifeline Really Severed">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7GNpNPxJIvU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=L5q2Gg-8too" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7GNpNPxJIvU&title=GPT-7+Is+Launching+Into+a+World+OpenAI+Can%E2%80%99t+Control&lang=en&timestamp=1794692125&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1078">
-          <img src="https://ytcards.demolab.com/?id=7GNpNPxJIvU&title=GPT-7+Is+Launching+Into+a+World+OpenAI+Can%E2%80%99t+Control&lang=en&timestamp=1794692125&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1078" alt="GPT-7 Is Launching Into a World OpenAI Can’t Control" title="GPT-7 Is Launching Into a World OpenAI Can’t Control">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L5q2Gg-8too&title=Humanoid+Robot+With+Living+Human+Brain+Is+Walking+Around+San+Francisco.&lang=en&timestamp=1794739384&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=433">
+          <img src="https://ytcards.demolab.com/?id=L5q2Gg-8too&title=Humanoid+Robot+With+Living+Human+Brain+Is+Walking+Around+San+Francisco.&lang=en&timestamp=1794739384&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=433" alt="Humanoid Robot With Living Human Brain Is Walking Around San Francisco." title="Humanoid Robot With Living Human Brain Is Walking Around San Francisco.">
         </picture>
       </a>
     </td>
