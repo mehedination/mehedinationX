@@ -680,56 +680,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0MvcuIrects" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f1Kjkbbf6HI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794919891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=806">
-          <img src="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794919891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=806" alt="Is AI Really Superintelligence? ANI, AGI & ASI Explained" title="Is AI Really Superintelligence? ANI, AGI & ASI Explained">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f1Kjkbbf6HI&title=Recursive+Self+Improvement+is+Closer+Than+You+Think+-+AI+Update%2C+Nov.+18%2C+2026&lang=en&timestamp=1794975299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3823">
+          <img src="https://ytcards.demolab.com/?id=f1Kjkbbf6HI&title=Recursive+Self+Improvement+is+Closer+Than+You+Think+-+AI+Update%2C+Nov.+18%2C+2026&lang=en&timestamp=1794975299&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3823" alt="Recursive Self Improvement is Closer Than You Think - AI Update, Nov. 18, 2026" title="Recursive Self Improvement is Closer Than You Think - AI Update, Nov. 18, 2026">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=FhVbxweMaWM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FhVbxweMaWM&title=Why+is+Anthropic%27s+Business+Model+So...+Strange%3F&lang=en&timestamp=1794950099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1764">
+          <img src="https://ytcards.demolab.com/?id=FhVbxweMaWM&title=Why+is+Anthropic%27s+Business+Model+So...+Strange%3F&lang=en&timestamp=1794950099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1764" alt="Why is Anthropic's Business Model So... Strange?" title="Why is Anthropic's Business Model So... Strange?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=eIoWgBIyyg4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794963091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1481">
-          <img src="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794963091&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1481" alt="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk" title="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HcGYgOvLXV8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HcGYgOvLXV8&title=Can+AI+really+think%3F+The+history+of+machine+intelligence+%7C+BBC+News&lang=en&timestamp=1794941491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1555">
-          <img src="https://ytcards.demolab.com/?id=HcGYgOvLXV8&title=Can+AI+really+think%3F+The+history+of+machine+intelligence+%7C+BBC+News&lang=en&timestamp=1794941491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1555" alt="Can AI really think? The history of machine intelligence | BBC News" title="Can AI really think? The history of machine intelligence | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794960899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1481">
+          <img src="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794960899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1481" alt="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk" title="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-Pmst8bkRaE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=znTnMErhNFk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox+on+How+AI+Could+Take+Over+the+World+%28and+Where+It%27s+Already+Happening%29&lang=en&timestamp=1794937891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1318">
-          <img src="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox+on+How+AI+Could+Take+Over+the+World+%28and+Where+It%27s+Already+Happening%29&lang=en&timestamp=1794937891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1318" alt="John Lennox on How AI Could Take Over the World (and Where It's Already Happening)" title="John Lennox on How AI Could Take Over the World (and Where It's Already Happening)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=znTnMErhNFk&title=CHINA%E2%80%99S+INSANE+New+AI+Supercomputer+Just+Made+Nvidia%E2%80%99s+Blackwell+Look+Outdated&lang=en&timestamp=1794971699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1367">
+          <img src="https://ytcards.demolab.com/?id=znTnMErhNFk&title=CHINA%E2%80%99S+INSANE+New+AI+Supercomputer+Just+Made+Nvidia%E2%80%99s+Blackwell+Look+Outdated&lang=en&timestamp=1794971699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1367" alt="CHINA’S INSANE New AI Supercomputer Just Made Nvidia’s Blackwell Look Outdated" title="CHINA’S INSANE New AI Supercomputer Just Made Nvidia’s Blackwell Look Outdated">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aRJWhIgSFRo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ivSYwurykmc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aRJWhIgSFRo&title=Can+Nvidia+and+AI+survive+without+the+man+who+built+it%3F+%7C+BBC+News&lang=en&timestamp=1794955891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=999">
-          <img src="https://ytcards.demolab.com/?id=aRJWhIgSFRo&title=Can+Nvidia+and+AI+survive+without+the+man+who+built+it%3F+%7C+BBC+News&lang=en&timestamp=1794955891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=999" alt="Can Nvidia and AI survive without the man who built it? | BBC News" title="Can Nvidia and AI survive without the man who built it? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ivSYwurykmc&title=AiSHA+AI+Warns+Us+To+Learn+AI+Or+Prepare+For+Possible+Job+Loss&lang=en&timestamp=1794950099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1077">
+          <img src="https://ytcards.demolab.com/?id=ivSYwurykmc&title=AiSHA+AI+Warns+Us+To+Learn+AI+Or+Prepare+For+Possible+Job+Loss&lang=en&timestamp=1794950099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1077" alt="AiSHA AI Warns Us To Learn AI Or Prepare For Possible Job Loss" title="AiSHA AI Warns Us To Learn AI Or Prepare For Possible Job Loss">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xyQfFSTTjA0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Bks3gVLnlNw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xyQfFSTTjA0&title=AI+Hackers+Are+Coming+for+EVERYTHING&lang=en&timestamp=1794934291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=997">
-          <img src="https://ytcards.demolab.com/?id=xyQfFSTTjA0&title=AI+Hackers+Are+Coming+for+EVERYTHING&lang=en&timestamp=1794934291&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=997" alt="AI Hackers Are Coming for EVERYTHING" title="AI Hackers Are Coming for EVERYTHING">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Bks3gVLnlNw&title=talking+to+%403blue1brown+about+quaternions+%26+animation&lang=en&timestamp=1794950099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7650">
+          <img src="https://ytcards.demolab.com/?id=Bks3gVLnlNw&title=talking+to+%403blue1brown+about+quaternions+%26+animation&lang=en&timestamp=1794950099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7650" alt="talking to @3blue1brown about quaternions & animation" title="talking to @3blue1brown about quaternions & animation">
         </picture>
       </a>
     </td>
