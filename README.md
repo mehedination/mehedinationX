@@ -681,56 +681,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=f1Kjkbbf6HI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KRjEufK81Ic" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f1Kjkbbf6HI&title=Recursive+Self+Improvement+is+Closer+Than+You+Think+-+AI+Update%2C+Nov.+18%2C+2026&lang=en&timestamp=1794975299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3823">
-          <img src="https://ytcards.demolab.com/?id=f1Kjkbbf6HI&title=Recursive+Self+Improvement+is+Closer+Than+You+Think+-+AI+Update%2C+Nov.+18%2C+2026&lang=en&timestamp=1794975299&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3823" alt="Recursive Self Improvement is Closer Than You Think - AI Update, Nov. 18, 2026" title="Recursive Self Improvement is Closer Than You Think - AI Update, Nov. 18, 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KRjEufK81Ic&title=OpenAI+CEO+Sam+Altman%3A+It%27s+hard+to+imagine+the+AI+industry+without+Jensen+Huang&lang=en&timestamp=1795017795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
+          <img src="https://ytcards.demolab.com/?id=KRjEufK81Ic&title=OpenAI+CEO+Sam+Altman%3A+It%27s+hard+to+imagine+the+AI+industry+without+Jensen+Huang&lang=en&timestamp=1795017795&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang" title="OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FhVbxweMaWM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1oIzVB5Ues4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FhVbxweMaWM&title=Why+is+Anthropic%27s+Business+Model+So...+Strange%3F&lang=en&timestamp=1794950099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1764">
-          <img src="https://ytcards.demolab.com/?id=FhVbxweMaWM&title=Why+is+Anthropic%27s+Business+Model+So...+Strange%3F&lang=en&timestamp=1794950099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1764" alt="Why is Anthropic's Business Model So... Strange?" title="Why is Anthropic's Business Model So... Strange?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1oIzVB5Ues4&title=OpenAI%E2%80%99s+New+AI+Just+Crossed+the+Self-Improvement+Threshold%E2%80%A6&lang=en&timestamp=1795017795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=562">
+          <img src="https://ytcards.demolab.com/?id=1oIzVB5Ues4&title=OpenAI%E2%80%99s+New+AI+Just+Crossed+the+Self-Improvement+Threshold%E2%80%A6&lang=en&timestamp=1795017795&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=562" alt="OpenAI’s New AI Just Crossed the Self-Improvement Threshold…" title="OpenAI’s New AI Just Crossed the Self-Improvement Threshold…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eIoWgBIyyg4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ufeJbTNq-BI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794960899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1481">
-          <img src="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794960899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1481" alt="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk" title="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ufeJbTNq-BI&title=Artificial+-+Official+Trailer+-+In+Select+Theaters+Christmas+Day%2C+Everywhere+January+8&lang=en&timestamp=1795021395&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
+          <img src="https://ytcards.demolab.com/?id=ufeJbTNq-BI&title=Artificial+-+Official+Trailer+-+In+Select+Theaters+Christmas+Day%2C+Everywhere+January+8&lang=en&timestamp=1795021395&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8" title="Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=znTnMErhNFk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qwMffFmHn6s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=znTnMErhNFk&title=CHINA%E2%80%99S+INSANE+New+AI+Supercomputer+Just+Made+Nvidia%E2%80%99s+Blackwell+Look+Outdated&lang=en&timestamp=1794971699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1367">
-          <img src="https://ytcards.demolab.com/?id=znTnMErhNFk&title=CHINA%E2%80%99S+INSANE+New+AI+Supercomputer+Just+Made+Nvidia%E2%80%99s+Blackwell+Look+Outdated&lang=en&timestamp=1794971699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1367" alt="CHINA’S INSANE New AI Supercomputer Just Made Nvidia’s Blackwell Look Outdated" title="CHINA’S INSANE New AI Supercomputer Just Made Nvidia’s Blackwell Look Outdated">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qwMffFmHn6s&title=Does+Nvidia+scandal+upend+US-China+AI+race%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795032195&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2524">
+          <img src="https://ytcards.demolab.com/?id=qwMffFmHn6s&title=Does+Nvidia+scandal+upend+US-China+AI+race%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795032195&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2524" alt="Does Nvidia scandal upend US-China AI race? • FRANCE 24 English" title="Does Nvidia scandal upend US-China AI race? • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ivSYwurykmc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SO4t-jxcMlQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ivSYwurykmc&title=AiSHA+AI+Warns+Us+To+Learn+AI+Or+Prepare+For+Possible+Job+Loss&lang=en&timestamp=1794950099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1077">
-          <img src="https://ytcards.demolab.com/?id=ivSYwurykmc&title=AiSHA+AI+Warns+Us+To+Learn+AI+Or+Prepare+For+Possible+Job+Loss&lang=en&timestamp=1794950099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1077" alt="AiSHA AI Warns Us To Learn AI Or Prepare For Possible Job Loss" title="AiSHA AI Warns Us To Learn AI Or Prepare For Possible Job Loss">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SO4t-jxcMlQ&title=Artificial+-+Official+Trailer&lang=en&timestamp=1795028595&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
+          <img src="https://ytcards.demolab.com/?id=SO4t-jxcMlQ&title=Artificial+-+Official+Trailer&lang=en&timestamp=1795028595&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Artificial - Official Trailer" title="Artificial - Official Trailer">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Bks3gVLnlNw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nbscGy5jcc0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Bks3gVLnlNw&title=talking+to+%403blue1brown+about+quaternions+%26+animation&lang=en&timestamp=1794950099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7650">
-          <img src="https://ytcards.demolab.com/?id=Bks3gVLnlNw&title=talking+to+%403blue1brown+about+quaternions+%26+animation&lang=en&timestamp=1794950099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7650" alt="talking to @3blue1brown about quaternions & animation" title="talking to @3blue1brown about quaternions & animation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nbscGy5jcc0&title=Andrew+Yang+Reacts+to+His+Viral+Debates+on+Artificial+Intelligence+%7C+Surrounded+Follow-Up&lang=en&timestamp=1795021395&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1911">
+          <img src="https://ytcards.demolab.com/?id=nbscGy5jcc0&title=Andrew+Yang+Reacts+to+His+Viral+Debates+on+Artificial+Intelligence+%7C+Surrounded+Follow-Up&lang=en&timestamp=1795021395&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1911" alt="Andrew Yang Reacts to His Viral Debates on Artificial Intelligence | Surrounded Follow-Up" title="Andrew Yang Reacts to His Viral Debates on Artificial Intelligence | Surrounded Follow-Up">
         </picture>
       </a>
     </td>
