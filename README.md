@@ -682,56 +682,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KRjEufK81Ic" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rE-sazAVQVU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KRjEufK81Ic&title=OpenAI+CEO+Sam+Altman%3A+It%27s+hard+to+imagine+the+AI+industry+without+Jensen+Huang&lang=en&timestamp=1795017795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
-          <img src="https://ytcards.demolab.com/?id=KRjEufK81Ic&title=OpenAI+CEO+Sam+Altman%3A+It%27s+hard+to+imagine+the+AI+industry+without+Jensen+Huang&lang=en&timestamp=1795017795&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang" title="OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rE-sazAVQVU&title=Why+AI+engineers+are+scared+of+self-building+artificial+intelligence+%7C+The+Economist&lang=en&timestamp=1795110900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601">
+          <img src="https://ytcards.demolab.com/?id=rE-sazAVQVU&title=Why+AI+engineers+are+scared+of+self-building+artificial+intelligence+%7C+The+Economist&lang=en&timestamp=1795110900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=601" alt="Why AI engineers are scared of self-building artificial intelligence | The Economist" title="Why AI engineers are scared of self-building artificial intelligence | The Economist">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1oIzVB5Ues4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AaCCIvRtJ5o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1oIzVB5Ues4&title=OpenAI%E2%80%99s+New+AI+Just+Crossed+the+Self-Improvement+Threshold%E2%80%A6&lang=en&timestamp=1795017795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=562">
-          <img src="https://ytcards.demolab.com/?id=1oIzVB5Ues4&title=OpenAI%E2%80%99s+New+AI+Just+Crossed+the+Self-Improvement+Threshold%E2%80%A6&lang=en&timestamp=1795017795&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=562" alt="OpenAI’s New AI Just Crossed the Self-Improvement Threshold…" title="OpenAI’s New AI Just Crossed the Self-Improvement Threshold…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AaCCIvRtJ5o&title=A+Global+Crisis%2C+Artificial+Intelligence%2C+and+a+Warning+We+Shouldn%27t+Ignore...+%7C+The+Truth+11-19-26&lang=en&timestamp=1795139700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=880">
+          <img src="https://ytcards.demolab.com/?id=AaCCIvRtJ5o&title=A+Global+Crisis%2C+Artificial+Intelligence%2C+and+a+Warning+We+Shouldn%27t+Ignore...+%7C+The+Truth+11-19-26&lang=en&timestamp=1795139700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=880" alt="A Global Crisis, Artificial Intelligence, and a Warning We Shouldn't Ignore... | The Truth 11-19-26" title="A Global Crisis, Artificial Intelligence, and a Warning We Shouldn't Ignore... | The Truth 11-19-26">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ufeJbTNq-BI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1uT1lAbgaWo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ufeJbTNq-BI&title=Artificial+-+Official+Trailer+-+In+Select+Theaters+Christmas+Day%2C+Everywhere+January+8&lang=en&timestamp=1795021395&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
-          <img src="https://ytcards.demolab.com/?id=ufeJbTNq-BI&title=Artificial+-+Official+Trailer+-+In+Select+Theaters+Christmas+Day%2C+Everywhere+January+8&lang=en&timestamp=1795021395&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8" title="Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1uT1lAbgaWo&title=Ex-VP+Al+Gore+on+Putin%2C+AI%2C+climate+change+%26+more&lang=en&timestamp=1795121700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1027">
+          <img src="https://ytcards.demolab.com/?id=1uT1lAbgaWo&title=Ex-VP+Al+Gore+on+Putin%2C+AI%2C+climate+change+%26+more&lang=en&timestamp=1795121700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1027" alt="Ex-VP Al Gore on Putin, AI, climate change & more" title="Ex-VP Al Gore on Putin, AI, climate change & more">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qwMffFmHn6s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mzNbUQPLIkk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qwMffFmHn6s&title=Does+Nvidia+scandal+upend+US-China+AI+race%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795032195&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2524">
-          <img src="https://ytcards.demolab.com/?id=qwMffFmHn6s&title=Does+Nvidia+scandal+upend+US-China+AI+race%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795032195&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2524" alt="Does Nvidia scandal upend US-China AI race? • FRANCE 24 English" title="Does Nvidia scandal upend US-China AI race? • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mzNbUQPLIkk&title=%27This+Technology+Has+Risks%27%3A+Anthropic+CEO%27s+Stark+AI+Warning+Before+Historic+Nasdaq+IPO+Debut&lang=en&timestamp=1795103700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146">
+          <img src="https://ytcards.demolab.com/?id=mzNbUQPLIkk&title=%27This+Technology+Has+Risks%27%3A+Anthropic+CEO%27s+Stark+AI+Warning+Before+Historic+Nasdaq+IPO+Debut&lang=en&timestamp=1795103700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=146" alt="'This Technology Has Risks': Anthropic CEO's Stark AI Warning Before Historic Nasdaq IPO Debut" title="'This Technology Has Risks': Anthropic CEO's Stark AI Warning Before Historic Nasdaq IPO Debut">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SO4t-jxcMlQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Bmby0X7cBa8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SO4t-jxcMlQ&title=Artificial+-+Official+Trailer&lang=en&timestamp=1795028595&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
-          <img src="https://ytcards.demolab.com/?id=SO4t-jxcMlQ&title=Artificial+-+Official+Trailer&lang=en&timestamp=1795028595&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Artificial - Official Trailer" title="Artificial - Official Trailer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Bmby0X7cBa8&title=How+to+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+Artificial+Intelligence&lang=en&timestamp=1795110900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2044">
+          <img src="https://ytcards.demolab.com/?id=Bmby0X7cBa8&title=How+to+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+Artificial+Intelligence&lang=en&timestamp=1795110900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2044" alt="How to ████ ██ Artificial Intelligence" title="How to ████ ██ Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nbscGy5jcc0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4LINhsEZEDI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nbscGy5jcc0&title=Andrew+Yang+Reacts+to+His+Viral+Debates+on+Artificial+Intelligence+%7C+Surrounded+Follow-Up&lang=en&timestamp=1795021395&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1911">
-          <img src="https://ytcards.demolab.com/?id=nbscGy5jcc0&title=Andrew+Yang+Reacts+to+His+Viral+Debates+on+Artificial+Intelligence+%7C+Surrounded+Follow-Up&lang=en&timestamp=1795021395&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1911" alt="Andrew Yang Reacts to His Viral Debates on Artificial Intelligence | Surrounded Follow-Up" title="Andrew Yang Reacts to His Viral Debates on Artificial Intelligence | Surrounded Follow-Up">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4LINhsEZEDI&title=4+Types+of+AI+Agent+Loops%3A+From+Human-Led+to+Autonomous&lang=en&timestamp=1795092900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=548">
+          <img src="https://ytcards.demolab.com/?id=4LINhsEZEDI&title=4+Types+of+AI+Agent+Loops%3A+From+Human-Led+to+Autonomous&lang=en&timestamp=1795092900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=548" alt="4 Types of AI Agent Loops: From Human-Led to Autonomous" title="4 Types of AI Agent Loops: From Human-Led to Autonomous">
         </picture>
       </a>
     </td>
