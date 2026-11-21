@@ -685,56 +685,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s0ZfyXYp3Ns" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XXcWhCEiDeQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s0ZfyXYp3Ns&title=OpenAI+Just+Revealed+How+Far+AI+Self-Improvement+Has+Gone%E2%80%A6&lang=en&timestamp=1795191323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
-          <img src="https://ytcards.demolab.com/?id=s0ZfyXYp3Ns&title=OpenAI+Just+Revealed+How+Far+AI+Self-Improvement+Has+Gone%E2%80%A6&lang=en&timestamp=1795191323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="OpenAI Just Revealed How Far AI Self-Improvement Has Gone…" title="OpenAI Just Revealed How Far AI Self-Improvement Has Gone…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXcWhCEiDeQ&title=Gen+AI+Is+Getting+Impossible+To+Tell%E2%80%A6&lang=en&timestamp=1795199307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1165">
+          <img src="https://ytcards.demolab.com/?id=XXcWhCEiDeQ&title=Gen+AI+Is+Getting+Impossible+To+Tell%E2%80%A6&lang=en&timestamp=1795199307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1165" alt="Gen AI Is Getting Impossible To Tell…" title="Gen AI Is Getting Impossible To Tell…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lYKW0c-zNQk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=miaREoBO7Oc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lYKW0c-zNQk&title=Aussie+musicians+unite+against+AI+on+the+2026+ARIA+Awards+red+carpet+%7C+9+News+Australia&lang=en&timestamp=1795162523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=619">
-          <img src="https://ytcards.demolab.com/?id=lYKW0c-zNQk&title=Aussie+musicians+unite+against+AI+on+the+2026+ARIA+Awards+red+carpet+%7C+9+News+Australia&lang=en&timestamp=1795162523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=619" alt="Aussie musicians unite against AI on the 2026 ARIA Awards red carpet | 9 News Australia" title="Aussie musicians unite against AI on the 2026 ARIA Awards red carpet | 9 News Australia">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=miaREoBO7Oc&title=What+Anthropic%27s+record+IPO+reveals+about+the+AI+bubble+%7C+DW+News&lang=en&timestamp=1795217307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1191">
+          <img src="https://ytcards.demolab.com/?id=miaREoBO7Oc&title=What+Anthropic%27s+record+IPO+reveals+about+the+AI+bubble+%7C+DW+News&lang=en&timestamp=1795217307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1191" alt="What Anthropic's record IPO reveals about the AI bubble | DW News" title="What Anthropic's record IPO reveals about the AI bubble | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NXW-vPOc3SM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=weoadodturI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795184123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4672">
-          <img src="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795184123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4672" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=weoadodturI&title=Australia+and+China+agree+to+annual+AI+talks+%7C+9+News+Australia&lang=en&timestamp=1795213707&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=76">
+          <img src="https://ytcards.demolab.com/?id=weoadodturI&title=Australia+and+China+agree+to+annual+AI+talks+%7C+9+News+Australia&lang=en&timestamp=1795213707&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=76" alt="Australia and China agree to annual AI talks | 9 News Australia" title="Australia and China agree to annual AI talks | 9 News Australia">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rfKwIZMZeTk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NXW-vPOc3SM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rfKwIZMZeTk&title=ARTIFICIAL+Official+Trailer+%282027%29+Andrew+Garfield%2C+New+Sci-Fi+Movies+4K&lang=en&timestamp=1795194923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
-          <img src="https://ytcards.demolab.com/?id=rfKwIZMZeTk&title=ARTIFICIAL+Official+Trailer+%282027%29+Andrew+Garfield%2C+New+Sci-Fi+Movies+4K&lang=en&timestamp=1795194923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="ARTIFICIAL Official Trailer (2027) Andrew Garfield, New Sci-Fi Movies 4K" title="ARTIFICIAL Official Trailer (2027) Andrew Garfield, New Sci-Fi Movies 4K">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795184907&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4672">
+          <img src="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795184907&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4672" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y6npte_lEKU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s0ZfyXYp3Ns" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y6npte_lEKU&title=Anthropic+goes+public%2C+ChatGPT+gets+a+wallet+%26+AI+designs+new+drugs&lang=en&timestamp=1795169723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1673">
-          <img src="https://ytcards.demolab.com/?id=Y6npte_lEKU&title=Anthropic+goes+public%2C+ChatGPT+gets+a+wallet+%26+AI+designs+new+drugs&lang=en&timestamp=1795169723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1673" alt="Anthropic goes public, ChatGPT gets a wallet & AI designs new drugs" title="Anthropic goes public, ChatGPT gets a wallet & AI designs new drugs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s0ZfyXYp3Ns&title=OpenAI+Just+Revealed+How+Far+AI+Self-Improvement+Has+Gone%E2%80%A6&lang=en&timestamp=1795188507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
+          <img src="https://ytcards.demolab.com/?id=s0ZfyXYp3Ns&title=OpenAI+Just+Revealed+How+Far+AI+Self-Improvement+Has+Gone%E2%80%A6&lang=en&timestamp=1795188507&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="OpenAI Just Revealed How Far AI Self-Improvement Has Gone…" title="OpenAI Just Revealed How Far AI Self-Improvement Has Gone…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8oTldawPUeY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6y8Ew6_ymRk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8oTldawPUeY&title=7+Highest+Paying+AI+Jobs+to+Target+in+2027&lang=en&timestamp=1795180523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=728">
-          <img src="https://ytcards.demolab.com/?id=8oTldawPUeY&title=7+Highest+Paying+AI+Jobs+to+Target+in+2027&lang=en&timestamp=1795180523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=728" alt="7 Highest Paying AI Jobs to Target in 2027" title="7 Highest Paying AI Jobs to Target in 2027">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6y8Ew6_ymRk&title=Anthropic+Lost+%24230+Billion+in+Hours+and+the+IPO+Is+Already+a+Total+Sh%2Atshow&lang=en&timestamp=1795188507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1473">
+          <img src="https://ytcards.demolab.com/?id=6y8Ew6_ymRk&title=Anthropic+Lost+%24230+Billion+in+Hours+and+the+IPO+Is+Already+a+Total+Sh%2Atshow&lang=en&timestamp=1795188507&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1473" alt="Anthropic Lost $230 Billion in Hours and the IPO Is Already a Total Sh*tshow" title="Anthropic Lost $230 Billion in Hours and the IPO Is Already a Total Sh*tshow">
         </picture>
       </a>
     </td>
