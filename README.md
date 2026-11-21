@@ -684,56 +684,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rE-sazAVQVU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s0ZfyXYp3Ns" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rE-sazAVQVU&title=Why+AI+engineers+are+scared+of+self-building+artificial+intelligence+%7C+The+Economist&lang=en&timestamp=1795117886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601">
-          <img src="https://ytcards.demolab.com/?id=rE-sazAVQVU&title=Why+AI+engineers+are+scared+of+self-building+artificial+intelligence+%7C+The+Economist&lang=en&timestamp=1795117886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=601" alt="Why AI engineers are scared of self-building artificial intelligence | The Economist" title="Why AI engineers are scared of self-building artificial intelligence | The Economist">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s0ZfyXYp3Ns&title=OpenAI+Just+Revealed+How+Far+AI+Self-Improvement+Has+Gone%E2%80%A6&lang=en&timestamp=1795191323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
+          <img src="https://ytcards.demolab.com/?id=s0ZfyXYp3Ns&title=OpenAI+Just+Revealed+How+Far+AI+Self-Improvement+Has+Gone%E2%80%A6&lang=en&timestamp=1795191323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="OpenAI Just Revealed How Far AI Self-Improvement Has Gone…" title="OpenAI Just Revealed How Far AI Self-Improvement Has Gone…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AaCCIvRtJ5o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lYKW0c-zNQk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AaCCIvRtJ5o&title=A+Global+Crisis%2C+Artificial+Intelligence%2C+and+a+Warning+We+Shouldn%27t+Ignore...+%7C+The+Truth+11-19-26&lang=en&timestamp=1795139486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=880">
-          <img src="https://ytcards.demolab.com/?id=AaCCIvRtJ5o&title=A+Global+Crisis%2C+Artificial+Intelligence%2C+and+a+Warning+We+Shouldn%27t+Ignore...+%7C+The+Truth+11-19-26&lang=en&timestamp=1795139486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=880" alt="A Global Crisis, Artificial Intelligence, and a Warning We Shouldn't Ignore... | The Truth 11-19-26" title="A Global Crisis, Artificial Intelligence, and a Warning We Shouldn't Ignore... | The Truth 11-19-26">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1uT1lAbgaWo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1uT1lAbgaWo&title=Ex-VP+Al+Gore+on+Putin%2C+AI%2C+climate+change+%26+more&lang=en&timestamp=1795121486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1027">
-          <img src="https://ytcards.demolab.com/?id=1uT1lAbgaWo&title=Ex-VP+Al+Gore+on+Putin%2C+AI%2C+climate+change+%26+more&lang=en&timestamp=1795121486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1027" alt="Ex-VP Al Gore on Putin, AI, climate change & more" title="Ex-VP Al Gore on Putin, AI, climate change & more">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Bmby0X7cBa8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Bmby0X7cBa8&title=How+to+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+Artificial+Intelligence&lang=en&timestamp=1795117886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2044">
-          <img src="https://ytcards.demolab.com/?id=Bmby0X7cBa8&title=How+to+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+Artificial+Intelligence&lang=en&timestamp=1795117886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2044" alt="How to ████ ██ Artificial Intelligence" title="How to ████ ██ Artificial Intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FrwAjkqqQU4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FrwAjkqqQU4&title=How+much+do+businesses+want+to+pay+for+AI%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795117886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=782">
-          <img src="https://ytcards.demolab.com/?id=FrwAjkqqQU4&title=How+much+do+businesses+want+to+pay+for+AI%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795117886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=782" alt="How much do businesses want to pay for AI? • FRANCE 24 English" title="How much do businesses want to pay for AI? • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lYKW0c-zNQk&title=Aussie+musicians+unite+against+AI+on+the+2026+ARIA+Awards+red+carpet+%7C+9+News+Australia&lang=en&timestamp=1795162523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=619">
+          <img src="https://ytcards.demolab.com/?id=lYKW0c-zNQk&title=Aussie+musicians+unite+against+AI+on+the+2026+ARIA+Awards+red+carpet+%7C+9+News+Australia&lang=en&timestamp=1795162523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=619" alt="Aussie musicians unite against AI on the 2026 ARIA Awards red carpet | 9 News Australia" title="Aussie musicians unite against AI on the 2026 ARIA Awards red carpet | 9 News Australia">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=NXW-vPOc3SM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795186286&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4672">
-          <img src="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795186286&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4672" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795184123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4672">
+          <img src="https://ytcards.demolab.com/?id=NXW-vPOc3SM&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795184123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4672" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=rfKwIZMZeTk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rfKwIZMZeTk&title=ARTIFICIAL+Official+Trailer+%282027%29+Andrew+Garfield%2C+New+Sci-Fi+Movies+4K&lang=en&timestamp=1795194923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
+          <img src="https://ytcards.demolab.com/?id=rfKwIZMZeTk&title=ARTIFICIAL+Official+Trailer+%282027%29+Andrew+Garfield%2C+New+Sci-Fi+Movies+4K&lang=en&timestamp=1795194923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="ARTIFICIAL Official Trailer (2027) Andrew Garfield, New Sci-Fi Movies 4K" title="ARTIFICIAL Official Trailer (2027) Andrew Garfield, New Sci-Fi Movies 4K">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Y6npte_lEKU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y6npte_lEKU&title=Anthropic+goes+public%2C+ChatGPT+gets+a+wallet+%26+AI+designs+new+drugs&lang=en&timestamp=1795169723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1673">
+          <img src="https://ytcards.demolab.com/?id=Y6npte_lEKU&title=Anthropic+goes+public%2C+ChatGPT+gets+a+wallet+%26+AI+designs+new+drugs&lang=en&timestamp=1795169723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1673" alt="Anthropic goes public, ChatGPT gets a wallet & AI designs new drugs" title="Anthropic goes public, ChatGPT gets a wallet & AI designs new drugs">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=8oTldawPUeY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8oTldawPUeY&title=7+Highest+Paying+AI+Jobs+to+Target+in+2027&lang=en&timestamp=1795180523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=728">
+          <img src="https://ytcards.demolab.com/?id=8oTldawPUeY&title=7+Highest+Paying+AI+Jobs+to+Target+in+2027&lang=en&timestamp=1795180523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=728" alt="7 Highest Paying AI Jobs to Target in 2027" title="7 Highest Paying AI Jobs to Target in 2027">
         </picture>
       </a>
     </td>
