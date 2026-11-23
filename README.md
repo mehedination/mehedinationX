@@ -691,56 +691,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Wq4WK7f35YU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mx0BGzdK0hg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wq4WK7f35YU&title=%F0%9F%9A%A8+LIVE%3A+The+%2412+Trillion+AI+Meltdown+That+Could+Change+Everything%21&lang=en&timestamp=1795362073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3853">
-          <img src="https://ytcards.demolab.com/?id=Wq4WK7f35YU&title=%F0%9F%9A%A8+LIVE%3A+The+%2412+Trillion+AI+Meltdown+That+Could+Change+Everything%21&lang=en&timestamp=1795362073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3853" alt="🚨 LIVE: The $12 Trillion AI Meltdown That Could Change Everything!" title="🚨 LIVE: The $12 Trillion AI Meltdown That Could Change Everything!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mx0BGzdK0hg&title=NVIDIA+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses+2026&lang=en&timestamp=1795424618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
+          <img src="https://ytcards.demolab.com/?id=mx0BGzdK0hg&title=NVIDIA+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses+2026&lang=en&timestamp=1795424618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="NVIDIA Free Artificial Intelligence Certification Course | AI Engineer Courses 2026" title="NVIDIA Free Artificial Intelligence Certification Course | AI Engineer Courses 2026">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=F_EvlmL955Y" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F_EvlmL955Y&title=Explainer+on+Artificial+Intelligence+and+It%27s+Impact+on+Welfare+Provision&lang=en&timestamp=1795457018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=938">
+          <img src="https://ytcards.demolab.com/?id=F_EvlmL955Y&title=Explainer+on+Artificial+Intelligence+and+It%27s+Impact+on+Welfare+Provision&lang=en&timestamp=1795457018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=938" alt="Explainer on Artificial Intelligence and It's Impact on Welfare Provision" title="Explainer on Artificial Intelligence and It's Impact on Welfare Provision">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=xvAOtdSQUR0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795362073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8595">
-          <img src="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795362073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8595" alt="Artificial Intelligence and International Security" title="Artificial Intelligence and International Security">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fvN_vCRuBec" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fvN_vCRuBec&title=%22Where+do+we+go+next%3F%22+Mathematics+after+AI+cracks+the+Riemann+hypothesis+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795358473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=377">
-          <img src="https://ytcards.demolab.com/?id=fvN_vCRuBec&title=%22Where+do+we+go+next%3F%22+Mathematics+after+AI+cracks+the+Riemann+hypothesis+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795358473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=377" alt="&quot;Where do we go next?&quot; Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English" title="&quot;Where do we go next?&quot; Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795381418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8595">
+          <img src="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795381418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8595" alt="Artificial Intelligence and International Security" title="Artificial Intelligence and International Security">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Iubn1aNmDMA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rsUPCzrvj7o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Iubn1aNmDMA&title=South+Korea%3A+AI+cheating+sparks+exam+security+chaos+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795344073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98">
-          <img src="https://ytcards.demolab.com/?id=Iubn1aNmDMA&title=South+Korea%3A+AI+cheating+sparks+exam+security+chaos+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795344073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=98" alt="South Korea: AI cheating sparks exam security chaos • FRANCE 24 English" title="South Korea: AI cheating sparks exam security chaos • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rsUPCzrvj7o&title=A+Second+Look%3A+The+Positives+and+Negatives+of+AI&lang=en&timestamp=1795381418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6243">
+          <img src="https://ytcards.demolab.com/?id=rsUPCzrvj7o&title=A+Second+Look%3A+The+Positives+and+Negatives+of+AI&lang=en&timestamp=1795381418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6243" alt="A Second Look: The Positives and Negatives of AI" title="A Second Look: The Positives and Negatives of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ekVH-9Q94ZA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UyYpwFGeszk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ekVH-9Q94ZA&title=Is+This+The+World%27s+First+Vibe+Coded+AI+Bicycle+Brand%3F+I+Believe+It+Actually+Could+Be%21&lang=en&timestamp=1795358473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4409">
-          <img src="https://ytcards.demolab.com/?id=ekVH-9Q94ZA&title=Is+This+The+World%27s+First+Vibe+Coded+AI+Bicycle+Brand%3F+I+Believe+It+Actually+Could+Be%21&lang=en&timestamp=1795358473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4409" alt="Is This The World's First Vibe Coded AI Bicycle Brand? I Believe It Actually Could Be!" title="Is This The World's First Vibe Coded AI Bicycle Brand? I Believe It Actually Could Be!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+Anti-Aging%2C+3D+Organs+%26+Artificial+Sun%21+%7C+FACTS4U&lang=en&timestamp=1795449818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1270">
+          <img src="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+Anti-Aging%2C+3D+Organs+%26+Artificial+Sun%21+%7C+FACTS4U&lang=en&timestamp=1795449818&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1270" alt="Life in 2050: How AI Will Shape the Future | Anti-Aging, 3D Organs & Artificial Sun! | FACTS4U" title="Life in 2050: How AI Will Shape the Future | Anti-Aging, 3D Organs & Artificial Sun! | FACTS4U">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Nzw_ZAmZNyQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fvN_vCRuBec" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nzw_ZAmZNyQ&title=%F0%9F%9A%A8+LIVE%3A+America%27s+AI+Bubble+Is+BURSTING%E2%80%A6And+China+Is+the+Biggest+Winner&lang=en&timestamp=1795362073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4041">
-          <img src="https://ytcards.demolab.com/?id=Nzw_ZAmZNyQ&title=%F0%9F%9A%A8+LIVE%3A+America%27s+AI+Bubble+Is+BURSTING%E2%80%A6And+China+Is+the+Biggest+Winner&lang=en&timestamp=1795362073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4041" alt="🚨 LIVE: America's AI Bubble Is BURSTING…And China Is the Biggest Winner" title="🚨 LIVE: America's AI Bubble Is BURSTING…And China Is the Biggest Winner">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fvN_vCRuBec&title=%27Where+do+we+go+next%3F%27+Mathematics+after+AI+cracks+the+Riemann+hypothesis+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795381418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=377">
+          <img src="https://ytcards.demolab.com/?id=fvN_vCRuBec&title=%27Where+do+we+go+next%3F%27+Mathematics+after+AI+cracks+the+Riemann+hypothesis+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795381418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=377" alt="'Where do we go next?' Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English" title="'Where do we go next?' Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English">
         </picture>
       </a>
     </td>
