@@ -692,56 +692,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mx0BGzdK0hg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qgL_IbP2qKg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mx0BGzdK0hg&title=NVIDIA+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses+2026&lang=en&timestamp=1795424618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
-          <img src="https://ytcards.demolab.com/?id=mx0BGzdK0hg&title=NVIDIA+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses+2026&lang=en&timestamp=1795424618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="NVIDIA Free Artificial Intelligence Certification Course | AI Engineer Courses 2026" title="NVIDIA Free Artificial Intelligence Certification Course | AI Engineer Courses 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795495730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1315">
+          <img src="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795495730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1315" alt="OpenAI insider: An AI accident is the most likely way people will die" title="OpenAI insider: An AI accident is the most likely way people will die">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F_EvlmL955Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kD7j3M_TQW0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F_EvlmL955Y&title=Explainer+on+Artificial+Intelligence+and+It%27s+Impact+on+Welfare+Provision&lang=en&timestamp=1795457018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=938">
-          <img src="https://ytcards.demolab.com/?id=F_EvlmL955Y&title=Explainer+on+Artificial+Intelligence+and+It%27s+Impact+on+Welfare+Provision&lang=en&timestamp=1795457018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=938" alt="Explainer on Artificial Intelligence and It's Impact on Welfare Provision" title="Explainer on Artificial Intelligence and It's Impact on Welfare Provision">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795488530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
+          <img src="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795488530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now" title="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xvAOtdSQUR0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=atwnkFRcB4g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795381418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8595">
-          <img src="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795381418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8595" alt="Artificial Intelligence and International Security" title="Artificial Intelligence and International Security">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795452530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
+          <img src="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795452530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="Even AI Sceptics Are Changing Their Forecasts" title="Even AI Sceptics Are Changing Their Forecasts">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rsUPCzrvj7o" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rsUPCzrvj7o&title=A+Second+Look%3A+The+Positives+and+Negatives+of+AI&lang=en&timestamp=1795381418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6243">
-          <img src="https://ytcards.demolab.com/?id=rsUPCzrvj7o&title=A+Second+Look%3A+The+Positives+and+Negatives+of+AI&lang=en&timestamp=1795381418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6243" alt="A Second Look: The Positives and Negatives of AI" title="A Second Look: The Positives and Negatives of AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=UyYpwFGeszk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+Anti-Aging%2C+3D+Organs+%26+Artificial+Sun%21+%7C+FACTS4U&lang=en&timestamp=1795449818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1270">
-          <img src="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+Anti-Aging%2C+3D+Organs+%26+Artificial+Sun%21+%7C+FACTS4U&lang=en&timestamp=1795449818&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1270" alt="Life in 2050: How AI Will Shape the Future | Anti-Aging, 3D Organs & Artificial Sun! | FACTS4U" title="Life in 2050: How AI Will Shape the Future | Anti-Aging, 3D Organs & Artificial Sun! | FACTS4U">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+FACTS4U&lang=en&timestamp=1795448930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1270">
+          <img src="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+FACTS4U&lang=en&timestamp=1795448930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1270" alt="Life in 2050: How AI Will Shape the Future | FACTS4U" title="Life in 2050: How AI Will Shape the Future | FACTS4U">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fvN_vCRuBec" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mqnR_11YRaA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fvN_vCRuBec&title=%27Where+do+we+go+next%3F%27+Mathematics+after+AI+cracks+the+Riemann+hypothesis+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795381418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=377">
-          <img src="https://ytcards.demolab.com/?id=fvN_vCRuBec&title=%27Where+do+we+go+next%3F%27+Mathematics+after+AI+cracks+the+Riemann+hypothesis+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795381418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=377" alt="'Where do we go next?' Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English" title="'Where do we go next?' Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795474130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2935">
+          <img src="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795474130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2935" alt="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner" title="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=h4tHDFCPmQE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h4tHDFCPmQE&title=Vibe+Coding+vs.+Agentic+Coding%3A+Which+Should+You+Use%3F&lang=en&timestamp=1795438130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=517">
+          <img src="https://ytcards.demolab.com/?id=h4tHDFCPmQE&title=Vibe+Coding+vs.+Agentic+Coding%3A+Which+Should+You+Use%3F&lang=en&timestamp=1795438130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=517" alt="Vibe Coding vs. Agentic Coding: Which Should You Use?" title="Vibe Coding vs. Agentic Coding: Which Should You Use?">
         </picture>
       </a>
     </td>
