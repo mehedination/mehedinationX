@@ -693,56 +693,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=qgL_IbP2qKg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795495730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1315">
-          <img src="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795495730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1315" alt="OpenAI insider: An AI accident is the most likely way people will die" title="OpenAI insider: An AI accident is the most likely way people will die">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795494065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1315">
+          <img src="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795494065&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1315" alt="OpenAI insider: An AI accident is the most likely way people will die" title="OpenAI insider: An AI accident is the most likely way people will die">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=kD7j3M_TQW0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795488530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
-          <img src="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795488530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now" title="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
+          <img src="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now" title="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=atwnkFRcB4g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795452530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
-          <img src="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795452530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="Even AI Sceptics Are Changing Their Forecasts" title="Even AI Sceptics Are Changing Their Forecasts">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795454465&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
+          <img src="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795454465&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="Even AI Sceptics Are Changing Their Forecasts" title="Even AI Sceptics Are Changing Their Forecasts">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UyYpwFGeszk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Hw9mpSP2grY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+FACTS4U&lang=en&timestamp=1795448930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1270">
-          <img src="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+FACTS4U&lang=en&timestamp=1795448930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1270" alt="Life in 2050: How AI Will Shape the Future | FACTS4U" title="Life in 2050: How AI Will Shape the Future | FACTS4U">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=Claude+Just+Cracked+the+Riemann+Hypothesis&lang=en&timestamp=1795461665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=604">
+          <img src="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=Claude+Just+Cracked+the+Riemann+Hypothesis&lang=en&timestamp=1795461665&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=604" alt="Claude Just Cracked the Riemann Hypothesis" title="Claude Just Cracked the Riemann Hypothesis">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=XAPU5ckeM70" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XAPU5ckeM70&title=How+NVIDIA+Is+Shaping+the+Future+of+Artificial+Intelligence&lang=en&timestamp=1795522865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=686">
+          <img src="https://ytcards.demolab.com/?id=XAPU5ckeM70&title=How+NVIDIA+Is+Shaping+the+Future+of+Artificial+Intelligence&lang=en&timestamp=1795522865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=686" alt="How NVIDIA Is Shaping the Future of Artificial Intelligence" title="How NVIDIA Is Shaping the Future of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=mqnR_11YRaA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795474130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2935">
-          <img src="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795474130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2935" alt="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner" title="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=h4tHDFCPmQE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h4tHDFCPmQE&title=Vibe+Coding+vs.+Agentic+Coding%3A+Which+Should+You+Use%3F&lang=en&timestamp=1795438130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=517">
-          <img src="https://ytcards.demolab.com/?id=h4tHDFCPmQE&title=Vibe+Coding+vs.+Agentic+Coding%3A+Which+Should+You+Use%3F&lang=en&timestamp=1795438130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=517" alt="Vibe Coding vs. Agentic Coding: Which Should You Use?" title="Vibe Coding vs. Agentic Coding: Which Should You Use?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Liquidity+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795476065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2935">
+          <img src="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Liquidity+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795476065&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2935" alt="Liquidity Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner" title="Liquidity Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner">
         </picture>
       </a>
     </td>
