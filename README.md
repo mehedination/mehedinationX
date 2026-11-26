@@ -694,56 +694,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qgL_IbP2qKg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=y4zmKyy-MHM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795494065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1315">
-          <img src="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795494065&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1315" alt="OpenAI insider: An AI accident is the most likely way people will die" title="OpenAI insider: An AI accident is the most likely way people will die">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y4zmKyy-MHM&title=Billionaire+Peter+Thiel+Buys+%24122+Million+In+Palantir+Shares+Amid+AI+Stock+Turmoil&lang=en&timestamp=1795625380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
+          <img src="https://ytcards.demolab.com/?id=y4zmKyy-MHM&title=Billionaire+Peter+Thiel+Buys+%24122+Million+In+Palantir+Shares+Amid+AI+Stock+Turmoil&lang=en&timestamp=1795625380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="Billionaire Peter Thiel Buys $122 Million In Palantir Shares Amid AI Stock Turmoil" title="Billionaire Peter Thiel Buys $122 Million In Palantir Shares Amid AI Stock Turmoil">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kD7j3M_TQW0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=10MR0v87I2k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
-          <img src="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now" title="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=10MR0v87I2k&title=Artificial+intelligence+will+play+a+larger+part+in+Black+Friday+deals+this+year&lang=en&timestamp=1795621780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=122">
+          <img src="https://ytcards.demolab.com/?id=10MR0v87I2k&title=Artificial+intelligence+will+play+a+larger+part+in+Black+Friday+deals+this+year&lang=en&timestamp=1795621780&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=122" alt="Artificial intelligence will play a larger part in Black Friday deals this year" title="Artificial intelligence will play a larger part in Black Friday deals this year">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=atwnkFRcB4g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hKT3D85aNL8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795454465&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
-          <img src="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795454465&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="Even AI Sceptics Are Changing Their Forecasts" title="Even AI Sceptics Are Changing Their Forecasts">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795596580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2552">
+          <img src="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795596580&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2552" alt="Artificial Intelligence Nears Takeover" title="Artificial Intelligence Nears Takeover">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hw9mpSP2grY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TqHbwtXpKPY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=Claude+Just+Cracked+the+Riemann+Hypothesis&lang=en&timestamp=1795461665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=604">
-          <img src="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=Claude+Just+Cracked+the+Riemann+Hypothesis&lang=en&timestamp=1795461665&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=604" alt="Claude Just Cracked the Riemann Hypothesis" title="Claude Just Cracked the Riemann Hypothesis">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TqHbwtXpKPY&title=The+Revenge+of+the+Idea+Guys&lang=en&timestamp=1795625380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=417">
+          <img src="https://ytcards.demolab.com/?id=TqHbwtXpKPY&title=The+Revenge+of+the+Idea+Guys&lang=en&timestamp=1795625380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=417" alt="The Revenge of the Idea Guys" title="The Revenge of the Idea Guys">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XAPU5ckeM70" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4hPRHFTY08I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XAPU5ckeM70&title=How+NVIDIA+Is+Shaping+the+Future+of+Artificial+Intelligence&lang=en&timestamp=1795522865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=686">
-          <img src="https://ytcards.demolab.com/?id=XAPU5ckeM70&title=How+NVIDIA+Is+Shaping+the+Future+of+Artificial+Intelligence&lang=en&timestamp=1795522865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=686" alt="How NVIDIA Is Shaping the Future of Artificial Intelligence" title="How NVIDIA Is Shaping the Future of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795618180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1056">
+          <img src="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795618180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1056" alt="AI Is Speedrunning India's Economic Demise" title="AI Is Speedrunning India's Economic Demise">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mqnR_11YRaA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2unms176JzE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Liquidity+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795476065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2935">
-          <img src="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Liquidity+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795476065&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2935" alt="Liquidity Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner" title="Liquidity Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2unms176JzE&title=The+Faustian+Bargain+of+AI+%7C+Malcolm+Guite%3A&lang=en&timestamp=1795628980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=554">
+          <img src="https://ytcards.demolab.com/?id=2unms176JzE&title=The+Faustian+Bargain+of+AI+%7C+Malcolm+Guite%3A&lang=en&timestamp=1795628980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=554" alt="The Faustian Bargain of AI | Malcolm Guite:" title="The Faustian Bargain of AI | Malcolm Guite:">
         </picture>
       </a>
     </td>
