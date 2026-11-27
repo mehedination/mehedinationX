@@ -695,56 +695,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=y4zmKyy-MHM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_iTbNy5aOR0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y4zmKyy-MHM&title=Billionaire+Peter+Thiel+Buys+%24122+Million+In+Palantir+Shares+Amid+AI+Stock+Turmoil&lang=en&timestamp=1795625380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
-          <img src="https://ytcards.demolab.com/?id=y4zmKyy-MHM&title=Billionaire+Peter+Thiel+Buys+%24122+Million+In+Palantir+Shares+Amid+AI+Stock+Turmoil&lang=en&timestamp=1795625380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="Billionaire Peter Thiel Buys $122 Million In Palantir Shares Amid AI Stock Turmoil" title="Billionaire Peter Thiel Buys $122 Million In Palantir Shares Amid AI Stock Turmoil">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_iTbNy5aOR0&title=AI+Agent+Architecture%3A+Where+Does+Your+Agent+Actually+Run%3F&lang=en&timestamp=1795697219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
+          <img src="https://ytcards.demolab.com/?id=_iTbNy5aOR0&title=AI+Agent+Architecture%3A+Where+Does+Your+Agent+Actually+Run%3F&lang=en&timestamp=1795697219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="AI Agent Architecture: Where Does Your Agent Actually Run?" title="AI Agent Architecture: Where Does Your Agent Actually Run?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=10MR0v87I2k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=17VYhOrgKSM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=10MR0v87I2k&title=Artificial+intelligence+will+play+a+larger+part+in+Black+Friday+deals+this+year&lang=en&timestamp=1795621780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=122">
-          <img src="https://ytcards.demolab.com/?id=10MR0v87I2k&title=Artificial+intelligence+will+play+a+larger+part+in+Black+Friday+deals+this+year&lang=en&timestamp=1795621780&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=122" alt="Artificial intelligence will play a larger part in Black Friday deals this year" title="Artificial intelligence will play a larger part in Black Friday deals this year">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=17VYhOrgKSM&title=How+Agentic+AI+Is+Transforming+Telecom+Networks+%7C+Orange+OpenTech+2026&lang=en&timestamp=1795686419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3473">
+          <img src="https://ytcards.demolab.com/?id=17VYhOrgKSM&title=How+Agentic+AI+Is+Transforming+Telecom+Networks+%7C+Orange+OpenTech+2026&lang=en&timestamp=1795686419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3473" alt="How Agentic AI Is Transforming Telecom Networks | Orange OpenTech 2026" title="How Agentic AI Is Transforming Telecom Networks | Orange OpenTech 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hKT3D85aNL8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-zq68vMFG9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795596580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2552">
-          <img src="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795596580&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2552" alt="Artificial Intelligence Nears Takeover" title="Artificial Intelligence Nears Takeover">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-zq68vMFG9A&title=Artificial+Intelligence%3A+Bridging+or+Widening+the+Wealth+Gap%3F&lang=en&timestamp=1795754819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=441">
+          <img src="https://ytcards.demolab.com/?id=-zq68vMFG9A&title=Artificial+Intelligence%3A+Bridging+or+Widening+the+Wealth+Gap%3F&lang=en&timestamp=1795754819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=441" alt="Artificial Intelligence: Bridging or Widening the Wealth Gap?" title="Artificial Intelligence: Bridging or Widening the Wealth Gap?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TqHbwtXpKPY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6sQn5VsSQv4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TqHbwtXpKPY&title=The+Revenge+of+the+Idea+Guys&lang=en&timestamp=1795625380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=417">
-          <img src="https://ytcards.demolab.com/?id=TqHbwtXpKPY&title=The+Revenge+of+the+Idea+Guys&lang=en&timestamp=1795625380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=417" alt="The Revenge of the Idea Guys" title="The Revenge of the Idea Guys">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6sQn5VsSQv4&title=AI+From+Scratch+for+Beginners+2026+%7C+Learn+Artificial+Intelligence+A+to+Z+%E2%80%93+Part+1&lang=en&timestamp=1795708019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29609">
+          <img src="https://ytcards.demolab.com/?id=6sQn5VsSQv4&title=AI+From+Scratch+for+Beginners+2026+%7C+Learn+Artificial+Intelligence+A+to+Z+%E2%80%93+Part+1&lang=en&timestamp=1795708019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29609" alt="AI From Scratch for Beginners 2026 | Learn Artificial Intelligence A to Z – Part 1" title="AI From Scratch for Beginners 2026 | Learn Artificial Intelligence A to Z – Part 1">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4hPRHFTY08I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KTyN3mjh8l4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795618180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1056">
-          <img src="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795618180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1056" alt="AI Is Speedrunning India's Economic Demise" title="AI Is Speedrunning India's Economic Demise">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795722419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=392">
+          <img src="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795722419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=392" alt="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)" title="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2unms176JzE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dNjSTTWaarc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2unms176JzE&title=The+Faustian+Bargain+of+AI+%7C+Malcolm+Guite%3A&lang=en&timestamp=1795628980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=554">
-          <img src="https://ytcards.demolab.com/?id=2unms176JzE&title=The+Faustian+Bargain+of+AI+%7C+Malcolm+Guite%3A&lang=en&timestamp=1795628980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=554" alt="The Faustian Bargain of AI | Malcolm Guite:" title="The Faustian Bargain of AI | Malcolm Guite:">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dNjSTTWaarc&title=Session+4.1+-+How+artificial+intelligence+agents+are+reinventing+business&lang=en&timestamp=1795722419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3806">
+          <img src="https://ytcards.demolab.com/?id=dNjSTTWaarc&title=Session+4.1+-+How+artificial+intelligence+agents+are+reinventing+business&lang=en&timestamp=1795722419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3806" alt="Session 4.1 - How artificial intelligence agents are reinventing business" title="Session 4.1 - How artificial intelligence agents are reinventing business">
         </picture>
       </a>
     </td>
