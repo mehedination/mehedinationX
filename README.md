@@ -696,56 +696,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_iTbNy5aOR0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=r1aEPmGqQrs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_iTbNy5aOR0&title=AI+Agent+Architecture%3A+Where+Does+Your+Agent+Actually+Run%3F&lang=en&timestamp=1795697219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
-          <img src="https://ytcards.demolab.com/?id=_iTbNy5aOR0&title=AI+Agent+Architecture%3A+Where+Does+Your+Agent+Actually+Run%3F&lang=en&timestamp=1795697219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="AI Agent Architecture: Where Does Your Agent Actually Run?" title="AI Agent Architecture: Where Does Your Agent Actually Run?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic%E2%80%99s+AI+Is+Starting+to+Scare+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1795715980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
+          <img src="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic%E2%80%99s+AI+Is+Starting+to+Scare+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1795715980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="Anthropic’s AI Is Starting to Scare Its Own Researchers…" title="Anthropic’s AI Is Starting to Scare Its Own Researchers…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=17VYhOrgKSM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d5pbml1ynxs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=17VYhOrgKSM&title=How+Agentic+AI+Is+Transforming+Telecom+Networks+%7C+Orange+OpenTech+2026&lang=en&timestamp=1795686419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3473">
-          <img src="https://ytcards.demolab.com/?id=17VYhOrgKSM&title=How+Agentic+AI+Is+Transforming+Telecom+Networks+%7C+Orange+OpenTech+2026&lang=en&timestamp=1795686419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3473" alt="How Agentic AI Is Transforming Telecom Networks | Orange OpenTech 2026" title="How Agentic AI Is Transforming Telecom Networks | Orange OpenTech 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d5pbml1ynxs&title=Anthropic+Just+Fired+Back+At+OpenAI...+And+Exposed+The+Lie+Every+AI+Lab+Is+Telling&lang=en&timestamp=1795741180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
+          <img src="https://ytcards.demolab.com/?id=d5pbml1ynxs&title=Anthropic+Just+Fired+Back+At+OpenAI...+And+Exposed+The+Lie+Every+AI+Lab+Is+Telling&lang=en&timestamp=1795741180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="Anthropic Just Fired Back At OpenAI... And Exposed The Lie Every AI Lab Is Telling" title="Anthropic Just Fired Back At OpenAI... And Exposed The Lie Every AI Lab Is Telling">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-zq68vMFG9A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_K_eWWQuFBo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-zq68vMFG9A&title=Artificial+Intelligence%3A+Bridging+or+Widening+the+Wealth+Gap%3F&lang=en&timestamp=1795754819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=441">
-          <img src="https://ytcards.demolab.com/?id=-zq68vMFG9A&title=Artificial+Intelligence%3A+Bridging+or+Widening+the+Wealth+Gap%3F&lang=en&timestamp=1795754819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=441" alt="Artificial Intelligence: Bridging or Widening the Wealth Gap?" title="Artificial Intelligence: Bridging or Widening the Wealth Gap?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_K_eWWQuFBo&title=Michael+Walker+Meets%3A+The+AI+DOOMERS&lang=en&timestamp=1795715980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=639">
+          <img src="https://ytcards.demolab.com/?id=_K_eWWQuFBo&title=Michael+Walker+Meets%3A+The+AI+DOOMERS&lang=en&timestamp=1795715980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=639" alt="Michael Walker Meets: The AI DOOMERS" title="Michael Walker Meets: The AI DOOMERS">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6sQn5VsSQv4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6sQn5VsSQv4&title=AI+From+Scratch+for+Beginners+2026+%7C+Learn+Artificial+Intelligence+A+to+Z+%E2%80%93+Part+1&lang=en&timestamp=1795708019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29609">
-          <img src="https://ytcards.demolab.com/?id=6sQn5VsSQv4&title=AI+From+Scratch+for+Beginners+2026+%7C+Learn+Artificial+Intelligence+A+to+Z+%E2%80%93+Part+1&lang=en&timestamp=1795708019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29609" alt="AI From Scratch for Beginners 2026 | Learn Artificial Intelligence A to Z – Part 1" title="AI From Scratch for Beginners 2026 | Learn Artificial Intelligence A to Z – Part 1">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=KTyN3mjh8l4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795722419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=392">
-          <img src="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795722419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=392" alt="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)" title="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795723180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=392">
+          <img src="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795723180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=392" alt="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)" title="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dNjSTTWaarc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vRB_KivNUmI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dNjSTTWaarc&title=Session+4.1+-+How+artificial+intelligence+agents+are+reinventing+business&lang=en&timestamp=1795722419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3806">
-          <img src="https://ytcards.demolab.com/?id=dNjSTTWaarc&title=Session+4.1+-+How+artificial+intelligence+agents+are+reinventing+business&lang=en&timestamp=1795722419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3806" alt="Session 4.1 - How artificial intelligence agents are reinventing business" title="Session 4.1 - How artificial intelligence agents are reinventing business">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vRB_KivNUmI&title=They+Can+Read+Your+Minds+Now.&lang=en&timestamp=1795723180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=871">
+          <img src="https://ytcards.demolab.com/?id=vRB_KivNUmI&title=They+Can+Read+Your+Minds+Now.&lang=en&timestamp=1795723180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=871" alt="They Can Read Your Minds Now." title="They Can Read Your Minds Now.">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=47aOwiqwRPs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=47aOwiqwRPs&title=Scary+Signs+Artificial+Intelligence+Is+Advancing+Faster+Than+We+Can+Control&lang=en&timestamp=1795741180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7061">
+          <img src="https://ytcards.demolab.com/?id=47aOwiqwRPs&title=Scary+Signs+Artificial+Intelligence+Is+Advancing+Faster+Than+We+Can+Control&lang=en&timestamp=1795741180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7061" alt="Scary Signs Artificial Intelligence Is Advancing Faster Than We Can Control" title="Scary Signs Artificial Intelligence Is Advancing Faster Than We Can Control">
         </picture>
       </a>
     </td>
