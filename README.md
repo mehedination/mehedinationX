@@ -697,56 +697,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=r1aEPmGqQrs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5PBGnASz_DQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic%E2%80%99s+AI+Is+Starting+to+Scare+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1795715980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
-          <img src="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic%E2%80%99s+AI+Is+Starting+to+Scare+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1795715980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="Anthropic’s AI Is Starting to Scare Its Own Researchers…" title="Anthropic’s AI Is Starting to Scare Its Own Researchers…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5PBGnASz_DQ&title=The+AI+Singularity+May+Have+Already+Started%E2%80%A6&lang=en&timestamp=1795793017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
+          <img src="https://ytcards.demolab.com/?id=5PBGnASz_DQ&title=The+AI+Singularity+May+Have+Already+Started%E2%80%A6&lang=en&timestamp=1795793017&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="The AI Singularity May Have Already Started…" title="The AI Singularity May Have Already Started…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d5pbml1ynxs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=upuQx3Vwyj8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d5pbml1ynxs&title=Anthropic+Just+Fired+Back+At+OpenAI...+And+Exposed+The+Lie+Every+AI+Lab+Is+Telling&lang=en&timestamp=1795741180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
-          <img src="https://ytcards.demolab.com/?id=d5pbml1ynxs&title=Anthropic+Just+Fired+Back+At+OpenAI...+And+Exposed+The+Lie+Every+AI+Lab+Is+Telling&lang=en&timestamp=1795741180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="Anthropic Just Fired Back At OpenAI... And Exposed The Lie Every AI Lab Is Telling" title="Anthropic Just Fired Back At OpenAI... And Exposed The Lie Every AI Lab Is Telling">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=upuQx3Vwyj8&title=The+AI+Revolution%3A+What+Happens+When+Intelligence+Becomes+Abundant%3F+Gerd+Leonhard+Keynote+in+Sofia+&lang=en&timestamp=1795775017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2766">
+          <img src="https://ytcards.demolab.com/?id=upuQx3Vwyj8&title=The+AI+Revolution%3A+What+Happens+When+Intelligence+Becomes+Abundant%3F+Gerd+Leonhard+Keynote+in+Sofia+&lang=en&timestamp=1795775017&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2766" alt="The AI Revolution: What Happens When Intelligence Becomes Abundant? Gerd Leonhard Keynote in Sofia " title="The AI Revolution: What Happens When Intelligence Becomes Abundant? Gerd Leonhard Keynote in Sofia ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_K_eWWQuFBo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VHsi0G2g4GY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_K_eWWQuFBo&title=Michael+Walker+Meets%3A+The+AI+DOOMERS&lang=en&timestamp=1795715980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=639">
-          <img src="https://ytcards.demolab.com/?id=_K_eWWQuFBo&title=Michael+Walker+Meets%3A+The+AI+DOOMERS&lang=en&timestamp=1795715980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=639" alt="Michael Walker Meets: The AI DOOMERS" title="Michael Walker Meets: The AI DOOMERS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VHsi0G2g4GY&title=AI+Summits+The+Mount+Everest+Of+Math+%7C+World+Science+Festival&lang=en&timestamp=1795825417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2419">
+          <img src="https://ytcards.demolab.com/?id=VHsi0G2g4GY&title=AI+Summits+The+Mount+Everest+Of+Math+%7C+World+Science+Festival&lang=en&timestamp=1795825417&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2419" alt="AI Summits The Mount Everest Of Math | World Science Festival" title="AI Summits The Mount Everest Of Math | World Science Festival">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KTyN3mjh8l4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aFcLFCuo4WA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795723180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=392">
-          <img src="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795723180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=392" alt="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)" title="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aFcLFCuo4WA&title=The+Pope+Says+AI+Won%27t+Save+You&lang=en&timestamp=1795796617&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=626">
+          <img src="https://ytcards.demolab.com/?id=aFcLFCuo4WA&title=The+Pope+Says+AI+Won%27t+Save+You&lang=en&timestamp=1795796617&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=626" alt="The Pope Says AI Won't Save You" title="The Pope Says AI Won't Save You">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vRB_KivNUmI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LH2AmO7PYfI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vRB_KivNUmI&title=They+Can+Read+Your+Minds+Now.&lang=en&timestamp=1795723180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=871">
-          <img src="https://ytcards.demolab.com/?id=vRB_KivNUmI&title=They+Can+Read+Your+Minds+Now.&lang=en&timestamp=1795723180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=871" alt="They Can Read Your Minds Now." title="They Can Read Your Minds Now.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LH2AmO7PYfI&title=AI+Agents+Can+HACK+U.S.+Military+Systems+%26+Trigger+a+Nuclear+War%3F%21&lang=en&timestamp=1795789417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1236">
+          <img src="https://ytcards.demolab.com/?id=LH2AmO7PYfI&title=AI+Agents+Can+HACK+U.S.+Military+Systems+%26+Trigger+a+Nuclear+War%3F%21&lang=en&timestamp=1795789417&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1236" alt="AI Agents Can HACK U.S. Military Systems & Trigger a Nuclear War?!" title="AI Agents Can HACK U.S. Military Systems & Trigger a Nuclear War?!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=47aOwiqwRPs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gTfN7sM_iVc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=47aOwiqwRPs&title=Scary+Signs+Artificial+Intelligence+Is+Advancing+Faster+Than+We+Can+Control&lang=en&timestamp=1795741180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7061">
-          <img src="https://ytcards.demolab.com/?id=47aOwiqwRPs&title=Scary+Signs+Artificial+Intelligence+Is+Advancing+Faster+Than+We+Can+Control&lang=en&timestamp=1795741180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7061" alt="Scary Signs Artificial Intelligence Is Advancing Faster Than We Can Control" title="Scary Signs Artificial Intelligence Is Advancing Faster Than We Can Control">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gTfN7sM_iVc&title=ARTIFICIAL+INTELLIGENCE+-+PROOF+THE+KINGDOM+AGE+IS+NEAR&lang=en&timestamp=1795821817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2370">
+          <img src="https://ytcards.demolab.com/?id=gTfN7sM_iVc&title=ARTIFICIAL+INTELLIGENCE+-+PROOF+THE+KINGDOM+AGE+IS+NEAR&lang=en&timestamp=1795821817&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2370" alt="ARTIFICIAL INTELLIGENCE - PROOF THE KINGDOM AGE IS NEAR" title="ARTIFICIAL INTELLIGENCE - PROOF THE KINGDOM AGE IS NEAR">
         </picture>
       </a>
     </td>
